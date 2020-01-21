@@ -8,35 +8,35 @@ permalink: /talks-and-panels/
 
 ### **<u>Talks</u>** 
 
-***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks***<br/>
+***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS’19, DC - June 2019.
 
-***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** <br/>
-&emsp; PhD dissertation defense, Columbia University, NY - May 2019.
+***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
+&emsp; PhD dissertation defense, Columbia University, NY - May 2019. 
 
 ***The Age of Cryptocurrencies: Bitcoin and Sisters***<br/>
 &emsp; University of Colorado Colorado Springs, Colorado Springs, CO - Mar 2018 and Apr 2019.<br/>
 &emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2017.<br/>
 &emsp; Columbia University, NY - Dec 2017.
 
-***Threat Modeling for Cryptocurrency-based Systems***<br/>
-&emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2018.
+***Threat Modeling for Cryptocurrency-based Systems*** &emsp; [_Slides_](../slides/threat-modeling-for-cryptocurrency-based-systems.pdf)<br/>
+&emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2018. 
 
-***Resource-backed Cryptocurrencies***<br/>
+***Resource-backed Cryptocurrencies*** &emsp; [_Slides_](../slides/resource-backed-cryptocurrencies-talk.pdf)<br/>
 &emsp; Association of Women in Math (AWM) Talk Series, Columbia University, NY - Nov 2018.<br/>
 &emsp; Emerging Scholars Program Seminar, Columbia University, NY - Dec 2017.
 
-***Sensible Cryptocurrencies*** <br/>
+***Sensible Cryptocurrencies*** &emsp; [_Slides_](../slides/sensible-cryptocurrencies-talk.pdf)<br/>
 &emsp; PhD Candidacy Exam Talk, Columbia University, NY - Nov 2017.
 
-***Cryptocurrency Era”***<br/>
-&emsp; Fordham University, New York, NY - Jun 2017.
+***Cryptocurrency Era***<br/>
+&emsp; Fordham University, New York, NY - Jun 2017. 
 
 ***Bitcoin***<br/>
 &emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2015. 
 
-***Digital Currencies***<br/>
-&emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - Jul 2015. <br/><br/> 
+***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
+&emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - Jul 2015.<br/><br/> 
 
 
 ### **<u>Panels</u>**
