@@ -1,0 +1,44 @@
+---
+layout: page
+title: Talks and Panels
+permalink: /talks-and-panels/
+---
+
+## Talks and Panels
+
+### **<u>Talks</u>** 
+
+***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks***<br/>
+&emsp; IEEE CNS’19, DC - June 2019.
+
+***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** <br/>
+&emsp; PhD dissertation defense, Columbia University, NY - May 2019.
+
+***The Age of Cryptocurrencies: Bitcoin and Sisters***<br/>
+&emsp; University of Colorado Colorado Springs, Colorado Springs, CO - Mar 2018 and Apr 2019.<br/>
+&emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2017.<br/>
+&emsp; Columbia University, NY - Dec 2017.
+
+***Threat Modeling for Cryptocurrency-based Systems***<br/>
+&emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2018.
+
+***Resource-backed Cryptocurrencies***<br/>
+&emsp; Association of Women in Math (AWM) Talk Series, Columbia University, NY - Nov 2018.<br/>
+&emsp; Emerging Scholars Program Seminar, Columbia University, NY - Dec 2017.
+
+***Sensible Cryptocurrencies*** <br/>
+&emsp; PhD Candidacy Exam Talk, Columbia University, NY - Nov 2017.
+
+***Cryptocurrency Era”***<br/>
+&emsp; Fordham University, New York, NY - Jun 2017.
+
+***Bitcoin***<br/>
+&emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2015. 
+
+***Digital Currencies***<br/>
+&emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - Jul 2015. <br/><br/> 
+
+
+### **<u>Panels</u>**
+***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
+
