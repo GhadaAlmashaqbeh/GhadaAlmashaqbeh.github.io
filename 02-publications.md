@@ -13,11 +13,11 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 #### **Blockchain/Cryptocurrency and Distributed Systems** 
     
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://fc20.ifca.ai/preproceedings/38.pdf)To appear in Financial Cryptography and Data Security (FC), 2020.<br/>
-  [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](slides/microcash-fc-2020)
+  [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)
 * Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. ["CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks."](https://ieeexplore.ieee.org/document/8802825) In IEEE Conference on Communications and Network Security (CNS), 2019. <br/>
-  [Full version](https://arxiv.org/abs/1906.10272) &emsp; [Slides](slides/capnet-cns-2019)
+  [Full version](https://arxiv.org/abs/1906.10272) &emsp; [Slides](../slides/capnet-cns-2019.pdf)
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["ABC: A Cryptocurrency-Focused Threat Modeling Framework."](https://ieeexplore.ieee.org/document/8845101) In IEEE INFOCOM Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock), 2019. <span style="color: red;">_Best Paper Award._</span> <br/> 
-  [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](slides/abc-cryblock-2019)
+  [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf)
 
 
 #### **Privacy Preserving Computing** 
