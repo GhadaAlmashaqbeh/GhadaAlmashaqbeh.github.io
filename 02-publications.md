@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-## Publications
-_Selected set, check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete list_<br/>
+## Selected Publications
+_Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete list._<br/>
 
 #### **Thesis**
 Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network."](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57) PhD thesis, Columbia University, 2019.
