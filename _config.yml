@@ -1,7 +1,7 @@
 title: 'Ghada Almashaqbeh'
 email: ghada at cs.columbia.edu
 description: “In theory, theory and practice are the same. In practice, they are not.” - Albert Einstein
-url: "http://ghadaalmashaqbeh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.ghadaalmashaqbeh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
