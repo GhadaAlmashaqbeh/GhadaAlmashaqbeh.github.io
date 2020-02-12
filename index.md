@@ -11,4 +11,4 @@ I received my PhD in Computer Science from Columbia University in Spring 2019. I
 
 My research interests cover cryptography, security, privacy, and distributed systems. More information about my research work can be found [here](/research/). 
 
-Before joining NuCypher, I was a Research Scientist at [CacheCash](https://cachecash.com), a new startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work of my PhD thesis.
+Before joining NuCypher, I was a Research Scientist at [CacheCash](https://cachecash.com), a startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work of my PhD thesis.
