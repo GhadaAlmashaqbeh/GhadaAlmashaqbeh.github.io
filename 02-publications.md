@@ -12,7 +12,7 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 
 #### **Blockchain/Cryptocurrency and Distributed Systems** 
     
-* Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://fc20.ifca.ai/preproceedings/38.pdf)To appear in Financial Cryptography and Data Security (FC), 2020.<br/>
+* Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://fc20.ifca.ai/preproceedings/38.pdf) In Financial Cryptography and Data Security (FC), 2020.<br/>
   [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)
 * Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. ["CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks."](https://ieeexplore.ieee.org/document/8802825) In IEEE Conference on Communications and Network Security (CNS), 2019. <br/>
   [Full version](https://arxiv.org/abs/1906.10272) &emsp; [Slides](../slides/capnet-cns-2019.pdf)
@@ -32,6 +32,6 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 * Thaier Hayajneh, Bassam Mohd, Muhammad Imran, Ghada Almashaqbeh, and Athanasios Vasilakos. ["Secure Authentication for Remote Patient Monitoring with Wireless Medical Sensor Networks.”](https://www.mdpi.com/1424-8220/16/4/424) Sensors, 2016.
 * Ghada Almashaqbeh, Thaier Hayajneh, Athanasios Vasilakos, and Bassam Mohd, [”QoS-Aware Health Monitoring System Using Cloud-Based WBANs.”](https://link.springer.com/article/10.1007/s10916-014-0121-2) Journal of Medical Systems, 2014.
 * Thaier Hayajneh, Ghada Almashaqbeh, Sana Ullah, and Athanasios Vasilakos. [“A Survey of Wireless Technologies Coexistence in WBAN: Analysis and Open Research Issues.”](https://link.springer.com/article/10.1007/s11276-014-0736-8) Springer Wireless  Networks, 2014.
-* Thaier Hayajneh,, Razvi Doomun, Ghada Al-Mashaqbeh, and Bassam Mohd. [“An energy-efficient and security aware route selection protocol for wireless sensor networks.”](https://onlinelibrary.wiley.com/doi/full/10.1002/sec.915) Wiley Security and Communication Networks, 2014.
+* Thaier Hayajneh, Razvi Doomun, Ghada Al-Mashaqbeh, and Bassam Mohd. [“An energy-efficient and security aware route selection protocol for wireless sensor networks.”](https://onlinelibrary.wiley.com/doi/full/10.1002/sec.915) Wiley Security and Communication Networks, 2014.
 * Ghada Al-Mashaqbeh, Jamal Al-Karaki, and Sameer Bataineh. [“CLEAR: A Cross-layer Enhanced and Adaptive Routing Framework for Wireless Mesh Networks.”](https://link.springer.com/article/10.1007/s11277-009-9758-4) Springer Wireless Personal Communications, 2009.
 

@@ -23,7 +23,7 @@ permalink: /talks-and-panels/
 &emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2018. 
 
 ***Resource-backed Cryptocurrencies*** &emsp; [_Slides_](../slides/resource-backed-cryptocurrencies-talk.pdf)<br/>
-&emsp; Association of Women in Math (AWM) Talk Series, Columbia University, NY - Nov 2018.<br/>
+&emsp; Association of Women in Math (AWM) Talk Series, Barnard College, NY - Nov 2018.<br/>
 &emsp; Emerging Scholars Program Seminar, Columbia University, NY - Dec 2017.
 
 ***Sensible Cryptocurrencies*** &emsp; [_Slides_](../slides/sensible-cryptocurrencies-talk.pdf)<br/>
