@@ -7,7 +7,7 @@ layout: default
 I am a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. 
  
 
-I received my PhD in Computer Science from Columbia University in Spring 2019. I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/) at Columbia. During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) ([Proof Trading](https://prooftrading.com/) and Cryptography lab at Columbia) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). I also worked closely with [Justin Cappos](https://ssl.engineering.nyu.edu/personalpages/jcappos/) ([Secure Systems Lab](https://ssl.engineering.nyu.edu) at NYU).
+I received my PhD in Computer Science from Columbia University in 2019. I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/) at Columbia. During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) ([Proof Trading](https://prooftrading.com/) and Cryptography lab at Columbia) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). I also worked closely with [Justin Cappos](https://ssl.engineering.nyu.edu/personalpages/jcappos/) ([Secure Systems Lab](https://ssl.engineering.nyu.edu) at NYU).
 
 My research interests cover cryptography, security, privacy, and distributed systems. More information about my research work can be found [here](/research/). 
 
