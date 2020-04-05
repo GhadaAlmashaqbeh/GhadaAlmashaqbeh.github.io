@@ -13,7 +13,7 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 #### **Blockchain/Cryptocurrency and Distributed Systems** 
     
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://fc20.ifca.ai/preproceedings/38.pdf) In Financial Cryptography and Data Security (FC), 2020.<br/>
-  <span style="color: red;">_Selected as the zkCapital Paper of the Week ([link](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a))._</span> <br/>
+  <span style="color: red;">_Selected as the zkCapital Paper of the Week </span>([link](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a))._ <br/>
   [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)
   
 * Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. ["CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks."](https://ieeexplore.ieee.org/document/8802825) In IEEE Conference on Communications and Network Security (CNS), 2019. <br/>
