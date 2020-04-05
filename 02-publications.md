@@ -19,8 +19,8 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 * Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. ["CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks."](https://ieeexplore.ieee.org/document/8802825) In IEEE Conference on Communications and Network Security (CNS), 2019. <br/>
   [Full version](https://arxiv.org/abs/1906.10272) &emsp; [Slides](../slides/capnet-cns-2019.pdf)
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["ABC: A Cryptocurrency-Focused Threat Modeling Framework."](https://ieeexplore.ieee.org/document/8845101) In IEEE INFOCOM Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock), 2019.  <br/>
-  <span style="color: red;">_Best Paper Award._</span>
-  [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf) <br/>
+  <span style="color: red;">_Best Paper Award._</span> <br/>
+  [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf) 
     
 
 
