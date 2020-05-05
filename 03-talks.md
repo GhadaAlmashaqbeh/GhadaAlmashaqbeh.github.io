@@ -39,7 +39,7 @@ permalink: /talks-and-panels/
 &emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2015. 
 
 ***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
-&emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - Jul 2015.<br/><br/> 
+&emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - July 2015.<br/><br/> 
 
 
 ### **<u>Panels</u>**
