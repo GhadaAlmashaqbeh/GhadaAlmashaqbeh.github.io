@@ -18,7 +18,7 @@ permalink: /talks-and-panels/
 &emsp; PhD dissertation defense, Columbia University, NY - May 2019. 
 
 ***The Age of Cryptocurrencies: Bitcoin and Sisters*** &emsp; [_Slides_](../slides/age-of-cryptocurrencies.pdf)<br/>
-&emsp; University of Colorado Colorado Springs, Colorado Springs, CO - Mar 2018 and Apr 2019.<br/>
+&emsp; University of Colorado Colorado Springs, Colorado Springs, CO (Online Talk) - Mar 2018 and Apr 2019.<br/>
 &emsp; NYU Tandon School of Engineering, Brooklyn, NY - Dec 2017.<br/>
 &emsp; Columbia University, NY - Dec 2017.
 
