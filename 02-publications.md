@@ -15,7 +15,7 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 * Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." To appear in Grace Hopper Celebration (GHC), 2020. (No proceedings.)<br/>
   [Full version](../unpublished/ghc-2020-full-version.pdf) &emsp; [Slides]() &emsp; [Blog post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
-* Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://fc20.ifca.ai/preproceedings/38.pdf) Financial Cryptography, 2020.<br/>
+* Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
   [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf) &emsp; Coverage: [zkCapital paper of the week](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a)
   
 * Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. ["CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks."](https://ieeexplore.ieee.org/document/8802825) IEEE CNS, 2019. <br/>
