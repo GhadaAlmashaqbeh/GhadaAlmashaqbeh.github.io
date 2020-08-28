@@ -14,7 +14,7 @@ I received my PhD in Computer Science from Columbia University in 2019. I was a 
 Before joining UConn, I was a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. And before that, I cofounded [CacheCash](https://cachecash.com), a startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis.
 
 
-<span style="color: red;">I am looking for PhD students to work on timely and real-world problems in the fields of cryptography, secure systems design, and privacy. If you are interested, please email me your CV and tell me about your research interests and skills. </span> <br/>
+<span style="color: red;">I am looking for self-motivated and talented PhD students to work on timely and real-world problems in the fields of cryptography, secure systems design, and privacy. If you are interested, please email me your CV and tell me about your research interests and skills. </span> <br/>
 
 
 #### **News**
