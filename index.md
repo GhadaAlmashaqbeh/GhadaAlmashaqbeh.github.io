@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<span style="color: red;">ghada.almashaqbeh at uconn.edu</span>
 
 <img style="float: right;margin-left: 15px;" src="images/ghada0.jpg" alt="myprofile" width="280" height="220"> 
 
