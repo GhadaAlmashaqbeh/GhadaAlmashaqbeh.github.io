@@ -15,7 +15,7 @@ Before joining UConn, I was a Cryptographer at [NuCypher](https://www.nucypher.c
 
 <br/>
 
-***I am looking for self-motivated and talented PhD students, as well as UConn project students, to work on timely and real-world problems in the fields of cryptography, secure systems design, and privacy. Feel free to contact me if you are interested!*** <br/>
+***I am looking for self-motivated and talented PhD students, as well as UConn project students, to work on timely and real-world problems in the fields of cryptography, privacy, and systems security. Feel free to contact me if you are interested!*** <br/>
 
 
 #### **News:**
