@@ -1,0 +1,42 @@
+I")<p>I am a Research Scientist at <a href="https://cachecash.com">CacheCash</a>, a new startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency.</p>
+
+<p>I received my PhD in Computer Science from Columbia University in Spring 2019. I was a member of the <a href="http://www.cs.columbia.edu/crypto">Cryptography Lab</a> and the <a href="https://datascience.columbia.edu/">Data Science Institute</a> at Columbia. During the PhD I was fortunate to be advised by <a href="https://www.thecomputersciencecomedian.com">Allison Bishop</a> (<a href="https://prooftrading.com/">Proof Trading</a> and Cryptography lab at Columbia) and <a href="http://www.cs.columbia.edu/~tal">Tal Malkin</a> (Cryptography lab at Columbia). I also worked closely with <a href="https://ssl.engineering.nyu.edu/personalpages/jcappos/">Justin Cappos</a> <a href="https://ssl.engineering.nyu.edu">Secure Systems Lab</a> at NYU).</p>
+
+<h2 id="research-interest">Research Interest</h2>
+
+<p>I am interested in theory and applied cryptography, security, privacy, and distributed systems. I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure systems and protocols.</p>
+
+<p>My recent projects are related to blockchain-based systems, privacy preserving computing, and basing cryptography on biological assumptions.</p>
+
+<h3 id="cachecash">CacheCash:</h3>
+<p>A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project involves several components including a threat modeling framework for cryptocurrencies, a defense mechanism against cache accounting attacks in peer-assisted CDNs, a lightweight probabilistic micropayment scheme, and CacheCash, the main system that integrates these modules into its design.</p>
+
+<p>CacheCash was <a href="https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57">my PhD thesis</a> and now it is a startup!</p>
+
+<h4 id="thesis">Thesis:</h4>
+<p>Ghada Almashaqbeh. <a href="https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57">“CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network.”</a> PhD thesis, Columbia University, 2019.</p>
+
+<h4 id="publications">Publications:</h4>
+<ul>
+  <li>Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. <a href="https://fc20.ifca.ai/preproceedings/38.pdf">“MicroCash: Practical Concurrent Processing of Micropayments.”</a>To appear in Financial Cryptography and Data Security (FC), 2020. <a href="https://arxiv.org/abs/1911.08520">Full version</a>.</li>
+  <li>Ghada Almashaqbeh, Kevin Kelley, Allison Bishop, and Justin Cappos. <a href="https://ieeexplore.ieee.org/document/8802825">“CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks.”</a> In IEEE Conference on Communications and Network Security (CNS),  2019. <a href="https://arxiv.org/abs/1906.10272">Full version</a></li>
+  <li>Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. <a href="https://ieeexplore.ieee.org/document/8845101">“ABC: A Cryptocurrency-Focused Threat Modeling Framework.”</a> In IEEE INFOCOM Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock), 2019. Best Paper Award. <a href="https://arxiv.org/abs/1903.03422">Full version</a></li>
+</ul>
+
+<h3 id="privacy-preserving-computing">Privacy preserving computing:</h3>
+<p>Develop primitives and protocols that allow multiple parties to perform computations on their private data without revealing anything about the input beyond what is inferred from the output. This project targets medical and financial data and aims to build secure protocols that handle realistic settings efficiently.</p>
+
+<h4 id="publications-1">Publications:</h4>
+<ul>
+  <li>Yihua Zhang, Marina Blanton, and Ghada Almashaqbeh. <a href="https://dl.acm.org/citation.cfm?id=3154600">“Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler.”</a> ACM Transactions on Privacy and Security (TOPS), 2017. <a href="https://arxiv.org/abs/1509.01763">Full version</a></li>
+  <li>Yihua Zhang, Marina Blanton, and Ghada Almashaqbeh. <a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4">“Secure distributed genome analysis for GWAS and sequence comparison computation.”</a> BMC Medical Informatics and Decision Making, 2015.</li>
+</ul>
+
+<h3 id="basing-cryptography-on-biological-polymers">Basing cryptography on biological polymers:</h3>
+<p>In stealthy mode :)</p>
+
+<p>My prior projects were related to wireless networks and network security. Check <a href="https://scholar.google.com/citations?user=QKIkII0AAAAJ&amp;hl=en">here</a> for a full list of my publications.</p>
+
+<p>“In theory, theory and practice are the same. In practice, they are not.” - Albert Einstein</p>
+
+:ET

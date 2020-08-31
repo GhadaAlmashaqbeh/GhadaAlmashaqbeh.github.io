@@ -1,0 +1,22 @@
+I"÷	<p>I am a Research Scientist at <a href="https://cachecash.com">CacheCash</a>, a new startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency.</p>
+
+<p>I received my PhD in Computer Science from Columbia University in Spring 2019. I was a member of the <a href="http://www.cs.columbia.edu/crypto">Cryptography Lab</a> and the <a href="https://datascience.columbia.edu/">Data Science Institute</a> at Columbia. During the PhD I was fortunate to be advised by <a href="https://www.thecomputersciencecomedian.com">Allison Bishop</a> (<a href="https://prooftrading.com/">Proof Trading</a> and Cryptography lab at Columbia) and <a href="http://www.cs.columbia.edu/~tal">Tal Malkin</a> (Cryptography lab at Columbia). I also worked closely with <a href="https://ssl.engineering.nyu.edu/personalpages/jcappos/">Justin Cappos</a> <a href="https://ssl.engineering.nyu.edu">Secure Systems Lab</a> at NYU).</p>
+
+<h2 id="research-interest">Research Interest</h2>
+
+<p>I am interested in theory and applied cryptography, security, privacy, and distributed systems. I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure systems and protocols.</p>
+
+<p>My recent projects are related to blockchain-based systems, privacy preserving computing, and basing cryptography on biological assumptions.</p>
+
+<h3 id="cachecash">CacheCash:</h3>
+<p>A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project involves several components including a threat modeling framework for cryptocurrencies, a defense mechanism against cache accounting attacks in peer-assisted CDNs, a lightweight probabilistic micropayment scheme, and CacheCash, the main system that integrates these modules into its design.</p>
+
+<p>CacheCash was <a href="https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57">my PhD thesis</a> and now it is a startup!</p>
+
+<h3 id="privacy-preserving-computing">Privacy preserving computing:</h3>
+<p>Develop primitives and protocols that allow multiple parties to perform computations on their private data without revealing anything about the input beyond what is inferred from the output. This project targets medical and financial data and aims to build secure protocols that handle realistic settings efficiently.</p>
+
+<h3 id="basing-cryptography-on-biological-polymers">Basing cryptography on biological polymers:</h3>
+<p>In stealthy mode :)</p>
+
+:ET
