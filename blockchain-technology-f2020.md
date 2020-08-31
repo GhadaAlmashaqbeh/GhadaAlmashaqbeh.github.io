@@ -1,6 +1,6 @@
 ---
 title: Blockchain Technology - Fall 2020
-permalink: /blockchain-technology-f2020/
+permalink: /courses/blockchain-technology-f2020/
 ---
 
 
