@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="float: right;margin-left: 15px;" src="images/ghada0.jpg" alt="myprofile" width="200" height="220"> 
+<img style="float: right;margin-left: 15px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
 
 
 I am an assistant professor in the [Computer Science and Engineering department](https://www.cse.uconn.edu/) at UConn. My research interests cover cryptography, security, privacy, and distributed systems. More information about my research work can be found [here](/research/).
