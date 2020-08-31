@@ -1,5 +1,4 @@
 ---
-title: Blockchain Technology - Fall 2020
 layout: default
 ---
 
