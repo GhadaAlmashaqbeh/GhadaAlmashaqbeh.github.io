@@ -7,5 +7,5 @@ permalink: /teaching/
 
 ### **Fall 2020** 
 
-CSE 5095-010, [Blockchain Technology]() 
+CSE 5095-010, [Blockchain Technology](/blockchain-technology-f2020/) 
 
