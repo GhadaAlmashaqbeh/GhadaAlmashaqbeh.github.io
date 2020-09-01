@@ -12,7 +12,7 @@ Ghada Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Del
 
 #### **Blockchain/Cryptocurrency and Distributed Systems** 
     
-* Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." To appear in Grace Hopper Celebration (GHC), 2020. (No proceedings.)<br/>
+* Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." To appear in Grace Hopper Celebration of Women in Computing (GHC), 2020. (No proceedings.)<br/>
   [Full version](../unpublished/ghc-2020-full-version.pdf) &emsp; [Slides]() &emsp; [Blog post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
