@@ -11,6 +11,13 @@ permalink: /talks-and-panels/
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga, Malaga, Spain (Online Talk) - May 2020.
 
+***Building Secure Distributed Services and Resource Markets*** &emsp; [_Slides_](../slides/job-talk.pdf)<br/> 
+&emsp; University of Rochester, Rochester, NY (Online Talk) - Mar 2020.
+&emsp; University of Florida, Gainesville, FL (Online Talk) - Mar 2020.
+&emsp; University of Connecticut, Storrs, CT - Mar 2020.
+&emsp; Georgetown University, Georgetown, DC - Feb 2020.
+&emsp; University of Massachusetts at Lowell, Lowell, MA - Jan 2020.
+
 ***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS’19, DC - June 2019.
 
