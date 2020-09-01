@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-[Syllabus](../syllabus.pdf)
+[Syllabus](./syllabus.pdf)
 
 Lecture slides and assigned reading:
 
-| Week #        | Material           |
-|---------------|--------------------|
-| Week 1        |                    |
+| Week # | Material           |
+|--------|--------------------|
+| Week 1 |                    |
