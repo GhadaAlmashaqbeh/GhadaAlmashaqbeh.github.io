@@ -2,11 +2,11 @@
 layout: default
 ---
 
-### Blockchain Technology - Fall 2020
+**Blockchain Technology - Fall 2020**
 
 [Syllabus](./syllabus.pdf)
 
-**Lecture slides and assigned reading.**
+Lecture slides and assigned reading.
 
 | Week # | Material           |
 |--------|--------------------|
