@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Syllabus]()
+[Syllabus](../syllabus.pdf)
 
 Lecture slides and assigned reading:
 
