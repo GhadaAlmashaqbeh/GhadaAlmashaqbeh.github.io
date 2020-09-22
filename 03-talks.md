@@ -6,7 +6,7 @@ permalink: /talks-and-panels/
 
 <h1 style="font-family: 'Comic Sans MS'">Talks and Panels</h1>
 
-<h4 style="font-family: 'Comic Sans MS'">Talks</h4> 
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Talks</b></u></h4> 
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga, Malaga, Spain (Online Talk) - May 2020.
@@ -49,6 +49,6 @@ permalink: /talks-and-panels/
 &emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - July 2015.<br/><br/> 
 
 
-<h4 style="font-family: 'Comic Sans MS'">Panels</h4>
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Panels</b></u></h4>
 ***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
