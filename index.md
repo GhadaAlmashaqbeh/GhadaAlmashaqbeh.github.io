@@ -33,71 +33,11 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-<div style="height:500px; overflow:auto;">
+<div style="height:400px; overflow:auto;">
   <table style = "width: 100%">
     <tr>
-      <td style="width: 20%;">August 2020:</td>
+      <td style="width: 18%;font-family: 'Comic Sans MS';">August 2020</td>
       <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-     <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-    <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-    <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-    <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE department!</td>
-    </tr>
-    <tr>
-      <td>August 2020:</td>
-      <td>Joined UCon!</td>
-    </tr>
-    <tr>
-      <td>August 2020:</td>
-      <td>Joined UConn's CSE!</td>
     </tr>
   </table>
 </div>
