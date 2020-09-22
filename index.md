@@ -10,7 +10,7 @@ layout: default
     </div>
     <div class="col-1-2">
        <div class="content">
-          <span style="color:grey;font-size:12px;">
+          <span style="color:grey;font-size:14px;">
             <p>Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
             <p> <b>Contact:</b> <br/> ghada.almashaqbeh at uconn.edu <br/> Office: ITEB 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
           </span> 
