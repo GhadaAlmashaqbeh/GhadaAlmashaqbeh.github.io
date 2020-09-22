@@ -33,7 +33,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-<table style="max-height:500px; overflow:auto;">
+<table style="max-height:100px; overflow:auto;">
   <tr>
     <td>August 2020:</td>
     <td>Joined UConn's CSE department!</td>
