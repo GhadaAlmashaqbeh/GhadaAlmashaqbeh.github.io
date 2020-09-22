@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<span style="font-family: 'Comic Sans MS'"><h1>Research</h1></span>
+<h1 style="font-family: 'Comic Sans MS'">Research</h1>
 
 My research interests span cryptography, security, privacy, and distributed systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I am also interested in conceptual projects that contribute in bridging the gap between theory and practice of Cryptography. 
 
