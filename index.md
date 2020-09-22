@@ -2,10 +2,20 @@
 layout: default
 ---
 
-<img style="float: right;margin-left: 15px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <img style="float: left;margin-left: 15px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+           <p>Assistant Professor of Computer Science and Engineering <br/> University of Connecticut <br/> Contact: <br/> ghada.almashaqbeh at uconn.edu <br/> Office: ITEB 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
+       </div>
+    </div>
+</div>
 
-
-I am an assistant professor in the [Computer Science and Engineering department](https://www.cse.uconn.edu/) at UConn. My research interests cover cryptography, security, privacy, and distributed systems. More information about my research work can be found [here](/research/).
+I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My research interests cover cryptography, security, privacy, and distributed systems. More information about my research work can be found [here](/research/).
 
 
 I received my PhD in Computer Science from Columbia University in 2019. I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/) at Columbia. During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) ([Proof Trading](https://prooftrading.com/) and Cryptography lab at Columbia) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). I also worked closely with [Justin Cappos](https://ssl.engineering.nyu.edu/personalpages/jcappos/) ([Secure Systems Lab](https://ssl.engineering.nyu.edu) at NYU).
