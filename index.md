@@ -29,9 +29,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 <br/>
 
 
-**Recruiting**
-
-***I am looking for self-motivated and talented PhD students, as well as UConn project students.*** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
+**<span style="color:red;"><u>Recruiting</u></span>** ***I am looking for self-motivated and talented PhD students, as well as UConn project students.*** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 <br/>  
 <br/>
 
