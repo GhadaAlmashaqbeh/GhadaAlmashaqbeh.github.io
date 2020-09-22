@@ -8,7 +8,7 @@ layout: default
 
 Lecture slides and assigned reading (assignments, class recordings, etc., can be found on HuskyCT).
 
-| <div style="width:100px">Week</div> #| Material           |
+| Week&emsp;#| Material           |
 |--------|--------------------|
 | Week 4 | Slides: [Lecture 6](./lecture6.pdf), [Lecture 7](./lecture7.pdf) <br/> Assigned reading: <br/> &emsp; - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/). <br/> &emsp; - Topics covered in class from Chapters 1 - 6,[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book. <br/> &emsp; - Smart contracts, Chapter 7 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book. |
 | Week 3 | Slides: rest of Lecture 4, [Lecture 5](./lecture5.pdf) <br/> Assigned reading: <br/> &emsp; - [Segwit](https://en.bitcoin.it/wiki/Segregated_Witness). <br/> &emsp; - A simplified [overview](https://academy.binance.com/blockchain/what-is-lightning-network) of Lightning Networks. <br/> &emsp; - Bitcoin security issues, check Bonneau, Joseph, et al. "Sok: Research perspectives and challenges for bitcoin and cryptocurrencies," in IEEE S&P, 2015.|
