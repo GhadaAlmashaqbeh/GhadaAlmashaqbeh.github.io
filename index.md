@@ -32,7 +32,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 **<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students, as well as UConn project students.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 
 ---------------------------------------
-
+<br/> 
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
