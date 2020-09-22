@@ -33,7 +33,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-<div class="max-height:100px; overflow-y:scroll;">
+<div style="height:100px; overflow:auto;">
   <table >
     <tr>
       <td>August 2020:</td>
@@ -93,7 +93,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
     </tr>
     <tr>
       <td>August 2020:</td>
-      <td>Joined UConn's!</td>
+      <td>Joined UCon!</td>
     </tr>
     <tr>
       <td>August 2020:</td>
