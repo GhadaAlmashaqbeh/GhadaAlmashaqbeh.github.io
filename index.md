@@ -19,7 +19,7 @@ layout: default
 </div>
 
 
-I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, security, privacy, and distributed systems. I received my PhD in Computer Science from Columbia University in 2019. I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/) at Columbia. During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). I also worked closely with [Justin Cappos](https://ssl.engineering.nyu.edu/personalpages/jcappos/) ([Secure Systems Lab](https://ssl.engineering.nyu.edu) at NYU).
+I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, security, privacy, and distributed systems. I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). I also worked closely with [Justin Cappos](https://ssl.engineering.nyu.edu/personalpages/jcappos/) ([Secure Systems Lab](https://ssl.engineering.nyu.edu) at NYU).
  
 Before joining UConn, I spent a year exploring the entrepreneurship world. I cofounded [CacheCash](https://cachecash.com), a startup that builds a fully distributed content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. 
 <br/>
@@ -33,4 +33,9 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-August 2020:     Joined UConn's CSE department!
+<table style="max-height:500px; overflow:auto;">
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE department!</td>
+  </tr>
+</table>
