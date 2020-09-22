@@ -78,4 +78,24 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
     <td>August 2020:</td>
     <td>Joined UConn's CSE department!</td>
   </tr>
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE department!</td>
+  </tr>
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE department!</td>
+  </tr>
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE department!</td>
+  </tr>
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE department!</td>
+  </tr>
+  <tr>
+    <td>August 2020:</td>
+    <td>Joined UConn's CSE!</td>
+  </tr>
 </table>
