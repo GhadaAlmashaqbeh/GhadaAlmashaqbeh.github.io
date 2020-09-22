@@ -33,6 +33,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 ---------------------------------------
 
-<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>**News**</u></span>
+
+**<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
 August 2020:     Joined UConn's CSE department!
