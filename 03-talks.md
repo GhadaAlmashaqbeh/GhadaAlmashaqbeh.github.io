@@ -4,9 +4,9 @@ title: Talks and Panels
 permalink: /talks-and-panels/
 ---
 
-## Talks and Panels
+<h1 style="font-family: 'Comic Sans MS'">Talks and Panels</h1>
 
-### **<u>Talks</u>** 
+<h4 style="font-family: 'Comic Sans MS'">Talks</h4> 
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga, Malaga, Spain (Online Talk) - May 2020.
@@ -19,7 +19,7 @@ permalink: /talks-and-panels/
 &emsp; University of Massachusetts at Lowell, Lowell, MA - Jan 2020.<br/>
 
 ***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
-&emsp; IEEE CNS’19, DC - June 2019.
+&emsp; IEEE CNS’19, Washington DC - June 2019.
 
 ***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
 &emsp; PhD dissertation defense, Columbia University, NY - May 2019. 
@@ -49,6 +49,6 @@ permalink: /talks-and-panels/
 &emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - July 2015.<br/><br/> 
 
 
-### **<u>Panels</u>**
+<h4 style="font-family: 'Comic Sans MS'">Panels</h4>
 ***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
