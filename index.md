@@ -5,15 +5,14 @@ layout: default
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           <img style="float: left;margin-right: 60px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
+           <img style="margin-right: 60px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-          <span style="color:grey;font-size:10px;">
+          <span style="color:grey;font-size:12px;">
             <p>Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
-            <p> Contact:</p> 
-            <p>ghada.almashaqbeh at uconn.edu <br/> Office: ITEB 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
+            <p> <b>Contact:</b> <br/> ghada.almashaqbeh at uconn.edu <br/> Office: ITEB 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
           </span> 
        </div>
     </div>
