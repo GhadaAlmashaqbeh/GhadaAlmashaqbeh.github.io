@@ -8,6 +8,9 @@ permalink: /talks-and-panels/
 
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Talks</b></u></h4> 
 
+***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
+&emsp; Grace Hopper Celebration of Women in Computing (GHC), Security/Privacy track (Online Talk) - Oct 2020.
+
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga, Malaga, Spain (Online Talk) - May 2020.
 

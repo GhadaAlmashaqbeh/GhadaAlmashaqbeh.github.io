@@ -12,7 +12,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 <h4 style="font-family: 'Comic Sans MS'">Blockchain/Cryptocurrency-based Decentralized Services</h4>
     
 * Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." To appear in Grace Hopper Celebration of Women in Computing (GHC), 2020. (No proceedings.)<br/>
-  [Full version](../unpublished/ghc-2020-full-version.pdf) &emsp; [Slides]() &emsp; [Blog post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
+  [Full version](../unpublished/ghc-2020-full-version.pdf) &emsp; [Slides](../slides/ghc-2020-talk.pdf) &emsp; [Blog post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
   [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf) &emsp; Coverage: [zkCapital paper of the week](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a)
