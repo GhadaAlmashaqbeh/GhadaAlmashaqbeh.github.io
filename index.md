@@ -12,7 +12,7 @@ layout: default
        <div class="content">
           <span style="color:grey;font-size:14px;">
             <p><b>Ghada Almashaqbeh</b> <br/> Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
-            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada.almashaqbeh at uconn.edu <br/> <u>Office:</u> ITEB 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
+            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada.almashaqbeh at uconn.edu <br/> <u>Office:</u> ITE 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
           </span> 
        </div>
     </div>
@@ -35,6 +35,10 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 <div style="height:400px; overflow:auto;">
   <table style = "width: 100%">
+    <tr>
+      <td style="width: 18%;font-family: 'Comic Sans MS';">October 2020</td>
+      <td>Honored to be selected as a speaker at [GHC](https://ghc.anitab.org/) to talk about building secure decentralized services and resource markets.</td>
+    </tr>
     <tr>
       <td style="width: 18%;font-family: 'Comic Sans MS';">August 2020</td>
       <td>Joined UConn's CSE department!</td>
