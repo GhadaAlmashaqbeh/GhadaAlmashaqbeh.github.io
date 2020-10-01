@@ -14,7 +14,7 @@ My research interests span cryptography, computer systems security, and privacy.
 <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS';color: blue;">Current Projects</h4>
+<h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
     
 * **Interoperability of blockchains:** ...
 
@@ -33,7 +33,7 @@ My research interests span cryptography, computer systems security, and privacy.
 <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS';color: blue;">Previous Projects</h4>
+<h4 style="font-family: 'Comic Sans MS';color: slateblue;">Previous Projects</h4>
 
 * **CacheCash:** A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project covered several components including a threat modeling framework for cryptocurrencies ([ABC, CryBlock 2019](https://ieeexplore.ieee.org/document/8845101)), a defense mechanism against cache accounting attacks in peer-assisted CDNs ([CAPnet, IEEE CNS 2019](https://ieeexplore.ieee.org/document/8802825)), a lightweight probabilistic micropayment scheme ([MicroCash, FC 2020](https://fc20.ifca.ai/preproceedings/38.pdf)), and CacheCash, the main system that integrates these modules into its design.
 
