@@ -21,8 +21,11 @@ My research interests span cryptography, computer systems security, and privacy.
 * **The utility of sidechains:** ...
 
 
-* **Gage MPC:** ...
-      
+* **Privacy-preserving smart contracts:** ...
+
+
+* **Gage MPC:** ... 
+
 
 * **Basing cryptography on biological polymers:** In stealthy mode :)
 <br/>
