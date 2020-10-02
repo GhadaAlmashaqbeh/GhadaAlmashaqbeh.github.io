@@ -15,17 +15,11 @@ My research interests span cryptography, computer systems security, and privacy.
 
 
 <h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
-    
-* **Interoperability of blockchains:** ...
 
-
-* **The utility of sidechains:** ...
+* **Gage MPC:** ... 
 
 
 * **Privacy-preserving smart contracts:** ...
-
-
-* **Gage MPC:** ... 
 
 
 * **Basing cryptography on biological polymers:** In stealthy mode :)
