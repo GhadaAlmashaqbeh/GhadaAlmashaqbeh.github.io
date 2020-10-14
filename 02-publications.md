@@ -11,7 +11,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 <h4 style="font-family: 'Comic Sans MS'">Blockchain/Cryptocurrency-based Decentralized Services</h4>
     
-* Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." To appear in Grace Hopper Celebration of Women in Computing (GHC), 2020. (No proceedings.)<br/>
+* Ghada Almashaqbeh. "Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets." Grace Hopper Celebration of Women in Computing (GHC), 2020. (No proceedings.)<br/>
   [Full version](../unpublished/ghc-2020-full-version.pdf) &emsp; [Slides](../slides/ghc-2020-talk.pdf) &emsp; [Blog post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
 * Ghada Almashaqbeh, Allison Bishop, and Justin Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
@@ -34,7 +34,6 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 
 <h4 style="font-family: 'Comic Sans MS'">Wireless Networks and Network Security</h4>
-* Ghada Al-Mashaqbeh, Jamal Al-Karaki, Mohammed Al-Rousan, Asad Raza, Haider Abbas, and Maruf Pasha. ["Joint Geographic and Energy-aware Routing Protocol for Static and Mobile Wireless Sensor Networks."](https://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-41-number-3-4-2018/16950-2/) Ad hoc & Sensor Wireless Networks, 2018.
 * Jamal Al-Karaki, Ghada Al-Mashaqbeh, and Sameer Bataineh. ["Routing protocols in wireless mesh networks: A survey."](https://www.inderscienceonline.com/doi/abs/10.1504/IJICT.2017.087454) International Journal of Information and Communication Technology, 2017.
 * Thaier Hayajneh, Bassam Mohd, Muhammad Imran, Ghada Almashaqbeh, and Athanasios Vasilakos. ["Secure Authentication for Remote Patient Monitoring with Wireless Medical Sensor Networks.”](https://www.mdpi.com/1424-8220/16/4/424) Sensors, 2016.
 * Ghada Almashaqbeh, Thaier Hayajneh, Athanasios Vasilakos, and Bassam Mohd, [”QoS-Aware Health Monitoring System Using Cloud-Based WBANs.”](https://link.springer.com/article/10.1007/s10916-014-0121-2) Journal of Medical Systems, 2014.
