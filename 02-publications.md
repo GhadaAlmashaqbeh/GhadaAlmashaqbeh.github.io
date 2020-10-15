@@ -31,7 +31,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 
 <h4 style="font-family: 'Comic Sans MS'">Wireless Networks and Network Security</h4>
-* Ghada Al-Mashaqbeh, Jamal Al-Karaki, M. Al-Rousan, Asad Raza, H. Abbas, and M. Pasha. ["Joint Geographic and Energy-aware Routing Protocol for Static and Mobile Wireless Sensor Networks."](https://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-41-number-3-4-2018/16950-2/) Ad hoc & Sensor Wireless Networks, 2018.
+* Ghada Al-Mashaqbeh, J. Al-Karaki, M. Al-Rousan, A. Raza, H. Abbas, and M. Pasha. ["Joint Geographic and Energy-aware Routing Protocol for Static and Mobile Wireless Sensor Networks."](https://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-41-number-3-4-2018/16950-2/) Ad hoc & Sensor Wireless Networks, 2018.
 * Thaier Hayajneh, Bassam Mohd, Muhammad Imran, Ghada Almashaqbeh, and Athanasios Vasilakos. ["Secure Authentication for Remote Patient Monitoring with Wireless Medical Sensor Networks.”](https://www.mdpi.com/1424-8220/16/4/424) Sensors, 2016.
 * Ghada Almashaqbeh, Thaier Hayajneh, Athanasios Vasilakos, and Bassam Mohd, [”QoS-Aware Health Monitoring System Using Cloud-Based WBANs.”](https://link.springer.com/article/10.1007/s10916-014-0121-2) Journal of Medical Systems, 2014.
 * Thaier Hayajneh, Ghada Almashaqbeh, Sana Ullah, and Athanasios Vasilakos. [“A Survey of Wireless Technologies Coexistence in WBAN: Analysis and Open Research Issues.”](https://link.springer.com/article/10.1007/s11276-014-0736-8) Springer Wireless  Networks, 2014.
