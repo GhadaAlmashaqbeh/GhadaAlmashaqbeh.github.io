@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-*Still under construction! More to be added soon.*
-
 
 <h1 style="font-family: 'Comic Sans MS'">Research</h1>
 
@@ -16,10 +14,10 @@ My research interests span cryptography, computer systems security, and privacy.
 
 <h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
 
-* **Gage MPC:** ... 
+* **Gage MPC:** Develop a new MPC model which circumvents the residual function lower bound on non-interactive MPC protocol (computing the functionality output on the honest parties inputs and all combinations of adversarial inputs), and enforces complete fairness (either all parties learn the output or no one does). The project utilizes a blockchain in a novel way, incorporating smart contracts and (arbitrary) miners as participants. Monetary incentivised time lock capsules are used to economically incentivize participants to evaluate the intended MPC functionality, otherwise, miners will do that while collecting the participants collateral as a reward. 
 
 
-* **Privacy-preserving smart contracts:** ...
+* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract system that not only supports private payments, but also arbitrary computations over private data and accounts. The project aims to explore to what extent fully homomorphic encryption (which allow computation over encrypted data) combined with non-interactive zero knowledge proofs (to defend against malicious adversaries) can be utilized in achieving this goal.
 
 
 * **Basing cryptography on biological polymers:** In stealthy mode :)
