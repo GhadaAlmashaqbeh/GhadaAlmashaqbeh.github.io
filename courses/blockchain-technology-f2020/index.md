@@ -10,7 +10,7 @@ Lecture slides and assigned reading (assignments, class recordings, etc., can be
 
 | Week&emsp;| Material           |
 |----------|--------------------|
-| Week 9 | Slides: rest of Lecture 13 <br/> Assigned reading: <br/> &emsp; - ... <br/> &emsp; - ... |
+| Week 9 | Slides: rest of Lecture 13, [Lecture 14](./lecture14.pdf) <br/> Assigned reading: <br/> &emsp; - Ali et al. [The Nuts and Bolts of Micropayments: a Survey](https://arxiv.org/pdf/1710.02964.pdf). |
 | Week 8 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf), [Lecture 13](./lecture13.pdf) <br/> Assigned reading: <br/> &emsp; - Almashaqbeh et al. [Rethinking Service Systems,](../../unpublished/ghc-2020-full-version.pdf) in GHC 2020. <br/> &emsp; - Almashaqbeh et al. [ABC: A Cryptocurrency-Focused Threat Modeling Framework,](https://arxiv.org/abs/1903.03422) in CryBlock 2019. |
 | Week 7 | Slides: [Lecture 10](./lecture10.pdf), [Lecture 11](./lecture11.pdf) <br/> Assigned reading: <br/> &emsp; - Chapter 4 in [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) book. |
 | Week 6 | Slides: [Lecture 9](./lecture9.pdf) <br/> Assigned reading: <br/> &emsp; - Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019. |
