@@ -8,7 +8,7 @@ layout: default
 
 Lecture slides and assigned reading (assignments, class recordings, etc., can be found on HuskyCT).
 
-| Week&emsp;| Material           |
+| Week &emsp; &emsp;| Material           |
 |----------|--------------------|
 | Week 14 | Term project presentations. |
 | Week 13 | Thanksgiving Recess (no classes). |
