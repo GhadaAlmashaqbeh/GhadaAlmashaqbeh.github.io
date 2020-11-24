@@ -36,6 +36,10 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 <div style="height:400px; overflow:auto;">
   <table style = "width: 100%">
     <tr>
+      <td style="width: 20%;font-family: 'Comic Sans MS';">November 2020</td>
+      <td>Thanks to <a href="https://www.synchrony.com/">Synchrony</a> for funding our research (with Ben Fuller) on "Interoperability of Blockchain-based Systems."</td>
+    </tr>
+    <tr>
       <td style="width: 20%;font-family: 'Comic Sans MS';">October 2020</td>
       <td>Honored to be selected as a speaker at <a href="https://ghc.anitab.org/">GHC</a> to talk about "Building secure decentralized services and resource markets."</td>
     </tr>
