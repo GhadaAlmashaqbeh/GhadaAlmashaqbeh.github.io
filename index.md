@@ -36,7 +36,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 <div style="height:400px; overflow:auto;">
   <table style = "width: 100%">
     <tr>
-      <td style="width: 24%;font-family: 'Comic Sans MS';">November 2020</td>
+      <td style="width: 22%;font-family: 'Comic Sans MS';">November 2020</td>
       <td>Thanks to <a href="https://www.synchrony.com/">Synchrony</a> for funding our research (Almashaqbeh/PI, Ben Fuller/Co-PI) on "Interoperability of Blockchain-based Systems."</td>
     </tr>
     <tr>
