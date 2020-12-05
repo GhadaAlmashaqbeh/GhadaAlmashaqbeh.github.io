@@ -33,14 +33,14 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-<div style="height:400px; overflow:auto; ; font-size: 14px">
+<div style="height:400px; overflow:auto; ; font-size: 15px">
   <table style = "width: 100%">
     <tr>
-      <td style="width: 22%;font-family: 'Comic Sans MS';">December 2020</td>
+      <td style="width: 20%;font-family: 'Comic Sans MS';">December 2020</td>
       <td>A short article on "Building secure decentralized services and resource markets" has been accepted in USENIX ;login: magazine!</td>
     </tr>
     <tr>
-      <td style="width: 22%;font-family: 'Comic Sans MS';">November 2020</td>
+      <td style="width: 20%;font-family: 'Comic Sans MS';">November 2020</td>
       <td>Thanks to <a href="https://www.synchrony.com/">Synchrony</a> for funding our research (Almashaqbeh/PI, Ben Fuller/Co-PI) on "Interoperability of Blockchain-based Systems."</td>
     </tr>
     <tr>
