@@ -33,7 +33,7 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 
 **<span style="font-family: 'Comic Sans MS'; font-size: 18px"><u>News</u></span>**
 
-<div style="height:400px; overflow:auto;">
+<div style="height:400px; overflow:auto; ; font-size: 14px">
   <table style = "width: 100%">
     <tr>
       <td style="width: 22%;font-family: 'Comic Sans MS';">December 2020</td>
