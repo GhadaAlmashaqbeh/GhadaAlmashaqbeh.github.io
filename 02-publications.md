@@ -11,7 +11,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 <h4 style="font-family: 'Comic Sans MS'">Blockchain/Cryptocurrency-based Decentralized Services</h4>
 
-* G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: magazine, 2021.<br/>
+* G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
 * G. Almashaqbeh, A. Bishop, and J. Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
