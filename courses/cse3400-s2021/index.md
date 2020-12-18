@@ -2,9 +2,7 @@
 layout: default
 ---
 
-**CSE3400 Introduction to Computer and Network Security**<br/>
-**CSE5850 Introduction to Cybersecurity**<br/>
-**Spring 2021**
+**Introduction to Computer and Network Security/Cybersecurity - Spring 2021**
 
 [Syllabus]()
 
