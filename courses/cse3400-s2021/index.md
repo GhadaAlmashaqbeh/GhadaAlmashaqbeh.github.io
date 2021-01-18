@@ -10,4 +10,4 @@ Lecture slides and covered textbook material (assignments, class recordings, etc
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 1 | Slides: [Lecture 1](./lecture1.pdf) <br/> Covered textbook material: <br/> &emsp; - Chapter 1 (except the background on number theory) |
+| Week 1 | Slides: [Lecture 1](./lecture1.pdf) <br/> Covered from the textbook: <br/> &emsp; - Chapter 1 (except the background on number theory) |
