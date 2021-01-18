@@ -10,4 +10,4 @@ Lecture slides and assigned reading (assignments, class recordings, etc., can be
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 1 | Slides: [Lecture 1]() <br/> Assigned reading: <br/> &emsp; - ... |
+| Week 1 | Slides: [Lecture 1](./lecture1.pdf) <br/> Assigned reading: <br/> &emsp; - Chapter 1 in the textbook (except the background on number theory) |
