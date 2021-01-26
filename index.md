@@ -5,7 +5,7 @@ layout: default
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           <img style="float: left; margin-right: 60px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="190"> 
+           <img style="float: left; margin-right: 60px;" src="images/ghada0.jpg" alt="myprofile" width="210" height="200"> 
        </div>
     </div>
     <div class="col-1-2">
