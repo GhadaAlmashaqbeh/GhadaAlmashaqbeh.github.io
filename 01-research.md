@@ -14,6 +14,9 @@ My research interests span cryptography, computer systems security, and privacy.
 
 <h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
 
+* **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
+
+
 * **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound on non-interactive MPC protocol (computing the functionality output on honest parties inputs and all combinations of adversarial inputs), and enforce complete fairness (either all parties learn the output or no one does). The project utilizes a blockchain in a novel way, incorporating smart contracts and (arbitrary) miners as participants. Monetary incentivised time lock capsules are used to economically incentivize participants to evaluate the intended MPC functionality, otherwise, miners will do that while collecting the participants collateral as a reward. 
 
 
