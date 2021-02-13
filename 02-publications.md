@@ -27,7 +27,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 
 <h4 style="font-family: 'Comic Sans MS'">Privacy Preserving Computing</h4> 
-* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contractsfrom Fully Homomorphic Encryption."](), 2021.<br/>
+* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contractsfrom Fully Homomorphic Encryption,"]() 2021.<br/>
   [Preprint version](https://eprint.iacr.org/2021/133) 
 
 * Y. Zhang, M. Blanton, and G. Almashaqbeh. ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security (TOPS), 2017. <br/>
