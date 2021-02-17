@@ -11,6 +11,9 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 <h4 style="font-family: 'Comic Sans MS'">Blockchain/Cryptocurrency-based Decentralized Services</h4>
 
+* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
+  [Preprint version](https://eprint.iacr.org/2021/133) 
+  
 * G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
@@ -27,9 +30,6 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 
 <h4 style="font-family: 'Comic Sans MS'">Privacy Preserving Computing</h4> 
-* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
-  [Preprint version](https://eprint.iacr.org/2021/133) 
-
 * Y. Zhang, M. Blanton, and G. Almashaqbeh. ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security (TOPS), 2017. <br/>
   [Full version](https://arxiv.org/abs/1509.01763)
   
