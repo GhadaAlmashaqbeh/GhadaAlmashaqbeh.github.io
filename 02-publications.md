@@ -7,7 +7,7 @@ permalink: /publications/
 <h1 style="font-family: 'Comic Sans MS'">Selected Publications</h1>  _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete list._<br/>
 
 
-<h5 style="font-family: 'Comic Sans MS'"><u><b>Privacy and Blockchains</b></u></h5> 
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Privacy and Blockchains</b></u></h4> 
 
 
 * R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
