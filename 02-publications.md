@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<h1 style="font-family: 'Comic Sans MS'">Selected Publications</h1>  _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete list._<br/>
+_Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
 
 
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Privacy and Blockchains</b></u></h4> 
