@@ -13,6 +13,9 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 * R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
   [Preprint version](https://eprint.iacr.org/2021/133)
 
+* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() 2021.<br/>
+  [Preprint version](https://eprint.iacr.org/2021/256)
+
 
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Blockchain/Cryptocurrency-based Decentralized Services</b></u></h4> 
   
