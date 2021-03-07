@@ -10,6 +10,7 @@ Lecture slides and covered textbook material (assignments, class recordings, etc
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 8 | Slides: [Lecture 8](./lecture8.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 5: Sections 5.1 and 5.2 |
 | Week 7 | Slides: [Lecture 7](./lecture7.pdf), [Blockchains](./blockchains.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 4: Sections 4.6, 4.7, 4.8 |
 | Week 6 | Slides: [Lecture 6](./lecture6.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 4: Sections 4.1, 4.2 (except 4.2.6), 4.3, 4.4 (except 4.4.2), 4.5 (except 4.5.3) |
 | Week 5 | Slides: rest of Lecture 4, [Lecture 5](./lecture5.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 3: All except sections 3.4.2, 3.7.2, 3.7.5 |
