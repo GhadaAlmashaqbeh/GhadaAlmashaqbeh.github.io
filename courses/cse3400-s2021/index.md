@@ -10,6 +10,9 @@ Lecture slides and covered textbook material (assignments, class recordings, etc
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Recitation (Tuesday's class). No class on Thursday (reading day) |
+| Week 14 | Slides: rest of lecture 12, [Lecture 13](./lecture13.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 8: Sections ... |
+| Week 13 | Spring Break - No classes |
 | Week 12 | Slides: rest of lecture 11, [Lecture 12](./lecture12.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 8: Sections 8.1, 8.2, and 8.3 |
 | Week 11 | Slides: rest of lecture 10, [Lecture 11](./lecture11.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 1: Section 1.3 <br/> &emsp; - Chapter 2: Section 2.7.2 <br/> &emsp; - Chapter 6: Sections 6.5, 6.6, and 6.7 |
 | Week 10 | Slides: rest of lecture 9, [Lecture 10](./lecture10.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 1: section 1.2 <br/> &emsp; - Chapter 6: sections 6.1, 6.2, 6.3, and 6.4 |
