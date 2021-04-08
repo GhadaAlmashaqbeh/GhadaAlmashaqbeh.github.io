@@ -9,7 +9,6 @@ permalink: /research/
 
 My research interests span cryptography, computer security, privacy, and distributed systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
 <br/>
-<br/>
 
 
 <h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
