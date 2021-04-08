@@ -7,16 +7,6 @@ permalink: /publications/
 _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Privacy and Blockchains</b></u></h4> 
-
-
-* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
-  [Preprint version](https://eprint.iacr.org/2021/133)
-
-* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() 2021.<br/>
-  [Preprint version](https://eprint.iacr.org/2021/256)
-
-
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Blockchain/Cryptocurrency-based Decentralized Services</b></u></h4> 
   
 * G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
@@ -35,6 +25,12 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 
 
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Privacy Preserving Computing</b></u></h4> 
+
+* R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
+  [Preprint version](https://eprint.iacr.org/2021/133)
+
+* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() 2021.<br/>
+  [Preprint version](https://eprint.iacr.org/2021/256)
 
 * Y. Zhang, M. Blanton, and G. Almashaqbeh. ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security (TOPS), 2017. <br/>
   [Full version](https://arxiv.org/abs/1509.01763)

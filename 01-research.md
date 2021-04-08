@@ -7,12 +7,15 @@ permalink: /research/
 
 <h1 style="font-family: 'Comic Sans MS'">Research</h1>
 
-My research interests span cryptography, computer systems security, and privacy. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I am also interested in conceptual projects that contribute in bridging the gap between theory and practice of Cryptography. 
+My research interests span cryptography, computer security, privacy, and distributed systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
 <br/>
 <br/>
 
 
 <h4 style="font-family: 'Comic Sans MS';color: slateblue;">Current Projects</h4>
+
+* **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, as well as a scalability solution to allow supporting large number of users at a low overhead.
+
 
 * **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
 
