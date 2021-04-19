@@ -5,10 +5,10 @@ permalink: /activities/
 ---
 
 <h4 style="font-family: 'Comic Sans MS'"><b>Events</b></h4> 
----------------------------------------
 
-* [Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker)
-* [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator)
+---------------------------------------
+[Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker)
+[Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator)
 
 <h4 style="font-family: 'Comic Sans MS'"><b>Program Committee Member</b></h4> 
 ---------------------------------------
@@ -28,7 +28,9 @@ permalink: /activities/
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Panels</b></u></h4>
+<h4 style="font-family: 'Comic Sans MS'"><b>Panels</b></h4>
+---------------------------------------
+
 ***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
 <h4 style="font-family: 'Comic Sans MS'"><b>Talks</b></h4> 
