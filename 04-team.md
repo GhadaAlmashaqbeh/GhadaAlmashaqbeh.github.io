@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 
-<h1 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Team</h1>
+<h2 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Team</h2>
 
 I am fortunate to work with/advise a talented group of students. 
 
