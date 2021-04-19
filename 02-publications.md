@@ -7,7 +7,7 @@ permalink: /publications/
 _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Blockchain/Cryptocurrency-based Decentralized Services</b></u></h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Blockchain/Cryptocurrency-based Decentralized Services</b></h4> 
   
 * G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
@@ -24,7 +24,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
     
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Privacy Preserving Computing</b></u></h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Privacy Preserving Computing</b></h4> 
 
 * R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
   [Preprint version](https://eprint.iacr.org/2021/133)
@@ -38,7 +38,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 * Y. Zhang, M. Blanton, and G. Almashaqbeh. ["Secure distributed genome analysis for GWAS and sequence comparison computation."](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) BMC Medical Informatics and Decision Making, 2015.
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Wireless Networks and Network Security</b></u></h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Wireless Networks and Network Security</b></h4> 
 
 * G. Al-Mashaqbeh, J. Al-Karaki, M. Al-Rousan, A. Raza, H. Abbas, and M. Pasha. ["Joint Geographic and Energy-aware Routing Protocol for Static and Mobile Wireless Sensor Networks."](https://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-41-number-3-4-2018/16950-2/) Ad hoc & Sensor Wireless Networks, 2018.
 * T. Hayajneh, B. Mohd, M. Imran, G. Almashaqbeh, and A. Vasilakos. ["Secure Authentication for Remote Patient Monitoring with Wireless Medical Sensor Networks.”](https://www.mdpi.com/1424-8220/16/4/424) Sensors, 2016.
@@ -49,8 +49,10 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 * J. Al-Karaki, and G. Al-Mashaqbeh. [“SENSORIA: A New Simulation Platform for Wireless Sensor Networks.”](https://ieeexplore.ieee.org/abstract/document/4394958) SensorComm, 2007.
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Thesis</b></u></h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Thesis</b></h4> 
 
 
 G. Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network."](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57) PhD thesis, Columbia University, 2019.
+
+G. Almashaqbeh. "A Cross-Layer Based QoS Routing Framework for Wireless Mesh Networks." MSc thesis, Jordan University of Science and Technology, 2008.
 
