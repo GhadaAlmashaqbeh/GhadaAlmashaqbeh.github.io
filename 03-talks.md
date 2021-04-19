@@ -9,6 +9,7 @@ permalink: /activities/
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Events</b></h4> 
 
 [Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker) <br/>
+[The 6th Annual Entrepreneurship Festival StartupColumbia,](https://www.startupcolumbia.org/2019-festival) - Apr 2019 (panel speaker - Crypto-Economics 101) <br/>
 [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
@@ -26,11 +27,6 @@ permalink: /activities/
 **Conferences:** Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
-
-
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Panels</b></h4>
-
-***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Talks</b></h4> 
