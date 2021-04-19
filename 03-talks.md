@@ -8,8 +8,8 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Events</b></h4> 
 
-[Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker) <br/>
-[The 6th Annual Entrepreneurship Festival StartupColumbia,](https://www.startupcolumbia.org/2019-festival) - Apr 2019 (panel speaker - [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101)) <br/>
+[Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
+[The 6th Annual Entrepreneurship Festival StartupColumbia](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker, [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101)) <br/>
 [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
