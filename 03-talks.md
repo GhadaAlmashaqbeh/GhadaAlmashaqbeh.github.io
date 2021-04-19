@@ -4,7 +4,7 @@ title: Professional Activities
 permalink: /activities/
 ---
 
-<h4 style="font-family: 'Comic Sans MS'"><span style="background-color:green"><b>Events</b></span></h4> 
+<h4 style="font-family: 'Comic Sans MS'"><span style="vertical-align: top; background-color:green"><b>Events</b></span></h4> 
 
 [Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker)
 [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator)
