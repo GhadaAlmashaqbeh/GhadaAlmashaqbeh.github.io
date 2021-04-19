@@ -7,7 +7,7 @@ permalink: /publications/
 _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);"><b>Blockchain/Cryptocurrency-based Decentralized Services</b></h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain/Cryptocurrency-based Decentralized Services</h4> 
   
 * G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
