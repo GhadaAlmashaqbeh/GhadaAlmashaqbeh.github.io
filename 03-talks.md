@@ -1,10 +1,29 @@
 ---
 layout: page
-title: Talks and Panels
-permalink: /talks-and-panels/
+title: Professional Activities
+permalink: /activities/
 ---
 
-<h1 style="font-family: 'Comic Sans MS'">Talks and Panels</h1>
+<h1 style="font-family: 'Comic Sans MS'">Professional Activities</h1>
+
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Program Committee Member</b></u></h4> 
+
+2021: [Crypto](https://crypto.iacr.org/2021/) <br/>
+2020: [CFAIL](https://www.cfail.org/cfail-2020) <br/>
+2019: [CFAIL](https://www.cfail.org/past-events) <br/>
+2017: [CSAW](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
+2016: [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm), [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16) <br/>
+
+
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Reviewer/sub-reviewer</b></u></h4>
+
+**Conferences:** Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
+
+**Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
+
+
+<h4 style="font-family: 'Comic Sans MS'"><u><b>Panels</b></u></h4>
+***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Talks</b></u></h4> 
 
@@ -50,8 +69,4 @@ permalink: /talks-and-panels/
 
 ***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
 &emsp; Cybersecurity for Teachers in Summer of STEM program, NYU Polytechnic School of Engineering, Brooklyn, NY - July 2015.<br/><br/> 
-
-
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Panels</b></u></h4>
-***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
