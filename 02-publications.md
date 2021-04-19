@@ -3,7 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-<h1 style="font-family: 'Comic Sans MS'">Publications</h1>
+
+<h1 style="font-family: 'Comic Sans MS'; margin-top: 0px;">Publications</h1>
 
 _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
 
