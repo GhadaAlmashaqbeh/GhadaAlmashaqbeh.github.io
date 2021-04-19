@@ -4,16 +4,16 @@ title: Professional Activities
 permalink: /activities/
 ---
 
-<h2 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h2>
+<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h3>
 
-<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h5> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
 
 [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 [Entrepreneurship Festival StartupColumbia](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker, [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101)) <br/>
 [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
-<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Program Committee Member</h5> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Program Committee Member</h4> 
 
 2021: [Crypto](https://crypto.iacr.org/2021/) <br/>
 2020: [CFAIL](https://www.cfail.org/cfail-2020) <br/>
@@ -22,14 +22,14 @@ permalink: /activities/
 2016: [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm), [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16) <br/>
 
 
-<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h5>
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h4>
 
 **Conferences:** Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
 
-<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h5> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h4> 
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track (Online Talk) - Oct 2020.
