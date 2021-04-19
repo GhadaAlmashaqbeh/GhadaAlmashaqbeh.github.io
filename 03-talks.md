@@ -4,9 +4,14 @@ title: Professional Activities
 permalink: /activities/
 ---
 
-<h1 style="font-family: 'Comic Sans MS'">Professional Activities</h1>
+<h4 style="font-family: 'Comic Sans MS'"><b>Events</b></h4> 
+---------------------------------------
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Program Committee Member</b></u></h4> 
+* [Grace Hopper Celebration (GHC),](https://ghc.anitab.org/) Security/Privacy track - Oct 2020 (speaker)
+* [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator)
+
+<h4 style="font-family: 'Comic Sans MS'"><b>Program Committee Member</b></h4> 
+---------------------------------------
 
 2021: [Crypto](https://crypto.iacr.org/2021/) <br/>
 2020: [CFAIL](https://www.cfail.org/cfail-2020) <br/>
@@ -15,7 +20,8 @@ permalink: /activities/
 2016: [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm), [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16) <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Reviewer/sub-reviewer</b></u></h4>
+<h4 style="font-family: 'Comic Sans MS'"><b>Reviewer/sub-reviewer</b></h4>
+---------------------------------------
 
 **Conferences:** Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
 
@@ -25,7 +31,8 @@ permalink: /activities/
 <h4 style="font-family: 'Comic Sans MS'"><u><b>Panels</b></u></h4>
 ***Crypto-Economics 101***, in the 6th Annual Entrepreneurship Festival StartupColumbia, Columbia University, NY - Apr 2019.
 
-<h4 style="font-family: 'Comic Sans MS'"><u><b>Talks</b></u></h4> 
+<h4 style="font-family: 'Comic Sans MS'"><b>Talks</b></h4> 
+---------------------------------------
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track (Online Talk) - Oct 2020.
