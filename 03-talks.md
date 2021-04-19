@@ -4,7 +4,7 @@ title: Professional Activities
 permalink: /activities/
 ---
 
-<h1 style="font-family: 'Comic Sans MS'">Professional Activities</h1>
+<h1 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h1>
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
 
