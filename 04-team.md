@@ -10,9 +10,11 @@ permalink: /team/
 I am fortunate to work with/advise a talented group of students. 
 
 **Current Students:**
+
 **PhD**
+
 **Undergraduate**
 
 **Previous Students:**
-* Pablo Rodriguez (Undergrad - UConn) ==> Not at Google.
+* Pablo Rodriguez (Undergrad - UConn) ==> Google.
 * Bradshaw Pines (Undergrad - UConn).
