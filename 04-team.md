@@ -9,9 +9,9 @@ permalink: /team/
 
 I am fortunate to work with/advise a talented group of students: 
 
-**Current Students:**
+**Current Students**
 * ... 
 
-**Previous Students:**
+**Previous Students**
 * Pablo Rodriguez (Undergrad) &#8594; Google.
 * Bradshaw Pines (Undergrad).
