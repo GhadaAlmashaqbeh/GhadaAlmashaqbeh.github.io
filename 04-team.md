@@ -7,14 +7,11 @@ permalink: /team/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Team</h3>
 
-I am fortunate to work with/advise a talented group of students. 
+I am fortunate to work with/advise a talented group of students: 
 
 **Current Students:**
-
-**PhD**
-
-**Undergraduate**
+* ... 
 
 **Previous Students:**
-* Pablo Rodriguez (Undergrad - UConn) ==> Google.
-* Bradshaw Pines (Undergrad - UConn).
+* Pablo Rodriguez (Undergrad) &#8594; Google.
+* Bradshaw Pines (Undergrad).
