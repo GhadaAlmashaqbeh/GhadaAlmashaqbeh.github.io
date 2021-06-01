@@ -26,6 +26,6 @@ Before joining UConn, I spent a year exploring the entrepreneurship world. I cof
 <br/> 
 
 ---------------------------------------
-**<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students to start Fall 2021 or Spring 2022.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems, feel free to contact me! 
+**<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students to join either this Fall 2021 or in Spring 2022.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems, feel free to contact me! 
 
 ---------------------------------------
