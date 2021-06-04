@@ -19,7 +19,7 @@ layout: default
 </div>
 
 
-I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, privacy, and distributed systems. I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) (Cryptography lab at Columbia). 
+I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, privacy, and distributed systems. I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal). 
  
 Before joining UConn, I spent a year exploring the entrepreneurship world. I cofounded [CacheCash](https://cachecash.com), a startup that builds a decentralized content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. 
 <br/>
