@@ -7,7 +7,7 @@ permalink: /research/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h3>
 
-My research interests span cryptography, computer security, privacy, and distributed systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
+My research interests span cryptography, computer security, and privacy. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
 <br/>
 
 
