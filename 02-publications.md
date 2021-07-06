@@ -18,7 +18,7 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
   [Preprint version](https://eprint.iacr.org/2021/133)
 
 * G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() to appear in PETS 2021.<br/>
-  [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides]() &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
+  [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
   
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain/Cryptocurrency-based Decentralized Services</h4> 

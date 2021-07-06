@@ -32,6 +32,9 @@ Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h4> 
 
+***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf)<br/> 
+&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 (Online Talk) - July 2021.
+
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track (Online Talk) - Oct 2020.
 
