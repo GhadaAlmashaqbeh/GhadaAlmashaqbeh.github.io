@@ -17,13 +17,13 @@ _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for 
 * R. Solomon and G. Almashaqbeh. ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021.<br/>
   [Preprint version](https://eprint.iacr.org/2021/133)
 
-* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() to appear in PETS 2021.<br/>
+* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"]() PETS 2021.<br/>
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
   
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain/Cryptocurrency-based Decentralized Services</h4> 
   
-* G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."]() to appear in USENIX ;login: Magazine, 2021.<br/>
+* G. Almashaqbeh. ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."](https://www.usenix.org/publications/loginonline/rethinking-service-systems) USENIX ;login: Magazine, 2021.<br/>
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
 * G. Almashaqbeh, A. Bishop, and J. Cappos. ["MicroCash: Practical Concurrent Processing of Micropayments."](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13) Financial Cryptography, 2020.<br/>
