@@ -6,7 +6,7 @@ layout: default
 
 [Syllabus](./syllabus.pdf)
 
-Lecture slides and assigned reading (assignments, class recordings, etc., can be found on HuskyCT).
+Lecture slides and assigned reading (assignments, announcements, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
