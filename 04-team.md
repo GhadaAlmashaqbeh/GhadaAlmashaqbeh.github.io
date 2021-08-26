@@ -10,7 +10,7 @@ permalink: /team/
 I am fortunate to work with/advise a talented group of students: 
 
 **Current Students**
-* Zahra (Raha) Motaqy (Fall 2021 - present)
+* Zahra (Raha) Motaqy, PhD (Fall 2021 - present)
 
 **Previous Students**
 * Pablo Rodriguez (Undergrad) &#8594; Google
