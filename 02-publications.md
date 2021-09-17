@@ -6,7 +6,9 @@ permalink: /publications/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Publications</h3>
 
-A selected list based on my current research interest. _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
+A selected list based on my current research interests. _Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list._<br/>
+
+<span style="font-size:4em">Papers with \*\* indicates an alphabetic ordered author list (convention in theory cryptography community). The rest are contribution based author list (convention in security/systems community).</span> <br/>
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
@@ -21,7 +23,7 @@ A selected list based on my current research interest. _Check [here](https://sch
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Published</h4> 
 
-* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) PETS 2021.<br/>
+* \*\* G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer. ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) PETS 2021.<br/>
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
 
 * Z. Mataqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani. ["Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts,"]() to appear in GameSec 2021.<br/>
