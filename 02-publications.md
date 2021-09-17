@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Publications</h3>
 
-A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?user=QKIkII0AAAAJ&hl=en) for a complete publications list.<br/>
+A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
