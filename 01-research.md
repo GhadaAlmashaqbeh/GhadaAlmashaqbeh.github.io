@@ -25,7 +25,6 @@ My research interests span cryptography, computer security, and privacy. Broadly
 * **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) system that not only supports private payments, but also arbitrary computations over private data and accounts. The project aims to explore to what extent fully homomorphic encryption (which allow computation over encrypted data) combined with non-interactive zero knowledge proofs (to defend against malicious adversaries) can be utilized in achieving this goal. More about our PPSC framework can be found in our [paper](https://eprint.iacr.org/2021/133).
 
 
-* **Basing cryptography on biological polymers:** In stealthy mode :)
 <br/>
 <br/>
 
