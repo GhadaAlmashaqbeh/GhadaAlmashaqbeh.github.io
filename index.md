@@ -12,7 +12,7 @@ layout: default
        <div class="content">
           <span style="color:grey;font-size:14px;">
             <p><b>Ghada Almashaqbeh</b> <br/> Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
-            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada.almashaqbeh at uconn.edu <br/> <u>Office:</u> ITE 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
+            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada at uconn.edu <br/> <u>Office:</u> ITE 255 <br/> 371 Fairfield Way <br/> UBox 4155 <br/> Storrs, CT  06269</p>
           </span> 
        </div>
     </div>
