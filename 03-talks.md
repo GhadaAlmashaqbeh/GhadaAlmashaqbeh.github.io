@@ -8,6 +8,7 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
 
+[USENIX Enigma](https://www.usenix.org/conference/enigma2022), Upcoming - Feb 2022 (speaker) <br/>
 Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panel speaker) <br/>
 [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 [Entrepreneurship Festival StartupColumbia](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker, [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101)) <br/>
@@ -25,7 +26,7 @@ Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h4>
 
-**Conferences:** Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
+**Conferences:** EuroS&P 2022, Crypto 2021, Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 

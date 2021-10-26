@@ -19,9 +19,11 @@ layout: default
 </div>
 
 
-I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, and privacy. I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal). 
+I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, and privacy. I am an affiliated member at the [Connecticut Advanced Computing Center (CACC)](https://cacc.uconn.edu/) and the [Engineering for Human Rights Initiative](https://engineeringforhumanrights.uconn.edu/) at UConn.
  
-Before joining UConn, I spent a year exploring the entrepreneurship world. I cofounded [CacheCash](https://cachecash.com), a startup that builds a decentralized content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. 
+Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded [CacheCash](https://cachecash.com), a startup that builds a decentralized content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. 
+
+I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to be advised by [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal). 
 <br/>
 <br/> 
 
