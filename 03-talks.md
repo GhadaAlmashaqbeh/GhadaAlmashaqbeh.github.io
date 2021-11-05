@@ -19,10 +19,9 @@ Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Program Committee Member</h4> 
 
 2021: [Crypto](https://crypto.iacr.org/2021/) <br/>
-2020: [CFAIL](https://www.cfail.org/cfail-2020) <br/>
-2019: [CFAIL](https://www.cfail.org/past-events) <br/>
+2019/2020: CFAIL['19](https://www.cfail.org/past-events), and ['20](https://www.cfail.org/cfail-2020) <br/>
 2017: [CSAW](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
-2016: [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm), [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16) <br/>
+2016: [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16),[IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm)  <br/>
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h4>
