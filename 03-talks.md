@@ -26,7 +26,7 @@ Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h4>
 
-**Conferences:** EuroS&P 2022, Crypto 2021, Eurocrypt 2021, Eurocrypt 2020, TCC 2018, USENIX Security 2018, DSC 2017, USENIX ATC 2017, Eurocrypt 2017, CCS 2016 <br/>
+**Conferences:** EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
