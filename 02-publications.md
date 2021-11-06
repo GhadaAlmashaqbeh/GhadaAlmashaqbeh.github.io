@@ -52,8 +52,8 @@ A selected list based on my current research interests. Check [here](https://sch
   Y. Zhang, M. Blanton, and G. Almashaqbeh. <br/>
   [Full version](https://arxiv.org/abs/1509.01763)
   
-* ["Secure distributed genome analysis for GWAS and sequence comparison computation."](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) BMC Medical Informatics and Decision Making, 2015.
-Y. Zhang, M. Blanton, and G. Almashaqbeh. <br/>
+* ["Secure distributed genome analysis for GWAS and sequence comparison computation."](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) BMC Medical Informatics and Decision Making, 2015. <br/>
+Y. Zhang, M. Blanton, and G. Almashaqbeh. 
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Thesis</h4> 
