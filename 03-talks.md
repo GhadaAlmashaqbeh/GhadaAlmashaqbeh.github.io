@@ -12,7 +12,7 @@ permalink: /activities/
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panel speaker) <br/>
 * Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panel speaker) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
-[Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [Entrepreneurship Festival StartupColumbia](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker) <br/>
+* [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [Entrepreneurship Festival StartupColumbia](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker) <br/>
 * [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
@@ -34,9 +34,9 @@ permalink: /activities/
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h4> 
 
 ***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf)<br/> 
-&emsp; Google Cryptography Talks Series (Online Talk) - July 2021.<br/>
-&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 (Online Talk) - July 2021.<br/>
-&emsp; UConn CSE Security Seminar (Online Talk) - July 2021.
+&emsp; Google Cryptography Talks Series (Online Talk) - Jul 2021.<br/>
+&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 (Online Talk) - Jul 2021.<br/>
+&emsp; UConn CSE Security Seminar (Online Talk) - Jul 2021.
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track (Online Talk) - Oct 2020.
@@ -52,7 +52,7 @@ permalink: /activities/
 &emsp; University of Massachusetts at Lowell, MA - Jan 2020.<br/>
 
 ***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
-&emsp; IEEE CNS’19, DC - June 2019.
+&emsp; IEEE CNS’19, DC - Jun 2019.
 
 ***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
 &emsp; PhD dissertation defense, Columbia University, NY - May 2019. 
@@ -79,5 +79,5 @@ permalink: /activities/
 &emsp; NYU Tandon School of Engineering, NY - Dec 2015. 
 
 ***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
-&emsp; Cybersecurity for STEM Teachers Summer program, NYU Polytechnic School of Engineering, NY - July 2015.<br/><br/> 
+&emsp; Cybersecurity for STEM Teachers program, NYU Polytechnic School of Engineering, NY - Jul 2015.<br/><br/> 
 
