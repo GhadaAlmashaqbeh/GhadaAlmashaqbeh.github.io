@@ -7,31 +7,27 @@ permalink: /research/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h3>
 
-My research interests span cryptography, computer security, and privacy. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
-<br/>
+My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Current Projects</h4>
 
-* **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, as well as a scalability solution to allow supporting large number of users at a low overhead.
+* **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
+* **PrivML:** Look into applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
 
 * **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
 
 
-* **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound on non-interactive MPC protocol (computing the functionality output on honest parties inputs and all combinations of adversarial inputs), and enforce complete fairness (either all parties learn the output or no one does). The project utilizes a blockchain in a novel way, incorporating smart contracts and (arbitrary) miners as participants. Monetary incentivised time lock capsules are used to economically incentivize participants to evaluate the intended MPC functionality, otherwise, miners will do that while collecting the participants collateral as a reward. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
+* **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound on non-interactive MPC protocol and enforce complete fairness. The project utilizes a blockchain in a novel way, incorporating smart contracts and (arbitrary) miners as participants. Monetary incentivised time lock capsules are used to economically incentivize participants to evaluate the intended MPC functionality, otherwise, miners will do that while collecting the participants collateral as a reward. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
 
-* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) system that not only supports private payments, but also arbitrary computations over private data and accounts. The project aims to explore to what extent fully homomorphic encryption (which allow computation over encrypted data) combined with non-interactive zero knowledge proofs (to defend against malicious adversaries) can be utilized in achieving this goal. More about our PPSC framework can be found in our [paper](https://eprint.iacr.org/2021/133).
-
-
-<br/>
-<br/>
+* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) system that not only supports private payments, but also arbitrary computations over private data and accounts. The project aims to explore to what extent fully homomorphic encryption combined with non-interactive zero knowledge proofs can help with achieving this goal. More about our PPSC framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current solutions for privacy and blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Previous Projects</h4>
 
-* **CacheCash:** A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project covered several components including a threat modeling framework for cryptocurrencies ([ABC, CryBlock 2019](https://ieeexplore.ieee.org/document/8845101)), a defense mechanism against cache accounting attacks in peer-assisted CDNs ([CAPnet, IEEE CNS 2019](https://ieeexplore.ieee.org/document/8802825)), a lightweight probabilistic micropayment scheme ([MicroCash, FC 2020](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13)), and CacheCash ([CacheCash, PhD Thesis 2019](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57)), the main system that integrates these modules together along with innovative cryptographic and financial security defenses.
+* **CacheCash:** A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project covered several components including a threat modeling framework for cryptocurrencies ([ABC, CryBlock 2019](https://ieeexplore.ieee.org/document/8845101)), a defense mechanism against cache accounting attacks ([CAPnet, IEEE CNS 2019](https://ieeexplore.ieee.org/document/8802825)), a lightweight probabilistic micropayment scheme ([MicroCash, FC 2020](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13)), and CacheCash ([CacheCash, PhD Thesis 2019](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57)), the main system that integrates these modules together along with innovative cryptographic and financial security defenses.
 
 
 * **Privacy-preserving programming compiler extension:** Build the first framework to support pointers to private data for privacy preserving programming compilers. This involved extending the PICCO compiler to implement this framework, and studying the efficiency trade-offs of using pointers to private data in secure algorithms and protocols. Read about this framework in our [TOPS 2017](https://dl.acm.org/citation.cfm?id=3154600) paper.
