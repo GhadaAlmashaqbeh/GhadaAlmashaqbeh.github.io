@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 permalink: /publications/
 ---
 
-<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Publications</h3>
+<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h3>
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
