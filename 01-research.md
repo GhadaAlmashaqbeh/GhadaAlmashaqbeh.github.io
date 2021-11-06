@@ -14,7 +14,7 @@ My research interests span cryptography, computer security, and privacy with a l
 
 * **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
-* **PrivML:** Look into applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
+* **PrivML:** Investigate into applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
 
 * **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
 
