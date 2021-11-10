@@ -7,24 +7,24 @@ permalink: /research/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h3>
 
-My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing.  
+My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Current Projects</h4>
 
 * **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
-* **PrivML:** Investigate into applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
+* **PrivML:** Investigate applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
 
 * **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
 
 
-* **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound on non-interactive MPC protocol and enforce complete fairness. The project utilizes a smart contract-enabled blockchain in a novel way; monetary incentivised time lock capsules are used to economically incentivize participants to evaluate the intended MPC functionality, otherwise, miners will do that while collecting the participants collateral as a reward. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
+* **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound of non-interactive MPC protocol and enforce complete fairness. The project introduces monetary incentivised time lock capsules, a robust version of garbled circuits, and combined these with a smart contract-enabled blockchain to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
 
-* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) system using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current solutions for privacy and blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
+* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current privacy solutions for blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
 
-* **Basing cryptography on uncloneable polymers:** In stealthy mode :) 
+* **Basing cryptography on biological assumptions:** In stealthy mode :) 
 <br/>
 
 
