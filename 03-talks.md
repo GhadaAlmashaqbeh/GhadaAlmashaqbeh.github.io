@@ -9,10 +9,10 @@ permalink: /activities/
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
 
 * [Enigma](https://www.usenix.org/conference/enigma2022), USENIX, Feb 2022 (speaker) <br/>
-* Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panel speaker) <br/>
-* Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panel speaker) <br/>
+* Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
+* Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panelist) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
-* [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panel speaker) <br/>
+* [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) <br/>
 * [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
