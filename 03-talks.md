@@ -8,7 +8,7 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
 
-* [Enigma](https://www.usenix.org/conference/enigma2022), USENIX, Feb 2022 (speaker) <br/>
+* [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
 * Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panelist) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>

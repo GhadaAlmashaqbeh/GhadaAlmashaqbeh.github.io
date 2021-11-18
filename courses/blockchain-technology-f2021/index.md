@@ -10,6 +10,9 @@ Lecture slides and assigned reading (assignments, announcements, etc., can be fo
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Term project presentations|
+| Week 14 | Slides: rest of Lecture 16 <br/> Class Discussion: Interplay of blockchain, privacy, and regulations|
+| Week 13 | Thanksgiving recess (no classes) |
 | Week 12 | Slides: rest of Lecture 16 and Zero Knowledge Proofs |
 | Week 11 | Slides: [Lecture 15](./lecture15.pdf), [Lecture 16](./lecture16.pdf), [Zero Knowledge Proofs](./ZKP.pdf) <br/> Assigned reading: <br/> &emsp; - [Blockchain Privacy: Equal Parts Theory, Practice](https://www.zfnd.org/blog/blockchain-privacy/), a blog post by Ian Miers. <br/> &emsp; - Henry et al. [Blockchain Access Privacy: Challenges and Directions,](https://www.cs.purdue.edu/homes/akate/publications/BlockchainAccessPrivacy_preprint.pdf) in IEEE S&P Magazine, 2018. <br/>&emsp; - A high level overview of ZKPs, [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), a blog post by Matthew Green.|
 | Week 10 | Slides: rest of Lecture 14|
