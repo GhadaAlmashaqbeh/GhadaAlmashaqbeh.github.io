@@ -33,7 +33,11 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h4> 
 
+***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; <br/> 
+&emsp; USENIX Enigma Conference - Feb 2022 (Upcoming!).
+
 ***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf)<br/> 
+&emsp; Protocol Labs Research Seminar Series (Online Talk) - Feb 2022 (Upcoming!).<br/>
 &emsp; Google Cryptography Talks Series (Online Talk) - Jul 2021.<br/>
 &emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 (Online Talk) - Jul 2021.<br/>
 &emsp; UConn CSE Security Seminar (Online Talk) - Jul 2021.
