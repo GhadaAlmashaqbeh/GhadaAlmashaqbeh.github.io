@@ -37,20 +37,20 @@ permalink: /activities/
 &emsp; USENIX Enigma Conference - Feb 2022 (Upcoming!).
 
 ***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf)<br/> 
-&emsp; Protocol Labs Research Seminar Series (online talk) - Feb 2022 (Upcoming!).<br/>
-&emsp; Google Cryptography Talks Series (online talk) - Jul 2021.<br/>
-&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 (online talk) - Jul 2021.<br/>
-&emsp; UConn CSE Security Seminar (online talk) - Jul 2021.
+&emsp; Protocol Labs Research Seminar Series - Feb 2022 (Upcoming!).<br/>
+&emsp; Google Cryptography Talks Series - Jul 2021.<br/>
+&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021.<br/>
+&emsp; UConn CSE Security Seminar - Jul 2021.
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
-&emsp; Grace Hopper Celebration (GHC), Security/Privacy track (online talk) - Oct 2020.
+&emsp; Grace Hopper Celebration (GHC), Security/Privacy track - Oct 2020.
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
-&emsp; University of Malaga, Spain (online talk) - May 2020.
+&emsp; University of Malaga, Spain - May 2020.
 
 ***Building Secure Distributed Services and Resource Markets*** &emsp; [_Slides_](../slides/job-talk.pdf)<br/> 
-&emsp; University of Rochester, NY (online talk) - Mar 2020.<br/>
-&emsp; University of Florida, FL (online talk) - Mar 2020.<br/>
+&emsp; University of Rochester, NY - Mar 2020.<br/>
+&emsp; University of Florida, FL - Mar 2020.<br/>
 &emsp; University of Connecticut, CT - Mar 2020.<br/>
 &emsp; Georgetown University, DC - Feb 2020.<br/>
 &emsp; University of Massachusetts at Lowell, MA - Jan 2020.<br/>
