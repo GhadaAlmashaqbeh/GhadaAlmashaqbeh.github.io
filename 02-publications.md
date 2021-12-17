@@ -28,7 +28,7 @@ A selected list based on my current research interests. Check [here](https://sch
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
 
 * ["Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts,"](https://link.springer.com/chapter/10.1007/978-3-030-90370-1_16) GameSec 2021.<br/>
-  Z. Mataqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani <br/>
+  Z. Motaqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani <br/>
   [Preprint version](https://arxiv.org/pdf/2010.12280.pdf)&emsp; [Slides](../slides/gamesec21.pdf) 
 
 * ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."](https://www.usenix.org/publications/loginonline/rethinking-service-systems) USENIX ;login: Magazine, 2021.<br/>
