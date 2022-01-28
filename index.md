@@ -19,15 +19,16 @@ layout: default
 </div>
 
 
-I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, and privacy. I am an affiliated member at the [Connecticut Advanced Computing Center (CACC)](https://cacc.uconn.edu/) and the [Engineering for Human Rights Initiative](https://engineeringforhumanrights.uconn.edu/) at UConn.
+I am an assistant professor in the [Computer Science and Engineering](https://www.cse.uconn.edu/) department at UConn. My [research interests](/research/) cover cryptography, computer systems security, and privacy. I am an affiliated member at the [Connecticut Advanced Computing Center (CACC)](https://cacc.uconn.edu/) and the [Engineering for Human Rights Initiative](https://engineeringforhumanrights.uconn.edu/) at UConn. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a decentralized cryptocurrency-based content delivery network (CDN), which was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/). Now, I am a scientific advisor for Sunscreen Tech.
  
-Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded [CacheCash](https://cachecash.com), a startup that builds a decentralized content delivery network (CDN) service powered by a cryptocurrency. CacheCash was the core work I've done for my PhD thesis! I also worked as a Cryptographer at [NuCypher](https://www.nucypher.com/), a startup that builds an infrastructure for privacy-preserving applications. Now, I am a scientific advisor for Sunscreen Tech.
-
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to have [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) as my advisors. 
+
 <br/>
-<br/> 
 
 ---------------------------------------
 **<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students to join my group for Fall 2022.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 
 ---------------------------------------
+**<span style="color:black;font-family: 'Comic Sans MS';"><u>News:</u></span>**
+
+**Aug 2020** Joined UConn's CSE department!
