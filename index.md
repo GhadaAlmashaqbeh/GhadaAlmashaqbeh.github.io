@@ -42,10 +42,12 @@ I received my PhD in Computer Science from Columbia University in 2019, where I 
 
 **May 2021** A panelist in SYF event “Blockchain Coffee Talk”
 
+**Feb 2021** Received Teaching Excellence recognition from the provost
+
 **Jan 2021** Will serve on the PC of Crypto'21
 
 **Dec 2020** Our article "Building secure decentralized services and resource markets" has been accepted in USENIX ;login: magazine
 
-**Oct 2020** Selected as a speaker at GHC to talk about decentralized services and resource markets.
+**Oct 2020** Will speak at GHC about decentralized services and resource markets.
 
 **Aug 2020** Joined UConn's CSE department!
