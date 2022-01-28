@@ -17,7 +17,6 @@ I am fortunate to work with/advise a talented group of students:
 * Bradshaw Pines (Undergrad)
 
 
-<br/>
 ---------------------------------------
 **<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students to join my group for Fall 2022.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 
