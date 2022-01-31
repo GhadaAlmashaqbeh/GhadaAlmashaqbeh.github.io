@@ -23,31 +23,9 @@ I am an assistant professor in the [Computer Science and Engineering](https://ww
  
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to have [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) as my advisors. 
 
+</br>
 
-**<span style="color:black;font-family: 'Comic Sans MS';"><u>News:</u></span>**
+---------------------------------------
+**<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** **I am looking for self-motivated and talented PhD students to join my group for Fall 2022.** If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 
-**Feb 2022** Will speak at USENIX Enigma'22 about privacy in the blockchain era
-
-**Feb 2022** Will speak at Protocol Labs Research Seminar Series about our work Gage MPC
-
-**Jan 2022** Will serve on the PC of Asiacrypt'22
-
-**Nov 2021** A panelist in WISP/BLF event “Exploring the Interplay of Privacy, Security, and Blockchain Technologies”
-
-**Sep 2021** Our paper “Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts” has been accepted in GameSec'21
-
-**Jul 2021** Will speak at Google Cryptography Talks Series about our work Gage MPC
-
-**May 2021** Our paper “Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC" has been accepted in PETS'21 
-
-**May 2021** A panelist in SYF event “Blockchain Coffee Talk”
-
-**Feb 2021** Received Teaching Excellence recognition from the provost
-
-**Jan 2021** Will serve on the PC of Crypto'21
-
-**Dec 2020** Our article "Building secure decentralized services and resource markets" has been accepted in USENIX ;login: magazine
-
-**Oct 2020** Will speak at GHC about decentralized services and resource markets.
-
-**Aug 2020** Joined UConn's CSE department!
+---------------------------------------
