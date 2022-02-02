@@ -23,7 +23,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Published</h4> 
 
-* ["Bounded-Execution Software from Uncolnable Polymers,"]() to appear in **Eurocrypt 2022!**<br/>
+* ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022!**<br/>
   G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021.**<br/>
