@@ -25,7 +25,7 @@ permalink: /activities/
 **2016:** [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16), [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm)  <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer/sub-reviewer</h4>
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer</h4>
 
 **Conferences:** Asiacrypt'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
