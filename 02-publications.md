@@ -8,7 +8,7 @@ permalink: /publications/
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
-These with \*\* are alphabetical order authors list (theory cryptography community convention), the rest are contribution-based.
+<span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
 
