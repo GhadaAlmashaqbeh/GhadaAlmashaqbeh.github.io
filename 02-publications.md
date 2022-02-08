@@ -8,6 +8,7 @@ permalink: /publications/
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
+These with \*\* are alphabetical order authors list (theory cryptography community convention), the rest are contribution-based.
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
 
@@ -24,10 +25,10 @@ A selected list based on my current research interests. Check [here](https://sch
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Published</h4> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
-  G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
+  \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021**<br/>
-  G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
+  \*\*G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
 
 * ["Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts,"](https://link.springer.com/chapter/10.1007/978-3-030-90370-1_16) **GameSec 2021**<br/>
