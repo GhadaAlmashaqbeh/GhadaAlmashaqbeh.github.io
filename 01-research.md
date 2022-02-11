@@ -13,7 +13,7 @@ My research interests span cryptography, computer security, and privacy with a l
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Current Projects</h4>
 
-* **chainBoost:** Develop a secure framework for boostign performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
+* **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
 * **PrivML:** Investigate applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
 
