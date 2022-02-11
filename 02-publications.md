@@ -11,12 +11,12 @@ A selected list based on my current research interests. Check [here](https://sch
 
 [Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
 
-<h2 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</h2> 
+<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</h5> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
-<h2 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Multiparty Computation (MPC)</h2> 
+<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Multiparty Computation (MPC)</h5> 
 
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021**<br/>
   \*\*G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
@@ -30,7 +30,7 @@ A selected list based on my current research interests. Check [here](https://sch
 Y. Zhang, M. Blanton, and G. Almashaqbeh 
 
 
-<h2 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain's Security/Privacy</h2> 
+<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain's Security/Privacy</h5> 
 
 * Preprint - ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() 2021<br/>
   G. Almashaqbeh and R. Solomon <br/>
@@ -62,7 +62,7 @@ Y. Zhang, M. Blanton, and G. Almashaqbeh
   [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf) 
 
 
-<h2 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Thesis</h2> 
+<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Thesis</h5> 
 
 G. Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network."](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57) PhD thesis, Columbia University, 2019
 
