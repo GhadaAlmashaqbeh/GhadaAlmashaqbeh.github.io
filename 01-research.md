@@ -13,19 +13,15 @@ My research interests span cryptography, computer security, and privacy with a l
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Current Projects</h4>
 
-* **chainBoost:** Develop a performance optimization framework for decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
+* **chainBoost:** Develop a secure framework for boostign performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
+
+* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
+
+* **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
 * **PrivML:** Investigate applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
 
-* **InterBC:** Develop a generic framework for interoperability of various types of blockchains; permissionless with permissioned, PoW-based with PoS-based/etc., account-based model with UTXO-based, and many others. Also, explore to what extent such an interoperability framework will be helpful in the context of DeFi.
-
-
-* **Gage MPC:** Develop a new MPC model to circumvent the residual function lower bound of non-interactive MPC protocol and enforce complete fairness. The project introduces monetary incentivised time lock capsules, a robust version of garbled circuits, and combined these with a smart contract-enabled blockchain to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
-
-
-* **smartFHE:** Investigate the possibility of building privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current privacy solutions for blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
-
-* **Basing cryptography on biological assumptions:** In stealthy mode :) 
+* **Basing cryptography on biological assumptions:** In stealthy mode :) More about it in our [paper]() (soon to appear in Eurocrypt 2022).
 <br/>
 <br/>
 
