@@ -5,13 +5,13 @@ permalink: /research/
 ---
 
 
-<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h3>
+<h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h4>
 
 My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
 <br/>
 <br/>
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Current Projects</h4>
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Current Projects</div>
 
 * **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
@@ -25,7 +25,7 @@ My research interests span cryptography, computer security, and privacy with a l
 <br/>
 <br/>
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Previous Projects</h4>
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Previous Projects</div>
 
 * **CacheCash:** A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project covered several components including a threat modeling framework for cryptocurrencies ([ABC, CryBlock 2019](https://ieeexplore.ieee.org/document/8845101)), a defense mechanism against cache accounting attacks ([CAPnet, IEEE CNS 2019](https://ieeexplore.ieee.org/document/8802825)), a lightweight probabilistic micropayment scheme ([MicroCash, FC 2020](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13)), and CacheCash ([CacheCash, PhD Thesis 2019](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57)), the main system that integrates these modules together along with innovative cryptographic and financial security defenses.
 

@@ -3,14 +3,14 @@ layout: page
 permalink: /publications/by-date/
 ---
 
-<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h3>
+<h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h4>
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list including these on Wireless Networks---my previous research topic.<br/>
-<span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
+<span style="color:grey;font-size:13px;">These with \*\* are alphabetical-ordered authors list (theory cryptography convention), the rest are contribution-based.</span> 
 
 [Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Preprints</div> 
 
 * ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() 2021<br/>
   G. Almashaqbeh and R. Solomon <br/>
@@ -22,7 +22,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
   
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Published</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Published</div> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
@@ -60,7 +60,7 @@ A selected list based on my current research interests. Check [here](https://sch
 Y. Zhang, M. Blanton, and G. Almashaqbeh 
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Thesis</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Thesis</div> 
 
 G. Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network."](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57) PhD thesis, Columbia University, 2019
 

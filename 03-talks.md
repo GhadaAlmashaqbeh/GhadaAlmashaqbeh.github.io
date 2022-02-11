@@ -4,9 +4,9 @@ title: Professional Activities
 permalink: /activities/
 ---
 
-<h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h3>
+<h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h4>
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Events</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Events</div> 
 
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
@@ -16,7 +16,7 @@ permalink: /activities/
 * [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Program Committee Member</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Program Committee Member</div> 
 
 **2022:** [Asiacrypt]() <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
@@ -25,14 +25,14 @@ permalink: /activities/
 **2016:** [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16), [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm)  <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Reviewer</h4>
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Reviewer</div>
 
 **Conferences:** Asiacrypt'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Talks</h4> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Talks</div> 
 
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
