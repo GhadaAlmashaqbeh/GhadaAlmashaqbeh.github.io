@@ -8,7 +8,7 @@ permalink: /publications/
 
 A selected list based on my current research interests---[grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/). 
 
-Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list including these covering previous research topics on wireless networks.<br/>
+Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list including these on Wireless Networks---my previous research topic.<br/>
 
 <span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
 
