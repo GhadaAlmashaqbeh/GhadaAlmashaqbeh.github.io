@@ -9,7 +9,7 @@ permalink: /publications/
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list including these on Wireless Networks---my previous research topic.<br/>
 <span style="color:grey;font-size:13px;">These with \*\* are alphabetical-ordered authors list (theory cryptography convention), the rest are contribution-based.</span> 
 
-[Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
+<span style="text-align: right;">[Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)</span>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Cryptography from Physical Assumptions</div>
 
