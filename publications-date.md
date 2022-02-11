@@ -6,7 +6,9 @@ permalink: /publications/by-date/
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h3>
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list including these on Wireless Networks---my previous research topic.<br/>
-<span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span>
+<span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
+
+[Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
 
