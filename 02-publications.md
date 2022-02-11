@@ -10,17 +10,6 @@ A selected list---[grouped by topic](https://ghadaalmashaqbeh.github.io/publicat
 
 <span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Preprints</h4> 
-
-* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() 2021<br/>
-  G. Almashaqbeh and R. Solomon <br/>
-  [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
-
-* ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021<br/>
-  R. Solomon and G. Almashaqbeh <br/>
-  [Preprint version](https://eprint.iacr.org/2021/133)
-
-  
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</h4> 
 
@@ -42,6 +31,14 @@ Y. Zhang, M. Blanton, and G. Almashaqbeh
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain's Security/Privacy</h4> 
+
+* Preprint - ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() 2021<br/>
+  G. Almashaqbeh and R. Solomon <br/>
+  [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
+
+* Preprint - ["smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,"]() 2021<br/>
+  R. Solomon and G. Almashaqbeh <br/>
+  [Preprint version](https://eprint.iacr.org/2021/133)
 
 * ["Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts,"](https://link.springer.com/chapter/10.1007/978-3-030-90370-1_16) **GameSec 2021**<br/>
   Z. Motaqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani <br/>
