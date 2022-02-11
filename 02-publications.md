@@ -11,7 +11,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 [Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
 
-<h5 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</h5> 
+<span style="font-family: 'Comic Sans MS'; font-size:20px; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</span> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
