@@ -35,7 +35,7 @@ A selected list based on my current research interests. Check [here](https://sch
   Z. Motaqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani <br/>
   [Preprint version](https://arxiv.org/pdf/2010.12280.pdf)&emsp; [Slides](../slides/gamesec21.pdf) 
 
-* ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."](https://www.usenix.org/publications/loginonline/rethinking-service-systems) **USENIX ;login:** Magazine, 2021<br/>
+* ["Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets."](https://www.usenix.org/publications/loginonline/rethinking-service-systems) **USENIX ;login: Magazine, 2021**<br/>
   G. Almashaqbeh<br/> 
   [Preprint version](./preprint/almashaqbeh-login-21.pdf) &emsp; [Blog Post](https://blog.nucypher.com/the-path-towards-building-decentralized-services/)
 
