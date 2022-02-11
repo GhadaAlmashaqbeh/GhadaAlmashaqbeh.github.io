@@ -10,7 +10,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 [Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Preprints</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprints</div> 
 
 * ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() 2021<br/>
   G. Almashaqbeh and R. Solomon <br/>
@@ -22,7 +22,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
   
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Published</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
@@ -60,7 +60,7 @@ A selected list based on my current research interests. Check [here](https://sch
 Y. Zhang, M. Blanton, and G. Almashaqbeh 
 
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Thesis</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Thesis</div> 
 
 G. Almashaqbeh. ["CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network."](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57) PhD thesis, Columbia University, 2019
 
