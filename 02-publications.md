@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h3>
 
-A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
+A selected list grouped by topic. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
 <span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
 
@@ -22,14 +22,26 @@ A selected list based on my current research interests. Check [here](https://sch
 
   
 
-<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Published</h4> 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Cryptography from Physical Assumptions</h4> 
 
 * ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Multiparty Computation (MPC)</h4> 
+
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021**<br/>
   \*\*G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
+
+  * ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security **(TOPS) 2017** <br/>
+  Y. Zhang, M. Blanton, and G. Almashaqbeh <br/>
+  [Full version](https://arxiv.org/abs/1509.01763)
+  
+* ["Secure distributed genome analysis for GWAS and sequence comparison computation."](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) **BMC Medical Informatics and Decision Making 2015** <br/>
+Y. Zhang, M. Blanton, and G. Almashaqbeh 
+
+
+<h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Blockchain's Security/Privacy</h4> 
 
 * ["Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts,"](https://link.springer.com/chapter/10.1007/978-3-030-90370-1_16) **GameSec 2021**<br/>
   Z. Motaqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani <br/>
@@ -51,13 +63,6 @@ A selected list based on my current research interests. Check [here](https://sch
   G. Almashaqbeh, A. Bishop, and J. Cappos <br/>
   <span style="color: red;">_Best Paper Award_</span> <br/>
   [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf) 
-
-* ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security **(TOPS) 2017** <br/>
-  Y. Zhang, M. Blanton, and G. Almashaqbeh <br/>
-  [Full version](https://arxiv.org/abs/1509.01763)
-  
-* ["Secure distributed genome analysis for GWAS and sequence comparison computation."](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) **BMC Medical Informatics and Decision Making 2015** <br/>
-Y. Zhang, M. Blanton, and G. Almashaqbeh 
 
 
 <h4 style="font-family: 'Comic Sans MS'; background-color:rgb(213, 216, 220);">Thesis</h4> 
