@@ -6,7 +6,7 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h4>
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);">Events</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:5px;">Events</div> 
 
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
