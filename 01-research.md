@@ -15,7 +15,7 @@ My research interests span cryptography, computer security, and privacy with a l
 
 * **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
 
-* **PrivML:** Investigate applying privacy-preserving technologies, in particular MPC, FHE, threshold cryptography, and zero knowledge proofs, to machine learning (covering both federated learning and inference).
+* **PrivML:** Use privacy-preserving technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference).
 
 * **Basing cryptography on biological assumptions:** In stealthy mode :) More about it in our [paper]() (soon to appear in Eurocrypt 2022).
 
