@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h3 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h3>
 
-A selected list based on my current research interests-[grouped by topic](https://ghadaalmashaqbeh.github.io/publications/), [sorted by date](https://ghadaalmashaqbeh.github.io/publications-date/). Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
+A selected list [grouped by topic](https://ghadaalmashaqbeh.github.io/publications/), [sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/). Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
 <span style="color:grey;font-size:14px;">These with \*\* are alphabetical-ordered authors list (theory cryptography community convention), the rest are contribution-based.</span> 
 
