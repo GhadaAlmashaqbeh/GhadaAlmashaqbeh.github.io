@@ -13,7 +13,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Cryptography from Physical Assumptions</div>
 
-* ["Uncolnable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
+* ["Unclonable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Multiparty Computation (MPC)</div> 
