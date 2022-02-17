@@ -7,19 +7,18 @@ permalink: /publications/
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h4>
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
-<span style="color:grey;font-size:13px;">These with \*\* are alphabetical-ordered authors list (theory cryptography convention), the rest are contribution-based.</span> 
 
 <span style="text-align:right;font-size:14px;">[Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/) or [Sorted by date](https://ghadaalmashaqbeh.github.io/publications/by-date/)</span>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Cryptography from Physical Assumptions</div>
 
 * ["Unclonable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
-  \*\*G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
+  G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Multiparty Computation (MPC)</div> 
 
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021**<br/>
-  \*\*G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
+  G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
   [Full version](https://eprint.iacr.org/2021/256)&emsp; [Slides](../slides/gagempc-pets-2021.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
 
 * ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security **(TOPS) 2017** <br/>
