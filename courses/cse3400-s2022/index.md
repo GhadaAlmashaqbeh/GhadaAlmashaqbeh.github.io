@@ -10,7 +10,8 @@ Lecture slides and covered textbook material (assignments, class recordings, etc
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 5 | Slides: rest of Lecture 4, [Lecture 5](./lecture5.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 3: All except sections 3.4.2, 3.7.2, 3.7.5 |
+| Week 6 | Slides: [Lecture 5](./lecture5.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 3: All except sections 3.4.2, 3.7.2, 3.7.5 |
+| Week 5 | Slides: rest of Lecture 4 |
 | Week 4 | Slides: rest of Lecture 3, [Lecture 4](./lecture4.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 2: Sections 2.6, 2.7, 2.8, and 2.11 excluding: 2.7.3, PBR from 2.8.2, “Encode-then-Encrypt considered harmful.” from 2.8.3, 2.8.4, and 2.8.6 |
 | Week 3 | Slides: rest of Lecture 3 |
 | Week 2 | Slides: rest of Lecture 2, [Lecture 3](./lecture3.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 2: sections 2.4 and 2.5 |
