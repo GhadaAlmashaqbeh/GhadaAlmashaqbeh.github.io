@@ -37,8 +37,8 @@ permalink: /activities/
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
 
-***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf)<br/> 
-&emsp; Protocol Labs Research Seminar Series - Feb 2022 (Upcoming!)<br/>
+***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
+&emsp; Protocol Labs Research Seminar Series - Feb 2022<br/>
 &emsp; Google Cryptography Talks Series - Jul 2021<br/>
 &emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021<br/>
 &emsp; UConn CSE Security Seminar - Jul 2021
