@@ -23,7 +23,7 @@ A selected list based on my current research interests. Check [here](https://sch
 * ["Unclonable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
   G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
 
-* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() to appear in **EuroS\&P 2022**<br/>
+* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() to appear in **EuroS&P 2022**<br/>
   G. Almashaqbeh and R. Solomon <br/>
   [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
 
