@@ -13,15 +13,15 @@ My research interests span cryptography, computer security, and privacy with a l
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Current Projects</div>
 
-* **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large number of users at a low overhead.
+* **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large numbers of users at a low overhead.
 
 * **Basing cryptography on biological assumptions:** In stealthy mode :) More about it in our [paper]() (soon to appear in Eurocrypt 2022).
 
-* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our [SoK paper](https://eprint.iacr.org/2021/727.pdf).
+* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
 * **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
-* **PrivML:** Use privacy-preserving technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference).
+* **PrivML:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference).
 <br/>
 <br/>
 

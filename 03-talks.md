@@ -37,7 +37,7 @@ permalink: /activities/
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
 
-***Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
+***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
 &emsp; Protocol Labs Research Seminar Series - Feb 2022<br/>
 &emsp; Google Cryptography Talks Series - Jul 2021<br/>
 &emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021<br/>
@@ -56,14 +56,14 @@ permalink: /activities/
 &emsp; Georgetown University, DC - Feb 2020<br/>
 &emsp; University of Massachusetts at Lowell, MA - Jan 2020<br/>
 
-***CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
+***CAPnet: A Defense Against Cache Accounting Attacks on CDNs*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS’19, DC - Jun 2019
 
 ***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
 &emsp; PhD dissertation defense, Columbia University, NY - May 2019 
 
 ***The Age of Cryptocurrencies: Bitcoin and Sisters*** &emsp; [_Slides_](../slides/age-of-cryptocurrencies.pdf)<br/>
-&emsp; University of Colorado Colorado Springs, CO (Online Talk) - Mar 2018 and Apr 2019<br/>
+&emsp; University of Colorado Colorado Springs, CO - Mar 2018 and Apr 2019<br/>
 &emsp; NYU Tandon School of Engineering, NY - Dec 2017<br/>
 &emsp; Columbia University, NY - Dec 2017
 
