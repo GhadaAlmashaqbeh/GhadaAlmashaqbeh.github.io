@@ -36,7 +36,7 @@ permalink: /activities/
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
-&emsp; privacy\_infra() - Mar 2022 (Upcoming!) <br/>
+&emsp; privacy\_infra(), Transcend - Mar 2022 (Upcoming!) <br/>
 &emsp; USENIX Enigma Conference - Feb 2022
 
 ***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
