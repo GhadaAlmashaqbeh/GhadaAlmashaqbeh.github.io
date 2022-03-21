@@ -4,8 +4,6 @@ layout: default
 
 **Blockchain Technology - Fall 2020**
 
-[Syllabus](./syllabus.pdf)
-
 Lecture slides and assigned reading (assignments, class recordings, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |

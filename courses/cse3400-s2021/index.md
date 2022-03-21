@@ -4,8 +4,6 @@ layout: default
 
 **Introduction to Computer and Network Security/Cybersecurity - Spring 2021**
 
-[Syllabus](./cse3400-syllabus.pdf)
-
 Lecture slides and covered textbook material (assignments, class recordings, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |

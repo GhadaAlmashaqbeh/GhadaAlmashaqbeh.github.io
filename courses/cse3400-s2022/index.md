@@ -4,12 +4,12 @@ layout: default
 
 **Introduction to Computer and Network Security/Cybersecurity - Spring 2022**
 
-[Syllabus](./syllabus.pdf)
-
 Lecture slides and covered textbook material (assignments, class recordings, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 10 | Slides: rest of Lecture 7, [Blockchains](./blockchains.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 4: Sections 4.6 - 4.9 |
+| Week 9 | Spring Break - No classes |
 | Week 8 | Slides: rest of Lecture 6, [Lecture 7](./lecture7.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 4: Sections 4.6, 4.7, and 4.8 |
 | Week 7 | Slides: [Lecture 6](./lecture6.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 4: Sections 4.1, 4.2 (except 4.2.6), 4.3, 4.4 (except 4.4.2), 4.5 (except 4.5.3) |
 | Week 6 | Slides: [Lecture 5](./lecture5.pdf) <br/> Covered material from the textbook: <br/> &emsp; - Chapter 3: All except sections 3.7.2 and 3.7.5 |
