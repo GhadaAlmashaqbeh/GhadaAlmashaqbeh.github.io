@@ -8,7 +8,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
 
-* [privacy\_infra()](https://transcend.io/privacy_infra/), Transcend, Mar 2022 (speaker, upcoming!) <br/>
+* [privacy\_infra()](https://transcend.io/privacy_infra/), Transcend, Apr 2022 (speaker, upcoming!) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
 * Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panelist) <br/>
@@ -19,7 +19,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
-**2022:** [Asiacrypt]() <br/>
+**2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
 **2019/2020:** CFAIL['19](https://www.cfail.org/past-events), and ['20](https://www.cfail.org/cfail-2020) <br/>
 **2017:** [CSAW](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
@@ -36,7 +36,7 @@ permalink: /activities/
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
-&emsp; privacy\_infra(), Transcend - Mar 2022 (Upcoming!) <br/>
+&emsp; privacy\_infra(), Transcend - Apr 2022 (Upcoming!) <br/>
 &emsp; USENIX Enigma Conference - Feb 2022
 
 ***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
