@@ -13,7 +13,7 @@ My research interests span cryptography, computer security, and privacy with a l
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Current Projects</div>
 
-* **chainBoost:** Develop a secure framework for boosting performance of decentralized blockchain-based services, and a scalability solution to allow supporting large numbers of users at a low overhead.
+* **chainBoost:** Develop secure frameworks for boosting performance and improving scalability of decentralized blockchain-based services (aka Web 3.0).
 
 * **Basing cryptography on biological assumptions:** In stealthy mode :) More about it in our [paper]() (soon to appear in Eurocrypt 2022).
 
