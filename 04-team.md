@@ -11,7 +11,7 @@ I am fortunate to work with/advise a talented group of students:
 
 **Current Students**
 * Zahra (Raha) Motaqy, PhD (Fall 2021 - present)
-* Ronald Maule, undergrad (Summer 2022)
+
 
 **Previous Students**
 * Pablo Rodriguez (Undergrad) &#8594; Google
