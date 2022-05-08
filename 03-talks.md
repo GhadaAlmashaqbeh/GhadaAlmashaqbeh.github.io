@@ -8,10 +8,8 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
 
-* [privacy\_infra()](https://transcend.io/privacy_infra/), Transcend, Apr 2022 (speaker, upcoming!) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
-* Blockchain Coffee Talk, [Synchrony Financial](https://www.synchrony.com/), May 2021 (panelist) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 * [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) <br/>
 * [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
@@ -28,7 +26,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Reviewer</div>
 
-**Conferences:** Asiacrypt'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
+**Conferences:** Asiacrypt'22, CCS'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
@@ -36,7 +34,6 @@ permalink: /activities/
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
-&emsp; privacy\_infra(), Transcend - Apr 2022 (Upcoming!) <br/>
 &emsp; USENIX Enigma Conference - Feb 2022
 
 ***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
