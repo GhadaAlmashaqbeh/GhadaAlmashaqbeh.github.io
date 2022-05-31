@@ -11,8 +11,9 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Cryptography from Physical Assumptions</div>
 
-* ["Unclonable Polymers and Their Cryptographic Applications,"]() to appear in **Eurocrypt 2022**<br/>
+* ["Unclonable Polymers and Their Cryptographic Applications,"](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26) **Eurocrypt 2022**<br/>
   G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
+  [Preprint version](https://eprint.iacr.org/2022/658)
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Multiparty Computation (MPC)</div> 
 
@@ -34,7 +35,7 @@ Y. Zhang, M. Blanton, and G. Almashaqbeh
   R. Solomon and G. Almashaqbeh <br/>
   [Preprint version](https://eprint.iacr.org/2021/133)
 
-* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() to appear in **EuroS&P 2022**<br/>
+* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() **EuroS&P 2022**<br/>
   G. Almashaqbeh and R. Solomon <br/>
   [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
 
