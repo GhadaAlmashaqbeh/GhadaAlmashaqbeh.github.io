@@ -13,7 +13,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * ["Unclonable Polymers and Their Cryptographic Applications,"](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26) **Eurocrypt 2022**<br/>
   G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
-  [Preprint version](https://eprint.iacr.org/2022/658)
+  [Preprint version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Multiparty Computation (MPC)</div> 
 
