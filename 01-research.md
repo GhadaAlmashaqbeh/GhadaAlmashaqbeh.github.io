@@ -15,9 +15,9 @@ My research interests span cryptography, computer security, and privacy with a l
 
 * **chainBoost:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi.
 
-* **Basing cryptography on biological assumptions:** In stealthy mode :) More about it in our [paper]() (soon to appear in Eurocrypt 2022).
+* **Basing cryptography on biological assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our [paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/).
 
-* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption combined and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
+* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
 * **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
