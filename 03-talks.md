@@ -33,6 +33,9 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
+***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) <br/> 
+&emsp; Eurocrypt - Jun 2022
+
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
 
