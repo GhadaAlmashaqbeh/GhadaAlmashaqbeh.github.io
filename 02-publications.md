@@ -24,9 +24,9 @@ A selected list based on my current research interests. Check [here](https://sch
   G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer<br/>
   [Preprint version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
 
-* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"]() **EuroS&P 2022**<br/>
+* ["SoK: Privacy-Preserving Computing in the Blockchain Era,"](https://ieeexplore.ieee.org/document/9797340) **EuroS&P 2022**<br/>
   G. Almashaqbeh and R. Solomon <br/>
-  [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
+  [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; [Slides](../slides/sok-eurosp22.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
 
 * ["Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC,"](https://sciendo.com/article/10.2478/popets-2021-0083) **PETS 2021**<br/>
   G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer<br/>
