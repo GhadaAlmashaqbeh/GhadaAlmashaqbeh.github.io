@@ -37,6 +37,9 @@ permalink: /activities/
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) <br/> 
 &emsp; Eurocrypt - Jun 2022
 
+***Cybersecurity and Society - Blockchain Technology*** &emsp; [_Slides_](uconn-explore-eng-talk.pdf) <br/> 
+&emsp; The UConn Explore Engineering (E2) Program - Jun 2022
+
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
 
