@@ -34,7 +34,8 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
-***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) <br/> 
+***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
+&emsp; CMU CyLab Crypto Seminar - Jul 2022<br/>
 &emsp; Eurocrypt - Jun 2022
 
 ***Cybersecurity and Society - Blockchain Technology*** &emsp; [_Slides_](../slides/uconn-explore-eng-talk.pdf) <br/> 
