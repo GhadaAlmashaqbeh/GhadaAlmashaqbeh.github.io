@@ -23,7 +23,7 @@ I am an assistant professor in the [Computer Science and Engineering](https://ww
  
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to have [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) as my advisors. 
 
-My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed protocols. My research is supported by NSF and UConn Research Excellence Award.
+My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols. My research is supported by NSF and UConn Research Excellence Award.
 
 <br/>
 
