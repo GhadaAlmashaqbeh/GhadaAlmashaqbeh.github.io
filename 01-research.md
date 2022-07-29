@@ -7,21 +7,21 @@ permalink: /research/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h4>
 
-My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
+My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems and distributed protocols. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
 <br/>
 <br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Current Projects</div>
 
-* **chainBoost:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi.
+* **chainBoost:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi, as well as foundations of provable security for blockchain-based resource markets and sidechains. <p style="text-align:right;">Funded by NSF</p>
 
-* **Basing cryptography on biological assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our [paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/).
+* **Basing cryptography on biological assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our ([paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)).
 
 * **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
 * **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to economically incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in our paper ([Gage MPC, PETS 2021](https://eprint.iacr.org/2021/256)).
 
-* **PrivML:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference).
+* **PrivML:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference). Explore directions to support dynamic participation in these protocols and settings with restricted interaction patterns between users. <p style="text-align:right;">Funded by UConn Research Excellence Award</p>
 <br/>
 <br/>
 
