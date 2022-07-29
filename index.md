@@ -12,7 +12,7 @@ layout: default
        <div class="content">
           <span style="color:grey;font-size:14px;">
             <p><b>Ghada Almashaqbeh</b> <br/> Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
-            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada at uconn.edu <br/> <u>Office:</u> ITE 255 <br/> 371 Fairfield Way <br/> Storrs, CT  06269</p>
+            <p> <b>Contact:</b> <br/> <u>Email:</u> ghada at uconn.edu <br/> <u>Office:</u> ITE 255 <br/> Storrs, CT</p>
           </span> 
        </div>
     </div>
@@ -23,7 +23,7 @@ I am an assistant professor in the [Computer Science and Engineering](https://ww
  
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the [Cryptography Lab](http://www.cs.columbia.edu/crypto) and the [Data Science Institute](https://datascience.columbia.edu/). During the PhD I was fortunate to have [Allison Bishop](https://www.thecomputersciencecomedian.com) and [Tal Malkin](http://www.cs.columbia.edu/~tal) as my advisors. 
 
-My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed protocols. My research is supported by NSF.
+My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed protocols. My research is supported by NSF and UConn Research Excellence Award.
 
 <br/>
 
