@@ -50,7 +50,6 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * ["ABC: A Cryptocurrency-Focused Threat Modeling Framework."](https://ieeexplore.ieee.org/document/8845101) IEEE INFOCOM Workshop - **CryBlock 2019**  <br/>
   G. Almashaqbeh, A. Bishop, and J. Cappos <br/>
-  <span style="color: red;">_Best Paper Award_</span> <br/>
   [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf) 
 
 * ["Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler."](https://dl.acm.org/citation.cfm?id=3154600) ACM Transactions on Privacy and Security **(TOPS) 2017** <br/>
