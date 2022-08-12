@@ -13,14 +13,14 @@ My research interests span cryptography, computer security, and privacy with a l
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Current Projects</div>
 
-* **chainBoost:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi, as well as foundations of provable security for blockchain-based resource markets and sidechains. <br/> 
+* **Secure performance boosters for blockchains:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi, as well as foundations of provable security for blockchain-based resource markets and sidechains. <br/> 
 <u>Funded by NSF<u/>
 
 * **Basing cryptography on biological assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our ([paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)).
 
-* **smartFHE:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about the smartFHE framework can be found in our paper [smartFHE](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
+* **Privacy and blockchains:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our [paper](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
-* **PrivML:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference). Explore directions to support dynamic participation in these protocols and settings with restricted interaction patterns between users. <br/>
+* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference). Explore directions to support dynamic participation in these protocols and settings with restricted interaction patterns between users. <br/>
 <u>Funded by UConn Research Excellence Program (REP) Award<u/>
 <br/>
 <br/>
