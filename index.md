@@ -25,7 +25,7 @@ I received my PhD in Computer Science from Columbia University in 2019, where I 
 
 My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols.
 
-My research is supported by NSF and UConn Research Excellence Program Award.
+My research is supported by NSF and UConn Research Excellence Program (REP) Award.
 
 <br/>
 
