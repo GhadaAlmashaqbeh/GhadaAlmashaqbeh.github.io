@@ -8,12 +8,13 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
 
+* [Women in STEM Frontiers in Research Expo (WiSFiRE)](), Sep 2022 (speaker) <br/>
+* [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 * [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) <br/>
-* [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) - Columbia University, Fall 2017 - Fall 2018 (PhD coordinator) <br/>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
@@ -55,6 +56,7 @@ permalink: /activities/
 &emsp; UConn CSE Security Seminar - Jul 2021
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
+&emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track - Oct 2020
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
