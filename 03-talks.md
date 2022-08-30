@@ -19,16 +19,16 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
+**2023:** [PKC](), [EuroS&P](), [Financial Crypto]()
 **2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
 **2019/2020:** CFAIL['19](https://www.cfail.org/past-events), and ['20](https://www.cfail.org/cfail-2020) <br/>
-**2017:** [CSAW](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
-**2016:** [CSAW](https://engineering.nyu.edu/events/2016/11/10/csaw-16), [IEEE HPSC](https://csis.pace.edu/BigDataSecurity/BigDataSecurity2016/hpsccommittee.htm)  <br/>
+**2016/2017:** CSAW['16](https://engineering.nyu.edu/events/2016/11/10/csaw-16) and ['17](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Reviewer</div>
 
-**Conferences:** Asiacrypt'22, CCS'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
+**Conferences:** Asiacrypt'22, CCS'22, EuroS&P'22, WPES'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
