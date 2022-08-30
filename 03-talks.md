@@ -57,7 +57,7 @@ permalink: /activities/
 &emsp; UConn CSE Security Seminar - Jul 2021
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
-&emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022
+&emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022<br/>
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track - Oct 2020
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
