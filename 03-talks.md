@@ -40,6 +40,7 @@ permalink: /activities/
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
 &emsp; NY Crypto Day - Oct 2022 (upcoming)<br/>
+&emsp; UConn CSE Security Seminar - Oct 2022 (upcoming)<br/>
 &emsp; CMU CyLab Crypto Seminar - Jul 2022<br/>
 &emsp; Eurocrypt - Jun 2022
 
