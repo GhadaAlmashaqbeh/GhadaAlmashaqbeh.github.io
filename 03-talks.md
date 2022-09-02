@@ -8,6 +8,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
 
+* [Frequency Crypto Bootcamp](https://frequency.pillar.vc/crypto/), Oct 2022 (speaker) <br/>
 * [Women in STEM Frontiers in Research Expo (WiSFiRE)](), Sep 2022 (speaker) <br/>
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
