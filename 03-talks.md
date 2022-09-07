@@ -37,7 +37,7 @@ permalink: /activities/
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
 ***On the Power of Smart Contracts-The Good and The Bad*** &emsp; [_Slides_](../slides/mdu-cybersecurity-workshop22.pdf) <br/> 
-&emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022 (upcoming)
+&emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
 &emsp; NY Crypto Day - Oct 2022 (upcoming)<br/>
