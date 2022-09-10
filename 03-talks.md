@@ -55,7 +55,7 @@ permalink: /activities/
 &emsp; Protocol Labs Research Seminar Series - Feb 2022<br/>
 &emsp; Google Cryptography Talks Series - Jul 2021<br/>
 &emsp; UConn CSE Security Seminar - Jul 2021<br/>
-&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021
+&emsp; Privacy Enhancing Technologies Symposium (PETS) - Jul 2021
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022<br/>
@@ -65,39 +65,39 @@ permalink: /activities/
 &emsp; University of Malaga, Spain - May 2020
 
 ***Building Secure Distributed Services and Resource Markets*** &emsp; [_Slides_](../slides/job-talk.pdf)<br/> 
-&emsp; University of Rochester, NY - Mar 2020<br/>
-&emsp; University of Florida, FL - Mar 2020<br/>
-&emsp; University of Connecticut, CT - Mar 2020<br/>
-&emsp; Georgetown University, DC - Feb 2020<br/>
-&emsp; University of Massachusetts at Lowell, MA - Jan 2020<br/>
+&emsp; University of Rochester - Mar 2020<br/>
+&emsp; University of Florida - Mar 2020<br/>
+&emsp; University of Connecticut - Mar 2020<br/>
+&emsp; Georgetown University - Feb 2020<br/>
+&emsp; University of Massachusetts at Lowell - Jan 2020<br/>
 
 ***CAPnet: A Defense Against Cache Accounting Attacks on CDNs*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
-&emsp; IEEE CNS’19, DC - Jun 2019
+&emsp; IEEE CNS - Jun 2019
 
 ***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
-&emsp; PhD dissertation defense, Columbia University, NY - May 2019 
+&emsp; PhD dissertation defense, Columbia University - May 2019 
 
 ***The Age of Cryptocurrencies: Bitcoin and Sisters*** &emsp; [_Slides_](../slides/age-of-cryptocurrencies.pdf)<br/>
-&emsp; University of Colorado Colorado Springs, CO - Mar 2018 and Apr 2019<br/>
-&emsp; NYU Tandon School of Engineering, NY - Dec 2017<br/>
-&emsp; Columbia University, NY - Dec 2017
+&emsp; University of Colorado Colorado Springs - Mar 2018 and Apr 2019<br/>
+&emsp; NYU Tandon School of Engineering - Dec 2017<br/>
+&emsp; Columbia University - Dec 2017
 
 ***Threat Modeling for Cryptocurrency-based Systems*** &emsp; [_Slides_](../slides/threat-modeling-for-cryptocurrency-based-systems.pdf)<br/>
-&emsp; NYU Tandon School of Engineering, NY - Dec 2018
+&emsp; NYU Tandon School of Engineering - Dec 2018
 
 ***Resource-backed Cryptocurrencies*** &emsp; [_Slides_](../slides/resource-backed-cryptocurrencies-talk.pdf)<br/>
-&emsp; Association of Women in Math (AWM) Talk Series, Barnard College, NY - Nov 2018<br/>
-&emsp; Emerging Scholars Program Seminar, Columbia University, NY - Dec 2017
+&emsp; Association of Women in Math (AWM) Talk Series, Barnard College - Nov 2018<br/>
+&emsp; Emerging Scholars Program Seminar, Columbia University - Dec 2017
 
 ***Sensible Cryptocurrencies*** &emsp; [_Slides_](../slides/sensible-cryptocurrencies-talk.pdf)<br/>
-&emsp; PhD Candidacy Exam Talk, Columbia University, NY - Nov 2017
+&emsp; PhD Candidacy Exam Talk, Columbia University - Nov 2017
 
 ***Cryptocurrency Era***<br/>
-&emsp; Fordham University, New York, NY - Jun 2017 
+&emsp; Fordham University - Jun 2017 
 
 ***Bitcoin***<br/>
-&emsp; NYU Tandon School of Engineering, NY - Dec 2015 
+&emsp; NYU Tandon School of Engineering - Dec 2015 
 
 ***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
-&emsp; Cybersecurity for STEM Teachers program, NYU Polytechnic School of Engineering, NY - Jul 2015<br/><br/> 
+&emsp; Cybersecurity for STEM Teachers program, NYU Polytechnic School of Engineering - Jul 2015<br/><br/> 
 
