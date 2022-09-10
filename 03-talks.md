@@ -54,8 +54,8 @@ permalink: /activities/
 ***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
 &emsp; Protocol Labs Research Seminar Series - Feb 2022<br/>
 &emsp; Google Cryptography Talks Series - Jul 2021<br/>
-&emsp; UConn CSE Security Seminar - Jul 2021
-&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021<br/>
+&emsp; UConn CSE Security Seminar - Jul 2021<br/>
+&emsp; 21st Privacy Enhancing Technologies Symposium, PETS 2021 - Jul 2021
 
 ***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022<br/>
