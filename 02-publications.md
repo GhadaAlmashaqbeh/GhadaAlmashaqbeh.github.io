@@ -8,8 +8,6 @@ permalink: /publications/
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
-<span style="text-align:right;font-size:14px;">[Sorted by date](https://ghadaalmashaqbeh.github.io/publications/) or [Grouped by topic](https://ghadaalmashaqbeh.github.io/publications/by-date/)</span>
-
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprints</div> 
 
