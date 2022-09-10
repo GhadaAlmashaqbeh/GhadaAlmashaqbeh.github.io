@@ -11,17 +11,17 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprints</div> 
 
-* [smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption,]() 2021<br/>
+* smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption, 2021<br/>
   <div style="color:grey; font-size:15px;">R. Solomon and G. Almashaqbeh</div>
   [Preprint version](https://eprint.iacr.org/2021/133) &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* [Unclonable Polymers and Their Cryptographic Applications](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26)<br/>
+* Unclonable Polymers and Their Cryptographic Applications<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div>
   **Eurocrypt 2022**<br/>
-  [Full version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
+  [Link](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26) [Full version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
 
 * [SoK: Privacy-Preserving Computing in the Blockchain Era](https://ieeexplore.ieee.org/document/9797340)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Solomon</div>
