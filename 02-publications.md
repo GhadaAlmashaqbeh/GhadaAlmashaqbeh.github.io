@@ -19,7 +19,7 @@ A selected list based on my current research interests. Check [here](https://sch
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
 * ["Unclonable Polymers and Their Cryptographic Applications,"](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26)<br/>
-  <div style="font-size:13px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div><br/>
+  <div style="color:grey; font-size:14px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div><br/>
   **Eurocrypt 2022**<br/>
   [Preprint version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
 
