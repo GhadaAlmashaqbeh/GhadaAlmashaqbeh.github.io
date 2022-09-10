@@ -21,7 +21,7 @@ A selected list based on my current research interests. Check [here](https://sch
 * [Unclonable Polymers and Their Cryptographic Applications](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div>
   **Eurocrypt 2022**<br/>
-  [Preprint version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
+  [Full version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)
 
 * [SoK: Privacy-Preserving Computing in the Blockchain Era](https://ieeexplore.ieee.org/document/9797340)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Solomon</div>
@@ -61,7 +61,7 @@ A selected list based on my current research interests. Check [here](https://sch
 * [Implementing Support for Pointers to Private Data in a General-Purpose Secure Multi-Party Compiler](https://dl.acm.org/citation.cfm?id=3154600)<br/>
   <div style="color:grey; font-size:15px;">Y. Zhang, M. Blanton, and G. Almashaqbeh</div>
   **TOPS 2017:** ACM Transactions on Privacy and Security <br/>
-  [Full version](https://arxiv.org/abs/1509.01763)
+  [Preprint version](https://arxiv.org/abs/1509.01763)
 
 * [Secure Distributed Genome Analysis for GWAS and Sequence Comparison Computation](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4)<br/>
   <div style="color:grey; font-size:15px;">Y. Zhang, M. Blanton, and G. Almashaqbeh</div> 
