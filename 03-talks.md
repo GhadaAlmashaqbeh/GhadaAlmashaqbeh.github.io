@@ -51,7 +51,6 @@ permalink: /activities/
 &emsp; NY Crypto Day - Oct 2022 <br/>
 &emsp; UConn CSE Security Seminar - Oct 2022 <br/>
 &emsp; Foresight Crypto, Security & AI Workshop - Oct 2022 <br/>
-&emsp; Foresight Crypto, Security & AI Workshop - Oct 2022 <br/>
 &emsp; CMU CyLab Crypto Seminar - Jul 2022<br/>
 &emsp; Eurocrypt - Jun 2022
 
