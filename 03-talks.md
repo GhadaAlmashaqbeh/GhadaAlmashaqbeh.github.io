@@ -11,7 +11,7 @@ permalink: /activities/
 * [NY Crypto Day](https://nycryptoday.wordpress.com/2022/09/), Oct 2022 (speaker) <br/>
 * [Frequency Crypto Bootcamp](https://frequency.pillar.vc/crypto/), Oct 2022 (mentor) <br/>
 * [Foresight Crypto, Security & AI Workshop](https://foresight.org/crypto-workshop/), Oct 2022 (speaker) <br/>
-* Challenges Up the Ladder: Funding, Networking and Industry Support, (N2Women)[https://n2women.comsoc.org/], Sep 2022 (panelist) <br/>
+* Challenges Up the Ladder: Funding, Networking and Industry Support, [N2Women](https://n2women.comsoc.org/), Sep 2022 (panelist) <br/>
 * [Women in STEM Frontiers in Research Expo (WiSFiRE)](https://www.eventbrite.com/e/wisfire-2022-women-in-stem-frontiers-in-research-expo-registration-410823563337), Sep 2022 (speaker) <br/>
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
