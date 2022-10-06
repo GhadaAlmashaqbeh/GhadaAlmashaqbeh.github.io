@@ -8,8 +8,11 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
 
-* [Frequency Crypto Bootcamp](https://frequency.pillar.vc/crypto/), Oct 2022 (speaker) <br/>
-* [Women in STEM Frontiers in Research Expo (WiSFiRE)](), Sep 2022 (speaker) <br/>
+* [NY Crypto Day](https://nycryptoday.wordpress.com/2022/09/), Oct 2022 (speaker) <br/>
+* [Frequency Crypto Bootcamp](https://frequency.pillar.vc/crypto/), Oct 2022 (mentor) <br/>
+* [Foresight Crypto, Security & AI Workshop](https://foresight.org/crypto-workshop/), Oct 2022 (speaker) <br/>
+* Challenges Up the Ladder: Funding, Networking and Industry Support, (N2Women)[https://n2women.comsoc.org/], Sep 2022 (panelist) <br/>
+* [Women in STEM Frontiers in Research Expo (WiSFiRE)](https://www.eventbrite.com/e/wisfire-2022-women-in-stem-frontiers-in-research-expo-registration-410823563337), Sep 2022 (speaker) <br/>
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
@@ -29,7 +32,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Reviewer</div>
 
-**Conferences:** Asiacrypt'22, CCS'22, EuroS&P'22, WPES'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
+**Conferences and Workshops:** Asiacrypt'22, CCS'22, EuroS&P'22, WPES'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, CFAIL'19 & '20, TCC'18, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
 
 **Journals:** Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Springer Medical Systems, Pervasive and Mobile Computing <br/>
 
@@ -40,8 +43,9 @@ permalink: /activities/
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
-&emsp; NY Crypto Day - Oct 2022 (upcoming)<br/>
-&emsp; UConn CSE Security Seminar - Oct 2022 (upcoming)<br/>
+&emsp; NY Crypto Day - Oct 2022 <br/>
+&emsp; UConn CSE Security Seminar - Oct 2022 <br/>
+&emsp; Foresight Crypto, Security & AI Workshop - Oct 2022 <br/>
 &emsp; CMU CyLab Crypto Seminar - Jul 2022<br/>
 &emsp; Eurocrypt - Jun 2022
 
