@@ -15,13 +15,13 @@ permalink: /activities/
 * [Women in STEM Frontiers in Research Expo (WiSFiRE)](https://www.eventbrite.com/e/wisfire-2022-women-in-stem-frontiers-in-research-expo-registration-410823563337), Sep 2022 (speaker) <br/>
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
-* [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker) <br/>
-<details><summary>More ...</summary>
-<p>
+* [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker)
+* <details><summary>More ...</summary>
+
 * Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/>
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 * [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) <br/>
-</p>
+
 </details>
 
 
