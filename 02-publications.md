@@ -25,7 +25,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * SoK: Privacy-Preserving Computing in the Blockchain Era<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Solomon</div>
-  **IEEE EuroS&P 2022**<br/>
+  **EuroS&P 2022**<br/>
   [Preprint version](https://eprint.iacr.org/2021/727.pdf) &emsp; [Slides](../slides/sok-eurosp22.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def)
 
 * Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC<br/>
