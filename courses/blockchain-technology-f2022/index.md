@@ -8,6 +8,7 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 8 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf), [Lecture 11](./lecture11.pdf) <br/> Assigned reading: <br/> &emsp; - Chapter 5 in [Bitcoin and Cryptocurrency Technologies](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) book.  |
 | Week 7 | Slides: [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf) <br/> Assigned reading: <br/> &emsp; - Chapter 9 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.<br/> &emsp; - Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019.|
 | Week 6 | Slides: rest of lecture 6, [Lecture 7](./lecture7.pdf) <br/> Assigned reading: <br/> &emsp; - Smart contracts, Chapter 7 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.  |
 | Week 5 | Slides: rest of Lecture 5, [Lecture 6](./lecture6.pdf) <br/> Assigned reading: <br/> &emsp; - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/).<br/> &emsp; - Topics covered in class from Chapters 1 - 6, [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book. |
