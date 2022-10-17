@@ -20,6 +20,16 @@ permalink: /activities/
 * [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
 * [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) 
 
+# A collapsible section
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
