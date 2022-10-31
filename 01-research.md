@@ -16,7 +16,10 @@ My research interests span cryptography, computer security, and privacy with a l
 * **Secure performance boosters for blockchains:** Develop secure frameworks for boosting performance and improving scalability of Web 3.0 and DeFi, as well as foundations of provable security for blockchain-based resource markets and sidechains. <br/> 
 <u>Funded by NSF<u/>
 
-* **Basing cryptography on biological assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our ([paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)).
+* **Basing cryptography on biochemical assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about it in our ([paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)).
+
+* **Timed revocable delegation of cryptographic capabilities:** Build constructions for delegating cryptographic capabilities, such as digital signatures and zero knowledge proofs, that are timed, revocable and anonymous, and explore their applications to Web 3.0. <br/>
+<u>Funded by Protocol Labs<u/>
 
 * **Privacy and blockchains:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our [paper](https://eprint.iacr.org/2021/133), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
