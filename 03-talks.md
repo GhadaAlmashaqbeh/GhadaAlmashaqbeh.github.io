@@ -68,13 +68,6 @@ permalink: /activities/
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga, Spain - May 2020
 
-***Building Secure Distributed Services and Resource Markets*** &emsp; [_Slides_](../slides/job-talk.pdf)<br/> 
-&emsp; University of Rochester - Mar 2020<br/>
-&emsp; University of Florida - Mar 2020<br/>
-&emsp; University of Connecticut - Mar 2020<br/>
-&emsp; Georgetown University - Feb 2020<br/>
-&emsp; University of Massachusetts at Lowell - Jan 2020<br/>
-
 ***CAPnet: A Defense Against Cache Accounting Attacks on CDNs*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS - Jun 2019
 
