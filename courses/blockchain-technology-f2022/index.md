@@ -8,6 +8,10 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Term project presentations|
+| Week 14 | Slides: rest of Lecture 16|
+| Week 13 | Thanksgiving recess (no classes) |
+| Week 12 | Slides: rest of lecture 15, [Lecture 16](./lecture16.pdf) <br/> Assigned reading: <br/> &emsp; - [Blockchain Privacy: Equal Parts Theory, Practice](https://www.zfnd.org/blog/blockchain-privacy/), a blog post by Ian Miers. <br/> &emsp; - Henry et al. [Blockchain Access Privacy: Challenges and Directions,](https://www.cs.purdue.edu/homes/akate/publications/BlockchainAccessPrivacy_preprint.pdf) in IEEE S&P Magazine, 2018. <br/>&emsp; - A high level overview of ZKPs, [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), a blog post by Matthew Green.<br/>&emsp; - (optional) A more formal introduction to [Zero Knowledge Proofs](./ZKP.pdf).|
 | Week 11 | Slides: rest of Lecture 14, [Lecture 15](./lecture15.pdf) |
 | Week 10 | Slides: rest of Lecture 13, [Lecture 14](./lecture14.pdf) <br/> Assigned reading: <br/> &emsp; - Ali et al. [The Nuts and Bolts of Micropayments: a Survey](https://arxiv.org/pdf/1710.02964.pdf). |
 | Week 9 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf), [Lecture 13](./lecture13.pdf) <br/> Assigned reading: <br/>&emsp; - Almashaqbeh et al. [Rethinking Service Systems,](https://www.usenix.org/publications/loginonline/rethinking-service-systems) in USENIX ;login: Magazine, 2021. <br/> &emsp; - Almashaqbeh et al. [ABC: A Cryptocurrency-Focused Threat Modeling Framework,](https://arxiv.org/abs/1903.03422) in CryBlock 2019. |
