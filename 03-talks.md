@@ -39,7 +39,8 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
-***On the Power of Smart Contracts-The Good and The Bad*** &emsp; [_Slides_](../slides/mdu-cybersecurity-workshop22.pdf) <br/> 
+***On the Power of Smart Contracts-The Good and The Bad*** &emsp; [_Slides_](../slides/mdu-cybersecurity-workshop22.pdf) &emsp; [_Extended Slides_](../slides/HeritageMed2022.pdf)<br/> 
+&emsp; Heritage Medical Systems annual meeting - Dec 2022 <br/>
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
@@ -50,6 +51,7 @@ permalink: /activities/
 &emsp; Eurocrypt - Jun 2022
 
 ***Cybersecurity and Society - Blockchain Technology*** &emsp; [_Slides_](../slides/uconn-explore-eng-talk.pdf) <br/> 
+&emsp; Orientation to Engineering Course OCP, UConn - Nov 2022 <br/>
 &emsp; The UConn Explore Engineering (E2) Program - Jun 2022
 
 ***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
