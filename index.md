@@ -19,7 +19,8 @@ layout: default
 </div>
 
 
-I am an assistant professor in the Computer Science and Engineering department at UConn. I am also an affiliated member at the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis! and I was a Cryptographer at NuCypher. Now, I am a scientific advisor at Sunscreen Tech and The Melon, and a 2023 fellow at the Foresight Institute. I received my PhD in Computer Science from Columbia University in 2019, where I was fortunate to have Allison Bishop and Tal Malkin as my advisors. 
+I am an assistant professor in the Computer Science and Engineering department at UConn. I am also an affiliated member at the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis! and I was a Cryptographer at NuCypher. Now, I am a scientific advisor at Sunscreen Tech and The Melon, and a 2023 fellow at the Foresight Institute. 
+I received my PhD in Computer Science from Columbia University in 2019, where I was fortunate to have Allison Bishop and Tal Malkin as my advisors. 
 
 My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols.
 
