@@ -6,7 +6,7 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h4>
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Events</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Recent Events</div> 
 
 * [NY Celebration of Women in Computing](https://nycwic.org/), Apr 2023 (speaker) <br/>
 * [NY Crypto Day](https://nycryptoday.wordpress.com/2022/09/), Oct 2022 (speaker) <br/>
@@ -17,9 +17,6 @@ permalink: /activities/
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
 * [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker)
-* Exploring the Interplay of Privacy, Security, and Blockchain Technologies, [Women in Security and Privacy (WISP)](https://www.wisporg.com/) and [Blockchain Lawyers Forum (BLF)](https://www.blockchainlawyersforum.com/), Nov 2021 (panelist) <br/> 
-* [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) - Security/Privacy track, Oct 2020 (speaker) <br/>
-* [Crypto-Economics 101](https://startup-columbia.squarespace.com/panels-keynotes/2019/04/06/crypto-economics-101), [StartupColumbia Festival](https://www.startupcolumbia.org/2019-festival), Apr 2019 (panelist) 
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
