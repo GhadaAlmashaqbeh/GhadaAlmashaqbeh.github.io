@@ -43,7 +43,8 @@ permalink: /activities/
 &emsp; Heritage Medical Systems annual meeting - Dec 2022 <br/>
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
-***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/> 
+***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/>
+&emsp; New York Celebration of Women in Computing (NYCWiC) - April 2023 (upcoming!) <br/>
 &emsp; NY Crypto Day - Oct 2022 <br/>
 &emsp; UConn CSE Security Seminar - Oct 2022 <br/>
 &emsp; Foresight Crypto, Security & AI Workshop - Oct 2022 <br/>
