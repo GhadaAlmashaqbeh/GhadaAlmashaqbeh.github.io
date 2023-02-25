@@ -15,4 +15,4 @@ permalink: /team/
 **Previous Students**
 * Allison Gagliano (MSc)
 * Bradshaw Pines (Undergrad)
-* Pablo Rodriguez (Undergrad) &#8594; Google
+* Pablo Rodriguez (Undergrad)
