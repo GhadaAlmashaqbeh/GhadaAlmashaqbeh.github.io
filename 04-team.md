@@ -9,6 +9,7 @@ permalink: /team/
 
 **Current Students**
 * Mohamed Najd, PhD (Fall 2022 - present)
+* Justin Yang, PhD (Fall 2022 - present)
 * Zahra (Raha) Motaqy, PhD (Fall 2021 - present)
 
 

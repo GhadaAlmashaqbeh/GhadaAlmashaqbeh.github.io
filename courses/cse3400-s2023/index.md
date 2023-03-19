@@ -8,6 +8,7 @@ Lecture slides (assignments, announcements, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 10 | Slides: rest of lecture 6, [Lecture 7](./lecture7.pdf)|
 | Week 9 | Spring break - no classes|
 | Week 8 | Slides: rest of lecture 6|
 | Week 7 | Slides: rest of lecture 6|
