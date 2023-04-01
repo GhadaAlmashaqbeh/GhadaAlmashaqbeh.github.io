@@ -8,7 +8,8 @@ Lecture slides (assignments, announcements, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 11 | Slides: rest of lecture 7, [Blockchains](./blockchains.pdf), [Lecture 8](./lecture8.pdf)|
+| Week 12 | Slides: [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf)|
+| Week 11 | Slides: rest of lecture 7, [Blockchains](./blockchains.pdf)|
 | Week 10 | Slides: rest of lecture 6, [Lecture 7](./lecture7.pdf)|
 | Week 9 | Spring break - no classes|
 | Week 8 | Slides: rest of lecture 6|
