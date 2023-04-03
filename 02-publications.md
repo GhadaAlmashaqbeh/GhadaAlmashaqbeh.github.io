@@ -9,14 +9,12 @@ permalink: /publications/
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprints</div> 
-
-* smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption, 2021<br/>
-  <div style="color:grey; font-size:15px;">R. Solomon and G. Almashaqbeh</div>
-  [Preprint version](https://eprint.iacr.org/2021/133) &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
-
-
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
+
+* smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption<br/>
+  <div style="color:grey; font-size:15px;">R. Solomon, R. Weber, and G. Almashaqbeh</div>
+  **to appear in EuroS&P 2023**<br/>
+  [Preprint version](https://eprint.iacr.org/2021/133) &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
 
 * Unclonable Polymers and Their Cryptographic Applications<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div>
