@@ -13,7 +13,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption<br/>
   <div style="color:grey; font-size:15px;">R. Solomon, R. Weber, and G. Almashaqbeh</div>
-  **to appear in EuroS&P 2023**<br/>
+  **To appear in EuroS&P 2023**<br/>
   [Preprint version](https://eprint.iacr.org/2021/133) &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
 
 * Unclonable Polymers and Their Cryptographic Applications<br/>
