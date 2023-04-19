@@ -8,6 +8,7 @@ Lecture slides (assignments, announcements, etc., can be found on HuskyCT).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Slides: rest of lecture 11, recitation|
 | Week 14 | Slides: rest of lecture 10, [Lecture 11](./lecture11.pdf)|
 | Week 13 | Slides: rest of lecture 9, [Lecture 10](./lecture10.pdf)|
 | Week 12 | Slides: [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf)|
