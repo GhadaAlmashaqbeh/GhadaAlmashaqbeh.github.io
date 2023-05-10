@@ -43,7 +43,7 @@ permalink: /activities/
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/>
-&emsp; New York Celebration of Women in Computing (NYCWiC) - Apr 2023 (upcoming!) <br/>
+&emsp; New York Celebration of Women in Computing (NYCWiC) - Apr 2023 <br/>
 &emsp; Monash Software Systems and Cybersecurity Seminars - Mar 2023 <br/>
 &emsp; NY Crypto Day - Oct 2022 <br/>
 &emsp; UConn CSE Security Seminar - Oct 2022 <br/>
