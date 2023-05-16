@@ -11,10 +11,15 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
+* Unclonable Cryptography: A Tale of Two No-cloning Paradigms<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Chatterjee</div>
+  **To appear in Secrypt 2023**<br/>
+  [Preprint version]() &emsp; [Slides]()
+
 * smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption<br/>
   <div style="color:grey; font-size:15px;">R. Solomon, R. Weber, and G. Almashaqbeh</div>
   **To appear in EuroS&P 2023**<br/>
-  [Preprint version](https://eprint.iacr.org/2021/133) &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
+  [Preprint version](https://eprint.iacr.org/2021/133) &emsp; [Slides]() &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
 
 * Unclonable Polymers and Their Cryptographic Applications<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div>
