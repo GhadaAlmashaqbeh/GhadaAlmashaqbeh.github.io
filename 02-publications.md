@@ -8,6 +8,11 @@ permalink: /publications/
 
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete publications list.<br/>
 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
+
+* Anonymous, Timed and Revocable Proxy Signatures<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
+  [Preprint version](https://eprint.iacr.org/2023/833)
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
