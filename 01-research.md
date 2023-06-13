@@ -23,7 +23,7 @@ My research interests span cryptography, computer security, and privacy with a l
 
 * **Privacy and blockchains:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our ([paper](https://eprint.iacr.org/2021/133), [EuroS&P 2023](https://www.ieee-security.org/TC/EuroSP2023/)), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
 
-* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference). Explore directions to support dynamic participation in these protocols and settings with restricted interaction patterns between users. <br/>
+* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference). Explore directions to support dynamic participation in these protocols and settings with restricted interaction patterns between users. More about our anonymity framework for private federated learning can be found in our [paper](https://arxiv.org/abs/2306.06825). <br/>
 <u>Funded by UConn Research Excellence Award<u/>
 <br/>
 <br/>
