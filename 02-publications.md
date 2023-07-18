@@ -23,7 +23,7 @@ A selected list based on my current research interests. Check [here](https://sch
 * Unclonable Cryptography: A Tale of Two No-cloning Paradigms<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Chatterjee</div>
   <div style="font-family: 'Comic Sans MS';">Secrypt 2023</div>
-  [Preprint version](https://eprint.iacr.org/2023/702) &emsp; [Slides]()
+  [Preprint version](https://eprint.iacr.org/2023/702) &emsp; [Slides](../slides/secrypt23.pdf)
 
 * smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption<br/>
   <div style="color:grey; font-size:15px;">R. Solomon, R. Weber, and G. Almashaqbeh</div>
