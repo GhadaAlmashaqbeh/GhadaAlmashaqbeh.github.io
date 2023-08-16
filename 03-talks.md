@@ -21,7 +21,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
-**2024:** [PETS](https://petsymposium.org/cfp24.php) <br/>
+**2024:** [EuroS&P](https://eurosp2024.ieee-security.org/), [PETS](https://petsymposium.org/cfp24.php) <br/>
 **2023:** [Crypto](https://crypto.iacr.org/2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/index.html), [Financial Crypto](https://fc23.ifca.ai/index.html), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2023/), [PKC](https://pkc.iacr.org/2023/)  <br/>
 **2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
@@ -46,6 +46,7 @@ permalink: /activities/
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
 ***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/>
+&emsp; Intelligent Cooperation Group Seminar, Foresight Institute - Aug 2023 <br/>
 &emsp; New York Celebration of Women in Computing (NYCWiC) - Apr 2023 <br/>
 &emsp; Monash Software Systems and Cybersecurity Seminars - Mar 2023 <br/>
 &emsp; NY Crypto Day - Oct 2022 <br/>
