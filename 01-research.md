@@ -18,6 +18,9 @@ My research interests span cryptography, computer security, and privacy with a l
 
 * **Basing cryptography on biochemical assumptions:** Construct bounded-query memory devices, or consumable tokens, from proteins, and use them in various cryptographic applications such as digital lockers and bounded-execution programs. More about these biological consumable tokens, their security and applications, can be found in our ([paper](https://link.springer.com/chapter/10.1007/978-3-031-06944-4_26), [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/)). Also, for a comparison of the no-cloning principle of unclonable polymers and that of quantum computing, in terms of building unclonable cryptography, check our ([paper](https://eprint.iacr.org/2023/702), [Secrypt 2023](https://secrypt.scitevents.org/)). 
 
+* **State Growth Control and Pricing for DeFi Systems:** Develop layer-two solutions to reduce the blockchain storage-footprint of DeFi applications (such as automated market makers), in addition to developing multidimensional transaction fee mechanisms under these multi-layer solutions.<br/>
+<u>Funded by Uniswap Foundation<u/>
+
 * **Delegation of cryptographic capabilities:** Build constructions for delegating cryptographic capabilities, such as digital signatures and zero knowledge proofs, that are timed, revocable and anonymous, and explore their applications to Web 3.0. More about acheiving this notion for proxy signatures can be found in our [paper](https://eprint.iacr.org/2023/833).<br/>
 <u>Funded by Protocol Labs<u/>
 
