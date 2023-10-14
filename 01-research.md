@@ -21,7 +21,7 @@ My research interests span cryptography, computer security, and privacy with a l
 * **Delegation of cryptographic capabilities:** Build constructions for delegating cryptographic capabilities, such as digital signatures and zero knowledge proofs, that are timed, revocable and anonymous, and explore their applications to Web 3.0. More about acheiving this notion for proxy signatures can be found in our [paper](https://eprint.iacr.org/2023/833).<br/>
 <u>Funded by Protocol Labs<u/>
 
-* **State Growth Control and Pricing for DeFi Systems:** Develop layer-two solutions to reduce the blockchain storage-footprint of DeFi applications (such as automated market makers), in addition to developing multidimensional transaction fee mechanisms under these multi-layer solutions.<br/>
+* **State growth control and pricing for DeFi systems:** Develop layer-two solutions to reduce the blockchain storage-footprint of DeFi applications (such as automated market makers), in addition to developing multidimensional transaction fee mechanisms under these multi-layer solutions.<br/>
 <u>Funded by Uniswap Foundation<u/>
 
 * **Privacy and blockchains:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our ([paper](https://eprint.iacr.org/2021/133), [EuroS&P 2023](https://www.ieee-security.org/TC/EuroSP2023/)), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), [EuroS&P 2022](https://www.ieee-security.org/TC/EuroSP2022/)).
