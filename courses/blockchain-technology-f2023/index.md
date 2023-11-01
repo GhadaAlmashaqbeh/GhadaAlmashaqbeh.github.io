@@ -8,7 +8,7 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 10 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf), [Blockchain simulator tutorial](./tutorialvis) <br/> Assigned reading: <br/>&emsp; - Almashaqbeh et al. [Rethinking Service Systems,](https://www.usenix.org/publications/loginonline/rethinking-service-systems) in USENIX ;login: Magazine, 2021. |
+| Week 10 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf), [Blockchain simulator tutorial](./tutorialvis.pdf) <br/> Assigned reading: <br/>&emsp; - Almashaqbeh et al. [Rethinking Service Systems,](https://www.usenix.org/publications/loginonline/rethinking-service-systems) in USENIX ;login: Magazine, 2021. |
 | Week 9 | Slides: [Lecture 10](./lecture10.pdf), [Lecture 11](./lecture11.pdf) <br/> Assigned reading: <br/> &emsp; - (Optional) Amiri et al. [Permissioned Blockchains: Properties, Techniques and Applications](https://www.seas.upenn.edu/~mjamiri/papers/permissionedblockchains.pdf).<br/> &emsp; - Chapter 5 in [Bitcoin and Cryptocurrency Technologies](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) book.  |
 | Week 8 | Slides: rest of Lecture 9, [Smart contract tutorial](./smart-contract-tutorial.pdf) |
 | Week 7 | Slides: rest of Lecture 8, [Lecture 9](./lecture9.pdf) <br/> Assigned reading: <br/> &emsp; - Chapter 9 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.<br/> &emsp; - Sections 5 and 6 from Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019.|
