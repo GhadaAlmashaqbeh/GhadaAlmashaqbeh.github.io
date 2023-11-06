@@ -11,7 +11,7 @@ layout: default
     <div class="col-1-2">
        <div class="content">
           <span style="color:grey;font-size:14px;">
-            <p><b>Ghada Almashaqbeh</b> <br/> Assistant Professor of Computer Science and Engineering <br/> University of Connecticut </p>
+            <p><b>Ghada Almashaqbeh</b> <br/> Assistant Professor of Computer Science <br/> University of Connecticut </p>
             <p> <b>Contact:</b> <br/> <u>Email:</u> ghada at uconn.edu <br/> <br/> <br/> </p>
           </span> 
        </div>
@@ -19,7 +19,7 @@ layout: default
 </div>
 
 
-I am an assistant professor in the Computer Science and Engineering department at UConn. I am also an affiliated member at the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis! and I was a Cryptographer at NuCypher. Now, I am a scientific advisor at Sunscreen Tech and The Melon, a 2023 Foresight Institute fellow, and a 2023/2024 TLDR fellow at Uniswap Foundation. 
+I am an assistant professor in the School of Computing at UConn. I am also an affiliated member at the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis! and I was a Cryptographer at NuCypher. Now, I am a scientific advisor at Sunscreen Tech and The Melon, a 2023 Foresight Institute fellow, and a 2023/2024 TLDR fellow at Uniswap Foundation. 
 
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the Cryptography Lab and the Data Science Institute. During the PhD, I was fortunate to have Allison Bishop and Tal Malkin as my advisors. 
 
