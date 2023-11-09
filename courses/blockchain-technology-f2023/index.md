@@ -8,6 +8,10 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Term project presentations |
+| Week 14 | Slides: rest of Lecture 15, recitation. |
+| Week 13 | Thanksgiving recess (no classes)|
+| Week 12 | Slides: rest of Lecture 14, [Lecture 15](./lecture15.pdf)|
 | Week 11 | Slides: [Lecture 13](./lecture13.pdf), [Lecture 14](./lecture14.pdf) <br/> Assigned reading: <br/>&emsp; - Almashaqbeh et al. [ABC: A Cryptocurrency-Focused Threat Modeling Framework,](https://arxiv.org/pdf/1903.03422.pdf) in CryBlock 2019 (Sections 4 and 5 are optional). <br/> &emsp; - Ali et al. [The Nuts and Bolts of Micropayments: a Survey](https://arxiv.org/pdf/1710.02964.pdf).|
 | Week 10 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf), [Blockchain simulator tutorial](./tutorialvis.pdf) <br/> Assigned reading: <br/>&emsp; - Almashaqbeh et al. [Rethinking Service Systems,](https://www.usenix.org/publications/loginonline/rethinking-service-systems) in USENIX ;login: Magazine, 2021. |
 | Week 9 | Slides: [Lecture 10](./lecture10.pdf), [Lecture 11](./lecture11.pdf) <br/> Assigned reading: <br/> &emsp; - (Optional) Amiri et al. [Permissioned Blockchains: Properties, Techniques and Applications](https://www.seas.upenn.edu/~mjamiri/papers/permissionedblockchains.pdf).<br/> &emsp; - Chapter 5 in [Bitcoin and Cryptocurrency Technologies](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) book.  |
