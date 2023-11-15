@@ -21,7 +21,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
-**2024:** [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/) [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
+**2024:** [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/), [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
 **2023:** [Crypto](https://crypto.iacr.org/2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/index.html), [Financial Crypto](https://fc23.ifca.ai/index.html), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2023/), [PKC](https://pkc.iacr.org/2023/)  <br/>
 **2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
