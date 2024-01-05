@@ -21,19 +21,12 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
-**2024:** [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/), [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
+**2024:** [CCS](https://www.sigsac.org/ccs/CCS2024/home.html), [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/), [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
 **2023:** [Crypto](https://crypto.iacr.org/2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/index.html), [Financial Crypto](https://fc23.ifca.ai/index.html), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2023/), [PKC](https://pkc.iacr.org/2023/)  <br/>
 **2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
 **2019/2020:** CFAIL['19](https://www.cfail.org/past-events), and ['20](https://www.cfail.org/cfail-2020) <br/>
 **2016/2017:** CSAW['16](https://engineering.nyu.edu/events/2016/11/10/csaw-16) and ['17](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
-
-
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Reviewer</div>
-
-**Conferences and Workshops:** PETS'24, Financial Crypto'24, EuroS&P'24, NESD'24, Crypto'23, CCS'23, PKC'23, Financial Crypto'23, EuroS&P'23, Asiacrypt'22, WPES'22, CCS'22, EuroS&P'22, Crypto'21, Eurocrypt'21, Eurocrypt'20, CFAIL'19&'22, TCC 2018, USENIX Security'18, USENIX ATC'17, Eurocrypt'17, CCS'16 <br/>
-
-**Journals:** Information Processing Letter, IEEE/ACM Transactions on Networking, Journal of Human Rights, Springer Wireless Networks, IEEE Systems, Wireless Personal Communication, Journal of Medical Systems, Pervasive and Mobile Computing. <br/>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
