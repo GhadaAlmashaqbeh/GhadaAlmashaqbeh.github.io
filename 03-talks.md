@@ -22,7 +22,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
 
-**2024:** [ISC](), [CCS](https://www.sigsac.org/ccs/CCS2024/home.html), [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/), [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
+**2024:** [ISC](https://isc24.cs.gmu.edu/), [CCS](https://www.sigsac.org/ccs/CCS2024/home.html), [PETS](https://petsymposium.org/cfp24.php), [EuroS&P](https://eurosp2024.ieee-security.org/), [Financial Crypto](https://fc24.ifca.ai/), [NESD](https://cacc.engr.uconn.edu/nesd2024-engr-home/) <br/>
 **2023:** [Crypto](https://crypto.iacr.org/2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/index.html), [Financial Crypto](https://fc23.ifca.ai/index.html), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2023/), [PKC](https://pkc.iacr.org/2023/)  <br/>
 **2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
 **2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
@@ -68,7 +68,7 @@ permalink: /activities/
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track - Oct 2020
 
 ***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
-&emsp; University of Malaga, Spain - May 2020
+&emsp; University of Malaga - May 2020
 
 ***CAPnet: A Defense Against Cache Accounting Attacks on CDNs*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS - Jun 2019

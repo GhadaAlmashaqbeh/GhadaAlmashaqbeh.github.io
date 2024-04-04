@@ -29,6 +29,6 @@ My [research interests](/research/) cover cryptography, computer systems securit
 
 
 ---------------------------------------
-**<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** I am always looking for self-motivated and talented Postdocs, and PhD/MSc students to join my group. If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
+**<span style="color:red;font-family: 'Comic Sans MS';"><u>Recruiting:</u></span>** I am always looking for self-motivated and talented Postdocs and PhD students to join my group. If you are interested in working on timely and real-world problems in the fields of cryptography, privacy, and systems security, feel free to contact me! 
 
 ---------------------------------------
