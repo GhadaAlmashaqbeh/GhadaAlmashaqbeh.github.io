@@ -23,7 +23,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets<br/>
   <div style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</div>
-  <div style="font-family: 'Comic Sans MS';">To appear in EuroS&P 2024</div>
+  <div style="font-family: 'Comic Sans MS';">Accepted in EuroS&P 2024</div>
   [Preprint version](https://arxiv.org/abs/2402.16095)
 
 * Unclonable Cryptography: A Tale of Two No-cloning Paradigms<br/>
