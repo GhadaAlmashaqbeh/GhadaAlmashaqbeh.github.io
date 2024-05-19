@@ -21,14 +21,19 @@ permalink: /activities/
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
-**2023:** [Crypto](https://crypto.iacr.org/2023/), [CCS](https://www.sigsac.org/ccs/CCS2023/index.html), [Financial Crypto](https://fc23.ifca.ai/index.html), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2023/), [PKC](https://pkc.iacr.org/2023/)  <br/>
-**2022:** [Asiacrypt](https://asiacrypt.iacr.org/2022/), [WPES](https://arc.encs.concordia.ca/wpes22/cfp.html) <br/>
-**2021:** [Crypto](https://crypto.iacr.org/2021/) <br/>
-**2019/2020:** CFAIL['19](https://www.cfail.org/past-events), and ['20](https://www.cfail.org/cfail-2020) <br/>
-**2016/2017:** CSAW['16](https://engineering.nyu.edu/events/2016/11/10/csaw-16) and ['17](https://engineering.nyu.edu/events/2017/11/09/cyber-security-awareness-week-csaw-2017) <br/>
+**2025:** PETS <br/>
+**2024:** ISC, CCS, PETS, EuroS&P, Financial Crypto, NESD <br/>
+**2023:** Crypto, CCS, Financial Crypto, EuroS&P, PKC  <br/>
+**2022:** Asiacrypt, WPES <br/>
+**2021:** Crypto <br/>
+**2019/2020:** CFAIL'19 and '20 <br/>
+**2016/2017:** CSAW'16 and '17 <br/>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
+
+***ammBoost: State Growth Control for AMMs*** &emsp; [_Slides_](../slides/tldr-2024.pdf)<br/> 
+&emsp; The TLDR Conference - May 2024
 
 ***smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption*** &emsp; [_Slides_](../slides/smartfhe.pdf)<br/> 
 &emsp; EuroS&P - Jul 2023
