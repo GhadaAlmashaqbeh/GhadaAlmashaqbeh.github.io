@@ -21,7 +21,7 @@ permalink: /activities/
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
-**2025:** PETS <br/>
+**2025:** PETS, EuroS&P <br/>
 **2024:** ISC, CCS, PETS, EuroS&P, Financial Crypto, NESD <br/>
 **2023:** Crypto, CCS, Financial Crypto, EuroS&P, PKC  <br/>
 **2022:** Asiacrypt, WPES <br/>
