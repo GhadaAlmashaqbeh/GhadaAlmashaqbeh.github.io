@@ -10,6 +10,14 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 
+* Competitive Policies for Online Collateral Maintenance<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
+  [Preprint version](https://arxiv.org/abs/2406.17121)
+
+* ammBoost: State Growth Control for AMMs<br/>
+  <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
+  [Preprint version](https://arxiv.org/abs/2406.17094)
+
 * Anonymous, Timed and Revocable Proxy Signatures<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
   [Preprint version](https://eprint.iacr.org/2023/833)
