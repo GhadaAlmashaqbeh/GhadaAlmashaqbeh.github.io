@@ -12,11 +12,11 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * Competitive Policies for Online Collateral Maintenance<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
-  [Preprint version](https://arxiv.org/abs/2406.17121)
+  [Preprint version](https://eprint.iacr.org/2024/1022)
 
 * ammBoost: State Growth Control for AMMs<br/>
   <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
-  [Preprint version](https://arxiv.org/abs/2406.17094)
+  [Preprint version](https://eprint.iacr.org/2024/1021)
 
 * Anonymous, Timed and Revocable Proxy Signatures<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
@@ -31,7 +31,7 @@ A selected list based on my current research interests. Check [here](https://sch
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets<br/>
   <div style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</div>
   <div style="font-family: 'Comic Sans MS';">EuroS&P 2024</div>
-  [Preprint version](https://arxiv.org/abs/2402.16095)
+  [Preprint version](https://eprint.iacr.org/2024/1020)
 
 * Unclonable Cryptography: A Tale of Two No-cloning Paradigms<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Chatterjee</div>
