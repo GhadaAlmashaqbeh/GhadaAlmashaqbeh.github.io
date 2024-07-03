@@ -9,11 +9,6 @@ permalink: /publications/
 A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete list.<br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
-
-* Competitive Policies for Online Collateral Maintenance<br/>
-  <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
-  [Preprint version](https://eprint.iacr.org/2024/1022)
-
 * ammBoost: State Growth Control for AMMs<br/>
   <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
   [Preprint version](https://eprint.iacr.org/2024/1021)
@@ -28,6 +23,11 @@ A selected list based on my current research interests. Check [here](https://sch
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
+* Competitive Policies for Online Collateral Maintenance<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
+  <div style="font-family: 'Comic Sans MS';">AFT 2024</div>
+  [Preprint version](https://eprint.iacr.org/2024/1022)
+
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets<br/>
   <div style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</div>
   <div style="font-family: 'Comic Sans MS';">EuroS&P 2024</div>
