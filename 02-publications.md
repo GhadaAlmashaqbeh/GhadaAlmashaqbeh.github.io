@@ -21,13 +21,12 @@ A selected list based on my current research interests. Check [here](https://sch
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
   [Preprint version](https://arxiv.org/abs/2306.06825)
 
-
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 * Competitive Policies for Online Collateral Maintenance<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
-  <div style="font-family: 'Comic Sans MS';">AFT 2024</div>
   [Preprint version](https://eprint.iacr.org/2024/1022)
 
+
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets<br/>
   <div style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</div>
   <div style="font-family: 'Comic Sans MS';">EuroS&P 2024</div>
