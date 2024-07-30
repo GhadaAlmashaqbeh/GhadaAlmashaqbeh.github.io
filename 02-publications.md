@@ -62,7 +62,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * MicroCash: Practical Concurrent Processing of Micropayments<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</div>
-  <span style="font-family: 'Comic Sans MS';">FC 2020 (Financial Cryptography and Data Security)</span> &emsp; [Preprint](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf) &emsp; Coverage: [zkCapital paper of the week](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a)
+  <span style="font-family: 'Comic Sans MS';">FC 2020 (Financial Cryptography and Data Security)</span> &emsp; [Preprint](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf) &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a)
   
 * CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, K. Kelley, A. Bishop, and J. Cappos</div>
