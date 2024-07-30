@@ -16,11 +16,11 @@ permalink: /activities/
 * Challenges Up the Ladder: Funding, Networking and Industry Support, [N2Women](https://n2women.comsoc.org/), Sep 2022 (panelist) <br/>
 * [Women in STEM Frontiers in Research Expo (WiSFiRE)](https://www.eventbrite.com/e/wisfire-2022-women-in-stem-frontiers-in-research-expo-registration-410823563337), Sep 2022 (speaker) <br/>
 * [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
-* [The UConn Explore Engineering (E2) Program](https://inclusion.engr.uconn.edu/explore-engineering/), Jun 2022 (speaker) <br/>
 * [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker)
 
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div> 
+<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div>
+**2025:** PETS, EuroS&P <br/>
 **2024:** CCS, PETS, EuroS&P, Financial Crypto, NESD <br/>
 **2023:** Crypto, CCS, Financial Crypto, EuroS&P, PKC  <br/>
 **2022:** Asiacrypt, WPES <br/>
@@ -30,6 +30,9 @@ permalink: /activities/
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
+
+***chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets*** &emsp; [_Slides_](../slides/chainboost-eurosp-2024.pdf)<br/> 
+&emsp; EuroS&P - Jul 2024
 
 ***ammBoost: State Growth Control for AMMs*** &emsp; [_Slides_](../slides/tldr-2024.pdf)<br/> 
 &emsp; The TLDR Conference - May 2024

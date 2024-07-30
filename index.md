@@ -23,7 +23,7 @@ I am an assistant professor in the School of Computing at UConn. I am also an af
 
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the Cryptography Lab and the Data Science Institute. During the PhD, I was fortunate to have Allison Bishop and Tal Malkin as my advisors. 
 
-My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols. My research is supported by **NSF**, **Protocol Labs**, **Uniswap Foundation**, and **UConn Research Excellence Award**.
+My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols. My research is supported by NSF, Protocol Labs, Uniswap Foundation, and UConn Research Excellence Award.
 
 <br/>
 
