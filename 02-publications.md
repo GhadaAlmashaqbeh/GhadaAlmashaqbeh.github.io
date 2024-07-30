@@ -83,6 +83,5 @@ A selected list based on my current research interests. Check [here](https://sch
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Thesis</div> 
 
-G. Almashaqbeh. CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network, PhD thesis, Columbia University, 2019<br/>
-[Full version](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57)
+G. Almashaqbeh. CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network, PhD thesis, Columbia University, 2019 &emsp; [Full version](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57)
 
