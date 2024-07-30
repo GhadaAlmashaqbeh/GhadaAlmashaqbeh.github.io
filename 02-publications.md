@@ -26,7 +26,7 @@ A selected list based on my current research interests. Check [here](https://sch
 
 * Competitive Policies for Online Collateral Maintenance<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
-  <span style="font-family: 'Comic Sans MS';">AFT 2024</span> &emsp; <span class="iconbox"><a href="https://eprint.iacr.org/2024/1022"><img class="pubicon" src="images/pdf.svg" alt="PDF"></a><img class="pubicon notpresent" src="images/slides.svg" alt="Slides"><a href="../slides/chainboost-eurosp-2024.pdf"></span>
+  <span style="font-family: 'Comic Sans MS';">AFT 2024</span> &emsp; <span class="iconbox"><a href="https://eprint.iacr.org/2024/1022"><img class="pubicon" src="../images/pdf.svg" alt="PDF"></a><img class="pubicon notpresent" src="../images/slides.svg" alt="Slides"><a href="../slides/chainboost-eurosp-2024.pdf"></span>
 
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets<br/>
   <div style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</div>
