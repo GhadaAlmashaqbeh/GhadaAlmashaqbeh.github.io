@@ -13,16 +13,16 @@ A selected list based on my current research interests. Check [here](https://sch
   <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
   [Preprint](https://eprint.iacr.org/2024/1021)
 
-* Anonymous, Timed and Revocable Proxy Signatures<br/>
-  <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
-  [Preprint](https://eprint.iacr.org/2023/833)
-
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
   [Preprint](https://arxiv.org/abs/2306.06825)
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
+
+* Anonymous, Timed and Revocable Proxy Signatures<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
+  <span style="font-family: 'Comic Sans MS';">ISC 2024</span> &emsp; [Preprint](https://eprint.iacr.org/2023/833)
 
 * Competitive Policies for Online Collateral Maintenance<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
