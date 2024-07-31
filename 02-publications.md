@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Selected Publications</h4>
 
-A selected list based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete list.<br/>
+A selected set based on my current research interests. Check [here](https://scholar.google.com/citations?hl=en&user=QKIkII0AAAAJ&view_op=list_works&sortby=pubdate) for a complete list.<br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 * ammBoost: State Growth Control for AMMs &emsp; [Preprint](https://eprint.iacr.org/2024/1021)<br/>
