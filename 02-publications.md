@@ -10,7 +10,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 * ammBoost: State Growth Control for AMMs &emsp; [Preprint](https://eprint.iacr.org/2024/1021)<br/>
-  <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
+  <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div><br/>
   
 
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Preprint](https://arxiv.org/abs/2306.06825)<br/>
