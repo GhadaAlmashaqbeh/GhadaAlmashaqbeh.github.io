@@ -15,7 +15,7 @@ A selected set based on my current research interests. Check [here](https://scho
   
 
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Preprint](https://arxiv.org/abs/2306.06825)<br/>
-  <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
+  <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span>
   
 
 
