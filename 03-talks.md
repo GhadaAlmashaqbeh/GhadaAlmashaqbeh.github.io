@@ -8,6 +8,7 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Recent Events</div> 
 
+* [TLDR Conference](https://www.thelatestindefi.org/conference), May 2024 (speaker) <br/>
 * [QSig Workshop](https://www.ed.ac.uk/informatics/blockchain/events/previous-events/qsig), Jan 2024 (speaker) <br/>
 * [NY Celebration of Women in Computing](https://nycwic.org/), Apr 2023 (speaker) <br/>
 * [NY Crypto Day](https://nycryptoday.wordpress.com/2022/09/), Oct 2022 (speaker) <br/>
