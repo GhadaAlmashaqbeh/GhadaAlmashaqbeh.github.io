@@ -21,6 +21,10 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
+* Password-authenticated Cryptography from Consumable Tokens &emsp; [Preprint]()<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh</div>
+  <span style="font-family: 'Comic Sans MS';">CSCML 2024</span>
+
 * Anonymous, Timed and Revocable Proxy Signatures &emsp; [Preprint](https://eprint.iacr.org/2023/833)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
   <span style="font-family: 'Comic Sans MS';">ISC 2024</span> 
