@@ -8,6 +8,7 @@ Lecture slides (syllabus, assignments, announcements, etc., can be found on Husk
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 5 | Slides: rest of Lecture 4, [Lecture 5](./lecture5.pdf)|
 | Week 4 | Slides: rest of Lecture 3, [Lecture 4](./lecture4.pdf)|
 | Week 3 | Slides: rest of Lecture 3|
 | Week 2 | Slides: [Lecture 3](./lecture3.pdf)|
