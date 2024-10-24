@@ -27,7 +27,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Anonymous, Timed and Revocable Proxy Signatures &emsp; [Preprint](https://eprint.iacr.org/2023/833)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
-  <span style="font-family: 'Comic Sans MS';">ISC 2024</span> 
+  <span style="font-family: 'Comic Sans MS';">ISC 2024</span> &emsp;<span style="color:red; ont-family: 'Comic Sans MS';">Best Paper Award</span>
 
 * Competitive Policies for Online Collateral Maintenance &emsp; [Preprint](https://eprint.iacr.org/2024/1022)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
