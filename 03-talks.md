@@ -32,6 +32,9 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
+***Anonymous, Timed and Revocable Proxy Signatures*** &emsp; [_Slides_](../slides/sig-deg-isc-2024.pdf)<br/> 
+&emsp; ISC - Oct 2024
+
 ***chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets*** &emsp; [_Slides_](../slides/chainboost-eurosp-2024.pdf)<br/> 
 &emsp; EuroS&P - Jul 2024
 
