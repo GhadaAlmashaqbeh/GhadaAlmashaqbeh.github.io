@@ -14,12 +14,12 @@ A selected set based on my current research interests. Check [here](https://scho
   <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span>
   
 
-* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Preprint](https://arxiv.org/abs/2306.06825)<br/>
-  <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span>
-  
-
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
+
+* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Preprint](https://arxiv.org/abs/2306.06825)<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
+  <span style="font-family: 'Comic Sans MS';">PETS 2025</span>
 
 * Password-authenticated Cryptography from Consumable Tokens &emsp; [Preprint](https://eprint.iacr.org/2024/1283)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh</div>
@@ -27,7 +27,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Anonymous, Timed and Revocable Proxy Signatures &emsp; [Preprint](https://eprint.iacr.org/2023/833)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</div>
-  <span style="font-family: 'Comic Sans MS';">ISC 2024</span> &emsp;<span style="color:red; ont-family: 'Comic Sans MS';">Best Paper Award</span>
+  <span style="font-family: 'Comic Sans MS';">ISC 2024</span> &emsp;<span style="color:red;">Best Paper Award</span>
 
 * Competitive Policies for Online Collateral Maintenance &emsp; [Preprint](https://eprint.iacr.org/2024/1022)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</div>
