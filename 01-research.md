@@ -24,7 +24,7 @@ My research interests span cryptography, computer security, and privacy with a l
 * **State growth control for DeFi systems:** Develop layer-two solutions to reduce the blockchain storage-footprint of DeFi applications (such as automated market makers), in addition to developing multidimensional transaction fee mechanisms under these multi-layer solutions. More about our framework, ammBoost, can be found in our [paper](https://eprint.iacr.org/2024/1021).<br/>
 <u>Funded by Uniswap Foundation<u/>
 
-* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference), and explore directions to support dynamic participation in these protocols under restricted interaction patterns. More about our anonymity framework for private federated learning can be found in our [paper](https://arxiv.org/abs/2306.06825). <br/>
+* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference), and explore directions to support dynamic participation in these protocols under restricted interaction patterns. More about our anonymity framework for private federated learning can be found in our ([paper](https://arxiv.org/abs/2306.06825), PETS 2025). <br/>
 <u>Funded by UConn Research Excellence Award<u/>
 <br/>
 <br/>
