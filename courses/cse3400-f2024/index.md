@@ -8,6 +8,7 @@ Lecture slides (syllabus, assignments, announcements, etc., can be found on Husk
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 11 | Slides: [Lecture 10](./lecture10.pdf)|
 | Week 10 | Slides: rest of Lecture 8, [Lecture 9](./lecture9.pdf)|
 | Week 9 | Slides: rest of Blockchains, [Lecture 8](./lecture8.pdf)|
 | Week 8 | Slides: [Lecture 7](./lecture7.pdf), [Blockchains](./blockchains.pdf)|
