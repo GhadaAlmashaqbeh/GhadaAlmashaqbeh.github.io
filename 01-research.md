@@ -24,14 +24,14 @@ My research interests span cryptography, computer security, and privacy with a l
 * **State growth control for DeFi systems:** Develop layer-two solutions to reduce the blockchain storage-footprint of DeFi applications (such as automated market makers), in addition to developing multidimensional transaction fee mechanisms under these multi-layer solutions. More about our framework, ammBoost, can be found in our [paper](https://eprint.iacr.org/2024/1021).<br/>
 <u>Funded by Uniswap Foundation<u/>
 
-* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference), and explore directions to support dynamic participation in these protocols under restricted interaction patterns. More about our anonymity framework for private federated learning can be found in our ([paper](https://arxiv.org/abs/2306.06825), PETS 2025). <br/>
-<u>Funded by UConn Research Excellence Award<u/>
+* **Private smart contracts:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our ([paper](https://eprint.iacr.org/2021/133), [EuroS&P 2023](https://www.ieee-security.org/TC/EuroSP2023/)), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), EuroS&P 2022).
 <br/>
 <br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Previous Projects</div>
 
-* **Private smart contracts:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our ([paper](https://eprint.iacr.org/2021/133), [EuroS&P 2023](https://www.ieee-security.org/TC/EuroSP2023/)), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), EuroS&P 2022).
+* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference), and explore directions to support dynamic participation in these protocols under restricted interaction patterns. More about our anonymity framework for private federated learning can be found in our ([paper](https://arxiv.org/abs/2306.06825), PETS 2025). <br/>
+<u>Funded by UConn Research Excellence Award<u/>
 
 * **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in ([Gage MPC](https://eprint.iacr.org/2021/256), PETS 2021).
 
