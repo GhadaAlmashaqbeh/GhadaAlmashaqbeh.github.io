@@ -32,8 +32,14 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
+***Password-authenticated Cryptography from Consumable Tokens*** &emsp; [_Slides_](../slides/cscml-talk-2024.pdf)<br/> 
+&emsp; CSCML - Dec 2024
+
 ***Anonymous, Timed and Revocable Proxy Signatures*** &emsp; [_Slides_](../slides/sig-deg-isc-2024.pdf)<br/> 
 &emsp; ISC - Oct 2024
+
+***Give and Take; The Evolving Relationship between Security and Blockchains*** &emsp; [_Slides_](../slides/ne-security-seminar-2024.pdf)<br/> 
+&emsp; Northeastern's Khoury College Security Seminar - Oct 2024
 
 ***chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets*** &emsp; [_Slides_](../slides/chainboost-eurosp-2024.pdf)<br/> 
 &emsp; EuroS&P - Jul 2024
