@@ -32,29 +32,29 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
-***Password-authenticated Cryptography from Consumable Tokens*** &emsp; [_Slides_](../slides/cscml-talk-2024.pdf)<br/> 
+*Password-authenticated Cryptography from Consumable Tokens* &emsp; [_Slides_](../slides/cscml-talk-2024.pdf)<br/> 
 &emsp; CSCML - Dec 2024
 
-***Anonymous, Timed and Revocable Proxy Signatures*** &emsp; [_Slides_](../slides/sig-deg-isc-2024.pdf)<br/> 
+*Anonymous, Timed and Revocable Proxy Signatures* &emsp; [_Slides_](../slides/sig-deg-isc-2024.pdf)<br/> 
 &emsp; ISC - Oct 2024
 
-***Give and Take; The Evolving Relationship between Security and Blockchains*** &emsp; [_Slides_](../slides/ne-security-seminar-2024.pdf)<br/> 
+*Give and Take; The Evolving Relationship between Security and Blockchains* &emsp; [_Slides_](../slides/ne-security-seminar-2024.pdf)<br/> 
 &emsp; Northeastern's Khoury College Security Seminar - Oct 2024
 
-***chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets*** &emsp; [_Slides_](../slides/chainboost-eurosp-2024.pdf)<br/> 
+*chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets* &emsp; [_Slides_](../slides/chainboost-eurosp-2024.pdf)<br/> 
 &emsp; EuroS&P - Jul 2024
 
-***ammBoost: State Growth Control for AMMs*** &emsp; [_Slides_](../slides/tldr-2024.pdf)<br/> 
+*ammBoost: State Growth Control for AMMs* &emsp; [_Slides_](../slides/tldr-2024.pdf)<br/> 
 &emsp; The TLDR Conference - May 2024
 
-***smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption*** &emsp; [_Slides_](../slides/smartfhe.pdf)<br/> 
+*smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption* &emsp; [_Slides_](../slides/smartfhe.pdf)<br/> 
 &emsp; EuroS&P - Jul 2023
 
-***On the Power of Smart Contracts-The Good and The Bad*** &emsp; [_Slides_](../slides/mdu-cybersecurity-workshop22.pdf) &emsp; [_Extended Slides_](../slides/HeritageMed2022.pdf)<br/> 
+*On the Power of Smart Contracts-The Good and The Bad* &emsp; [_Slides_](../slides/mdu-cybersecurity-workshop22.pdf) &emsp; [_Extended Slides_](../slides/HeritageMed2022.pdf)<br/> 
 &emsp; Heritage Medical Systems annual meeting - Dec 2022 <br/>
 &emsp; Software Center/MDU Workshop on Cybersecurity - Sep 2022
 
-***Unclonable Polymers and Their Cryptographic Applications*** &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/>
+*Unclonable Polymers and Their Cryptographic Applications* &emsp; [_Slides_](../slides/eurocrypt22.pdf) &emsp; [_Extended Slides_](../slides/ediblecrypto-ext.pdf) <br/>
 &emsp; QSig Workshop - Jan 2024 <br/>
 &emsp; Intelligent Cooperation Group Seminar, Foresight Institute - Aug 2023 <br/>
 &emsp; New York Celebration of Women in Computing (NYCWiC) - Apr 2023 <br/>
@@ -65,53 +65,53 @@ permalink: /activities/
 &emsp; CMU CyLab Crypto Seminar - Jul 2022<br/>
 &emsp; Eurocrypt - Jun 2022
 
-***Cybersecurity and Society - Blockchain Technology*** &emsp; [_Slides_](../slides/uconn-explore-eng-talk.pdf) <br/> 
+*Cybersecurity and Society - Blockchain Technology* &emsp; [_Slides_](../slides/uconn-explore-eng-talk.pdf) <br/> 
 &emsp; Orientation to Engineering Course OCP, UConn - Nov 2022 <br/>
 &emsp; The UConn Explore Engineering (E2) Program - Jun 2022
 
-***I See You Blockchain User, or Not! Privacy in the Age of Blockchains*** &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
+*I See You Blockchain User, or Not! Privacy in the Age of Blockchains* &emsp; [_Slides_](../slides/enigma2022.pdf) <br/> 
 &emsp; USENIX Enigma Conference - Feb 2022
 
-***Gage MPC: Bypassing Residual Function Leakage for NIMPC*** &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
+*Gage MPC: Bypassing Residual Function Leakage for NIMPC* &emsp; [_Slides_](../slides/gagempc-pets-2021.pdf) &emsp; [_Extended Slides_](../slides/gagempc-ext.pdf)<br/> 
 &emsp; Protocol Labs Research Seminar Series - Feb 2022<br/>
 &emsp; Google Cryptography Talks Series - Jul 2021<br/>
 &emsp; UConn CSE Security Seminar - Jul 2021<br/>
 &emsp; Privacy Enhancing Technologies Symposium (PETS) - Jul 2021
 
-***Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets*** &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
+*Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets* &emsp; [_Slides_](../slides/ghc-2020-talk.pdf)<br/> 
 &emsp; Women in STEM Frontiers in Research Expo (WiSFiRE) - Sep 2022<br/>
 &emsp; Grace Hopper Celebration (GHC), Security/Privacy track - Oct 2020
 
-***Micropayments: From Centralized to Blockchain-based Distributed Schemes*** &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
+*Micropayments: From Centralized to Blockchain-based Distributed Schemes* &emsp; [_Slides_](../slides/micropayments-talk.pdf)<br/> 
 &emsp; University of Malaga - May 2020
 
-***CAPnet: A Defense Against Cache Accounting Attacks on CDNs*** &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
+*CAPnet: A Defense Against Cache Accounting Attacks on CDNs* &emsp; [_Slides_](../slides/capnet-cns-2019.pdf)<br/> 
 &emsp; IEEE CNS - Jun 2019
 
-***CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network*** &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
+*CacheCash: A Cryptocurrency-based Decentralized Content Delivery Network* &emsp; [_Slides_](../slides/cachecash-thesis-defense.pdf)<br/>
 &emsp; PhD dissertation defense, Columbia University - May 2019 
 
-***The Age of Cryptocurrencies: Bitcoin and Sisters*** &emsp; [_Slides_](../slides/age-of-cryptocurrencies.pdf)<br/>
+*The Age of Cryptocurrencies: Bitcoin and Sisters* &emsp; [_Slides_](../slides/age-of-cryptocurrencies.pdf)<br/>
 &emsp; University of Colorado Colorado Springs - Mar 2018 and Apr 2019<br/>
 &emsp; NYU Tandon School of Engineering - Dec 2017<br/>
 &emsp; Columbia University - Dec 2017
 
-***Threat Modeling for Cryptocurrency-based Systems*** &emsp; [_Slides_](../slides/threat-modeling-for-cryptocurrency-based-systems.pdf)<br/>
+*Threat Modeling for Cryptocurrency-based Systems* &emsp; [_Slides_](../slides/threat-modeling-for-cryptocurrency-based-systems.pdf)<br/>
 &emsp; NYU Tandon School of Engineering - Dec 2018
 
-***Resource-backed Cryptocurrencies*** &emsp; [_Slides_](../slides/resource-backed-cryptocurrencies-talk.pdf)<br/>
+*Resource-backed Cryptocurrencies* &emsp; [_Slides_](../slides/resource-backed-cryptocurrencies-talk.pdf)<br/>
 &emsp; Association of Women in Math (AWM) Talk Series, Barnard College - Nov 2018<br/>
 &emsp; Emerging Scholars Program Seminar, Columbia University - Dec 2017
 
-***Sensible Cryptocurrencies*** &emsp; [_Slides_](../slides/sensible-cryptocurrencies-talk.pdf)<br/>
+*Sensible Cryptocurrencies* &emsp; [_Slides_](../slides/sensible-cryptocurrencies-talk.pdf)<br/>
 &emsp; PhD Candidacy Exam Talk, Columbia University - Nov 2017
 
-***Cryptocurrency Era***<br/>
+*Cryptocurrency Era*<br/>
 &emsp; Fordham University - Jun 2017 
 
-***Bitcoin***<br/>
+*Bitcoin*<br/>
 &emsp; NYU Tandon School of Engineering - Dec 2015 
 
-***Digital Currencies*** &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
+*Digital Currencies* &emsp; [_Slides_](../slides/Digital-currencies-talk.pdf)<br/>
 &emsp; Cybersecurity for STEM Teachers program, NYU Polytechnic School of Engineering - Jul 2015<br/><br/> 
 
