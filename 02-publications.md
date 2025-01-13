@@ -10,6 +10,9 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 
+* SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models &emsp; [Preprint](https://eprint.iacr.org/2025/43)<br/>
+  <span style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</span>
+
 * ammBoost: State Growth Control for AMMs &emsp; [Preprint](https://eprint.iacr.org/2024/1021)<br/>
   <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span>
   
