@@ -25,22 +25,3 @@ My research interests span cryptography, computer security, and privacy with a l
 <u>Funded by Uniswap Foundation<u/>
 
 * **Private smart contracts:** Build a privacy-preserving smart contract (PPSC) scheme using fully homomorphic encryption and non-interactive zero knowledge proofs. More about our PPSC framework can be found in our ([paper](https://eprint.iacr.org/2021/133), [EuroS&P 2023](https://www.ieee-security.org/TC/EuroSP2023/)), and more about current private computing solutions for blockchains can be found in our ([SoK paper](https://eprint.iacr.org/2021/727.pdf), EuroS&P 2022).
-<br/>
-<br/>
-
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Previous Projects</div>
-
-* **Privacy and machine learning:** Use privacy technologies---MPC, FHE, threshold cryptography, and zero knowledge proofs---to tackle privacy issues in machine learning (covering both federated learning and inference), and explore directions to support dynamic participation in these protocols under restricted interaction patterns. More about our anonymity framework for private federated learning can be found in our ([paper](https://arxiv.org/abs/2306.06825), PETS 2025). <br/>
-<u>Funded by UConn Research Excellence Award<u/>
-
-
-* **Gage MPC:** Develop a new MPC model to circumvent the leakage of the residual function, and enforce complete fairness, in non-interactive MPC (NIMPC). We introduce new primitives---monetary incentivised time lock capsules and a robust version of garbled circuits---and combine them with smart contracts to incentivize participants/miners to evaluate the intended MPC functionality. More about Gage MPC can be found in ([Gage MPC](https://eprint.iacr.org/2021/256), PETS 2021).
-
-
-* **CacheCash:** A system that provides a decentralized content delivery network (CDN) service by forming a distributed bandwidth marketplace powered by a cryptocurrency. This project covered a threat modeling framework for cryptocurrencies ([ABC](https://ieeexplore.ieee.org/document/8845101), CryBlock 2019), a defense mechanism against cache accounting attacks ([CAPnet](https://ieeexplore.ieee.org/document/8802825), CNS 2019), a lightweight probabilistic micropayment scheme ([MicroCash](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_13), FC 2020), and CacheCash ([CacheCash](https://academiccommons.columbia.edu/doi/10.7916/d8-kmv2-7n57), PhD Thesis 2019), the main system that integrates these modules together.
-
-
-* **Privacy-preserving programming compiler extension:** Build the first framework to support pointers to private data for privacy preserving programming compilers. This involved extending the PICCO compiler to implement this framework, and studying the efficiency trade-offs of using pointers to private data in secure algorithms and protocols. Read about this framework in our [TOPS 2017](https://dl.acm.org/citation.cfm?id=3154600) paper.
-
-
-* **Privacy-preserving genome testing:** Develop protocols that perform genome tests to detect gene mutations without revealing any information about the underlying genome sequences. This project was a submission to the 4th [iDash Privacy & Security Workshop](http://www.humangenomeprivacy.org/2015/) competition. Read about these protocols in our [BMC 2015](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S4) paper.
