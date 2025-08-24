@@ -20,7 +20,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Preprint](https://arxiv.org/abs/2306.06825)<br/>
+* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Full version](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
   <span style="font-family: 'Comic Sans MS';">PETS 2025</span>
 
@@ -48,7 +48,7 @@ A selected set based on my current research interests. Check [here](https://scho
   <div style="color:grey; font-size:15px;">R. Solomon, R. Weber, and G. Almashaqbeh</div>
   <span style="font-family: 'Comic Sans MS';">EuroS&P 2023</span> &emsp; Coverage: [zkMesh](https://zkmesh.substack.com/p/zkmesh-feb-2021-recap?s=r)
 
-* Unclonable Polymers and Their Cryptographic Applications &emsp; [Preprint](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)<br/>
+* Unclonable Polymers and Their Cryptographic Applications &emsp; [Full version](https://eprint.iacr.org/2022/658) &emsp; [Slides](../slides/eurocrypt22.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, R. Canetti, Y. Erlich, J. Gershoni. T. Malkin, I. Pe’er, A. Roitburd-Berman, and E. Tromer</div>
   <span style="font-family: 'Comic Sans MS';">Eurocrypt 2022</span> 
 
@@ -56,7 +56,7 @@ A selected set based on my current research interests. Check [here](https://scho
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and R. Solomon</div>
   <span style="font-family: 'Comic Sans MS';">EuroS&P 2022</span> &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-def), [a16z Web3 Weekly](https://a16zcrypto.substack.com/p/crypto-summer)
 
-* Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC &emsp; [Preprint](https://eprint.iacr.org/2021/256) &emsp; [Slides](../slides/gagempc-pets-2021.pdf)<br/>
+* Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC &emsp; [Full version](https://eprint.iacr.org/2021/256) &emsp; [Slides](../slides/gagempc-pets-2021.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, F. Benhamouda, S. Han, D. Jaroslawicz, T. Malkin. A. Nicita, T. Rabin, A. Shah, and E. Tromer</div>
   <span style="font-family: 'Comic Sans MS';">PETS 2021</span> &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-fb6)
 
@@ -68,7 +68,7 @@ A selected set based on my current research interests. Check [here](https://scho
   <div style="color:grey; font-size:15px;">G. Almashaqbeh</div>
   <span style="font-family: 'Comic Sans MS';">USENIX ;login: Magazine 2021</span> 
 
-* MicroCash: Practical Concurrent Processing of Micropayments &emsp; [Preprint](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)<br/>
+* MicroCash: Practical Concurrent Processing of Micropayments &emsp; [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</div>
   <span style="font-family: 'Comic Sans MS';">FC 2020 (Financial Cryptography and Data Security)</span> &emsp; Coverage: [zkCapital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-92a)
   
@@ -76,7 +76,7 @@ A selected set based on my current research interests. Check [here](https://scho
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, K. Kelley, A. Bishop, and J. Cappos</div>
   <span style="font-family: 'Comic Sans MS';">IEEE CNS 2019 (Communications and Network Security)</span>
 
-* ABC: A Cryptocurrency-Focused Threat Modeling Framework &emsp; [Preprint](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf)<br/>
+* ABC: A Cryptocurrency-Focused Threat Modeling Framework &emsp; [Full version](https://arxiv.org/abs/1903.03422) &emsp; [Slides](../slides/abc-cryblock-2019.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</div>
   <span style="font-family: 'Comic Sans MS';">CryBlock 2019</span>  
 

@@ -6,21 +6,9 @@ permalink: /activities/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h4>
 
-<div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Recent Events</div> 
-
-* [TLDR Conference](https://www.thelatestindefi.org/conference), May 2024 (speaker) <br/>
-* [QSig Workshop](https://www.ed.ac.uk/informatics/blockchain/events/previous-events/qsig), Jan 2024 (speaker) <br/>
-* [NY Celebration of Women in Computing](https://nycwic.org/), Apr 2023 (speaker) <br/>
-* [NY Crypto Day](https://nycryptoday.wordpress.com/2022/09/), Oct 2022 (speaker) <br/>
-* [Frequency Crypto Bootcamp](https://frequency.pillar.vc/crypto/), Oct 2022 (mentor) <br/>
-* [Foresight Crypto, Security & AI Workshop](https://foresight.org/crypto-workshop/), Oct 2022 (speaker) <br/>
-* Challenges Up the Ladder: Funding, Networking and Industry Support, [N2Women](https://n2women.comsoc.org/), Sep 2022 (panelist) <br/>
-* [Women in STEM Frontiers in Research Expo (WiSFiRE)](https://www.eventbrite.com/e/wisfire-2022-women-in-stem-frontiers-in-research-expo-registration-410823563337), Sep 2022 (speaker) <br/>
-* [Software Center/MDU Workshop on Cybersecurity](https://www.software-center.se/event/ws_cybersecurity_mdu/), Sep 2022 (speaker) <br/>
-* [USENIX Enigma](https://www.usenix.org/conference/enigma2022), Feb 2022 (speaker)
-
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div>
+**2026:** S&P <br/>
 **2025:** CCS, PETS, EuroS&P, FC, AsiaCCS <br/>
 **2024:** CCS, PETS, EuroS&P, FC, ISC, NESD <br/>
 **2023:** Crypto, CCS, FC, EuroS&P, PKC  <br/>
@@ -31,6 +19,12 @@ permalink: /activities/
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
+
+*Anonymity in Decentralized Settings* &emsp; [_Slides_](../slides/anon-day-talk-2025.pdf)<br/> 
+&emsp; Anonymity Day, Columbia University - Apr 2025
+
+*Count Me In, or Not?! Crowdsourcing in the Age of Blockchains* &emsp; [_Slides_](../slides/nycwic-talk-2025.pdf)<br/> 
+&emsp; New York Celebration of Women in Computing (NYCWiC) - Apr 2025
 
 *Password-authenticated Cryptography from Consumable Tokens* &emsp; [_Slides_](../slides/cscml-talk-2024.pdf)<br/> 
 &emsp; CSCML - Dec 2024
