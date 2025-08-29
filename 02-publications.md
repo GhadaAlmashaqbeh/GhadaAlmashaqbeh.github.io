@@ -10,19 +10,27 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 
-* SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models &emsp; [Preprint](https://eprint.iacr.org/2025/43)<br/>
-  <span style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</span>
-
-* ammBoost: State Growth Control for AMMs &emsp; [Preprint](https://eprint.iacr.org/2024/1021)<br/>
-  <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span>
-  
+* Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency &emsp; [Preprint](https://eprint.iacr.org/2025/1144.pdf)<br/>
+  <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
+* Adversary Resilient Learned Bloom Filters &emsp; [Preprint](https://eprint.iacr.org/2024/754.pdf)<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</div>
+  <span style="font-family: 'Comic Sans MS';">Asiacrypt 2025</span>
+
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Full version](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
   <span style="font-family: 'Comic Sans MS';">PETS 2025</span>
+
+* ammBoost: State Growth Control for AMMs &emsp; [Preprint](https://eprint.iacr.org/2024/1021)<br/>
+  <div style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</div>
+  <span style="font-family: 'Comic Sans MS';">DSN 2025</span>
+
+* SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models &emsp; [Preprint](https://eprint.iacr.org/2025/43)<br/>
+  <div style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</div>
+  <span style="font-family: 'Comic Sans MS';">ICBC 2025, also presented at SBC 2025</span>
 
 * Password-authenticated Cryptography from Consumable Tokens &emsp; [Preprint](https://eprint.iacr.org/2024/1283)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh</div>
