@@ -16,8 +16,10 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* Adversary Resilient Learned Bloom Filters &emsp; <span style="font-family: 'Comic Sans MS';">In Asiacrypt 2025</span>  &emsp; [Preprint](https://eprint.iacr.org/2024/754.pdf)<br/>
-  <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span>
+* Adversary Resilient Learned Bloom Filters<br/>
+  <div style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</div>
+  In Asiacrypt 2025 &emsp; [Preprint](https://eprint.iacr.org/2024/754.pdf)<br/>
+
 
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning &emsp; [Full version](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
   <div style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</div>
