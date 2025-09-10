@@ -26,9 +26,9 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Password-authenticated Cryptography from Consumable Tokens. _In CSCML 2024._<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh</span> &emsp; [Preprint](https://eprint.iacr.org/2024/1283)<br/>
 
-* Anonymous, Timed and Revocable Proxy Signatures. _In ISC 2025._ &emsp;<span style="color:red;">Best Paper Award</span><br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</span>  &emsp; [Preprint](https://eprint.iacr.org/2023/833)<br/>
+* Anonymous, Timed and Revocable Proxy Signatures. _In ISC 2024._ &emsp;<span style="color:red;">Best Paper Award</span><br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and A. Nitulescu</span>  &emsp; [Preprint](https://eprint.iacr.org/2023/833)<br/>
 
-* Competitive Policies for Online Collateral Maintenance. _In AFT 2025._<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</span> &emsp; [Preprint](https://eprint.iacr.org/2024/1022)<br/>
+* Competitive Policies for Online Collateral Maintenance. _In AFT 2024._<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, S. Chen, and A. Russell</span> &emsp; [Preprint](https://eprint.iacr.org/2024/1022)<br/>
 
 * chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets. _In EuroS&P 2024._<br/> <span style="color:grey; font-size:15px;">Z. Motaqy, M. Najd, and G. Almashaqbeh</span> &emsp; [Preprint](https://eprint.iacr.org/2024/1020) &emsp; [Slides](../slides/chainboost-eurosp-2024.pdf)<br/>
 
