@@ -44,7 +44,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Bet and Attack: Incentive Compatible Collaborative Attacks Using Smart Contracts. _In GameSec 2021._<br/> <span style="color:grey; font-size:15px;">Z. Motaqy, G. Almashaqbeh, B. Bahrak, and N. Yazdani</span> &emsp; [Preprint](https://arxiv.org/pdf/2010.12280.pdf) &emsp; [Slides](../slides/gamesec21.pdf)<br/>
 
-* Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets. _In USENIX ;login: Magazine 2021._ <span style="color:grey; font-size:15px;">G. Almashaqbeh</span> &emsp; [Preprint](./preprint/almashaqbeh-login-21.pdf)<br/><br/>
+* Rethinking Service Systems: A Path Towards Secure and Equitable Resource Markets. _In USENIX ;login: Magazine 2021._<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh</span> &emsp; [Preprint](./preprint/almashaqbeh-login-21.pdf)<br/>
 
 * MicroCash: Practical Concurrent Processing of Micropayments. _In FC 2020 (Financial Cryptography and Data Security)._<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</span> &emsp; [Full version](https://arxiv.org/abs/1911.08520) &emsp; [Slides](../slides/microcash-fc-2020.pdf)<br/>
   
