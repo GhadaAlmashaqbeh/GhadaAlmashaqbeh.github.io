@@ -8,6 +8,7 @@ Lecture slides (check HuskyCT for syllabus, assignments, announcements, etc.).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 4 | Slides: rest of Lecture 3, [Lecture 4](./lecture4.pdf) |
 | Week 3 | Slides: rest of Lecture 3 |
 | Week 2 | Slides: rest of Lecture 2, [Lecture 3](./lecture3.pdf)|
 | Week 1 | Slides: [Lecture 1](./lecture1.pdf), [Lecture 2](./lecture2.pdf)|
