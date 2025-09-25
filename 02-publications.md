@@ -10,13 +10,15 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 
+* chainScale: Secure Functionality-oriented Scalability for Decentralized Resource Markets<br/> <span style="color:grey; font-size:15px;">M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://arxiv.org/pdf/2509.20356)<br/>
+
 * Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency<br/>
   <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span> &emsp; [PDF](https://eprint.iacr.org/2025/1144.pdf)<br/>
 
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* Adversary Resilient Learned Bloom Filters. _In **Asiacrypt 2025**_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
+* Adversary Resilient Learned Bloom Filters. In <p style="font-family:Georgia, serif;">Asiacrypt 2025</p><br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
 
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. _In **PETS 2025**_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
 
