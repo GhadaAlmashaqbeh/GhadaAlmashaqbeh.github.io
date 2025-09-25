@@ -18,7 +18,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* Adversary Resilient Learned Bloom Filters. In <span style="font-family: Georgia, serif; font-weight: 600">Asiacrypt 2025</span><br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
+* Adversary Resilient Learned Bloom Filters. In <span style="font-family: Georgia, serif; font-weight: 550">Asiacrypt 2025</span><br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
 
 * AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. _In **PETS 2025**_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
 
