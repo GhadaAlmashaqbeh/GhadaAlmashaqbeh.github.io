@@ -20,9 +20,9 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Adversary Resilient Learned Bloom Filters. In _<span style="font-family: Georgia, serif; font-weight: 590">Asiacrypt 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
 
-* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. In _<span style="font-family: Georgia, serif; font-weight: 6000">PETS 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
+* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. In _<span style="font-family: Georgia, serif; font-weight: 600">PETS 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
 
-* ammBoost: State Growth Control for AMMs. _In **DSN 2025**_<br/> <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2024/1021)<br/>
+* ammBoost: State Growth Control for AMMs. In _<span style="font-family: Georgia, serif; font-weight: 620">DSN 2025</span>_<br/> <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2024/1021)<br/>
 
 * SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models. _In **ICBC 2025**, also presented at **SBC 2025**_<br/> <span style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2025/43)<br/>
 
