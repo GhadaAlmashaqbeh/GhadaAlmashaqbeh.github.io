@@ -20,7 +20,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * Adversary Resilient Learned Bloom Filters. In _<span style="font-family: Georgia, serif; font-weight: 590">Asiacrypt 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
 
-* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. _In **PETS 2025**_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
+* AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning. In _<span style="font-family: Georgia, serif; font-weight: 6000">PETS 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh and Z. Ghodsi</span> &emsp; [PDF](https://petsymposium.org/popets/2025/popets-2025-0051.pdf)<br/>
 
 * ammBoost: State Growth Control for AMMs. _In **DSN 2025**_<br/> <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2024/1021)<br/>
 
