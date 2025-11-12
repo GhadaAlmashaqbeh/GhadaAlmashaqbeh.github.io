@@ -8,7 +8,10 @@ Lecture slides (check HuskyCT for syllabus, assignments, announcements, etc.).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 12 | Slides: rest of lecture 10, [Lecture 11](./lecture11.pdf)|
+| Week 15 | Term project presentations on Tuesday, midterm test 2 on Thursday|
+| Week 14 | Thanksgiving recess (no classes)|
+| Week 13 | Slides: rest of lecture 12, recitation |
+| Week 12 | Slides: rest of lecture 10, [Lecture 11](./lecture11.pdf), [Lecture 12](./lecture12.pdf)|
 | Week 11 | Slides: rest of lecture 9, [Lecture 10](./lecture10.pdf)|
 | Week 10 | Slides: rest of lecture 8, [Lecture 9](./lecture9.pdf)|
 | Week 9 | Slides: rest of lecture 7, [Blockchains](./blockchains.pdf), [Lecture 8](./lecture8.pdf)|
