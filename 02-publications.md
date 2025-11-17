@@ -10,6 +10,8 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Preprint</div> 
 
+* SoK: Blockchain Oracles Between Theory and Practice<br/> <span style="color:grey; font-size:15px;">C. Finkbeiner, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2025/2106)<br/>
+
 * chainScale: Secure Functionality-oriented Scalability for Decentralized Resource Markets<br/> <span style="color:grey; font-size:15px;">M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://arxiv.org/pdf/2509.20356)<br/>
 
 * Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency<br/>
