@@ -6,6 +6,8 @@ permalink: /teaching/
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Teaching</h4>
 
+**Spring 2026**, &nbsp; CSE 3550/CSE 5000 &nbsp;&nbsp; [Blockchain Technology](/courses/blockchain-technology-s2026/)
+
 **Fall 2025**, &nbsp; CSE 3400/CSE 5850 &nbsp;&nbsp; [Intro to Cryptography and Cybersecurity](/courses/cse3400-f2025/)
 
 **Fall 2024**, &nbsp; CSE 3400/CSE 5850 &nbsp;&nbsp; [Intro to Computer and Network Security/Cybersecurity](/courses/cse3400-f2024/)
