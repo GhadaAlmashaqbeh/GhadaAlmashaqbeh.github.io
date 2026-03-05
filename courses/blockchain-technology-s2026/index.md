@@ -8,6 +8,7 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 8 | Slides: [Lecture 8](./lecture8.pdf) <br/> Assigned reading: <br/> &emsp; - Topics covered in class from Chapter 15 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.<br/> &emsp; - Sections 5, 6.1, and 6.2 from Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019.|
 | Week 7 | Slides, rest of Lecture 7. Midterm Test 1 on Thursday's class.|
 | Week 6 | Slides: [Lecture 7](./lecture7.pdf) <br/> Assigned reading: <br/> - Topics covered in class from Chapters 1 - 6 and 9 in [Mastering Ethereum](https://masteringethereum.xyz/intro.html#mastering-ethereum-2nd-edition) book. <br/> &emsp; For smart contracts, Chapter 7 from [Mastering Ethereum](https://masteringethereum.xyz/intro.html#mastering-ethereum-2nd-edition) book. |
 | Week 5 | Slides: rest of Lecture 5, [Lecture 6](./lecture6.pdf), [Lecture 7](./lecture7.pdf) <br/> Assigned reading: <br/> &emsp; - (Optional reading) [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/).<br/> &emsp; - Topics covered in class from Chapters 1 - 6 and 9 in [Mastering Ethereum](https://masteringethereum.xyz/intro.html#mastering-ethereum-2nd-edition) book.|
