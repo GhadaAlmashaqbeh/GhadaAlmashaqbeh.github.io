@@ -8,6 +8,7 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 11 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf)  <br/> Assigned reading: <br/> &emsp; Topic covered within sections 4.1 - 4.4 from [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf).|
 | Week 10 | Slides: rest of Lecture 8, [Lecture 9](./lecture9.pdf)  <br/> Assigned reading: <br/> &emsp; (Optional) Amiri et al. [Permissioned Blockchains: Properties, Techniques and Applications](https://www.seas.upenn.edu/~mjamiri/papers/permissionedblockchains.pdf).|
 | Week 9 | Spring Recess |
 | Week 8 | Slides: [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf)  <br/> Assigned reading: <br/> &emsp; - Topics covered in class from Chapter 15 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.<br/> &emsp; - Sections 5, 6.1, and 6.2 from Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019.|
