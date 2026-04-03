@@ -8,9 +8,9 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 12 | Slides: rest of Lecture 10, [Lecture 11](./lecture11.pdf)  <br/> Assigned reading (only what we covered in class): <br/> &emsp; - Buterin [An Incomplete Guide to Rollups,](https://vitalik.eth.limo/general/2021/01/05/rollup.html). <br/> &emsp; Almashaqbeh et. al [MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/pdf/1911.08520).|
-| Week 11 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf)  <br/> Assigned reading: <br/> &emsp; Topic covered within sections 4.1 - 4.4 from [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf).|
-| Week 10 | Slides: rest of Lecture 8, [Lecture 9](./lecture9.pdf)  <br/> Assigned reading: <br/> &emsp; (Optional) Amiri et al. [Permissioned Blockchains: Properties, Techniques and Applications](https://www.seas.upenn.edu/~mjamiri/papers/permissionedblockchains.pdf).|
+| Week 12 | Slides: rest of Lecture 10, [Lecture 11](./lecture11.pdf)  <br/> Assigned reading (only what we covered in class): <br/> &emsp; - Buterin [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html). <br/> &emsp; - Almashaqbeh et. al [MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/pdf/1911.08520).|
+| Week 11 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf)  <br/> Assigned reading: <br/> &emsp; - Topic covered within sections 4.1 - 4.4 from [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf).|
+| Week 10 | Slides: rest of Lecture 8, [Lecture 9](./lecture9.pdf)  <br/> Assigned reading: <br/> &emsp; - (Optional) Amiri et al. [Permissioned Blockchains: Properties, Techniques and Applications](https://www.seas.upenn.edu/~mjamiri/papers/permissionedblockchains.pdf).|
 | Week 9 | Spring Recess |
 | Week 8 | Slides: [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf)  <br/> Assigned reading: <br/> &emsp; - Topics covered in class from Chapter 15 from [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc) book.<br/> &emsp; - Sections 5, 6.1, and 6.2 from Bano et al. [SoK: Consensus in the Age of Blockchains,](https://smeiklej.com/files/aft19a.pdf) in AFT 2019.|
 | Week 7 | Slides, rest of Lecture 7. Midterm Test 1 on Thursday's class.|
