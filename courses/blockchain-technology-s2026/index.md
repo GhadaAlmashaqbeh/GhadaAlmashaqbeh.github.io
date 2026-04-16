@@ -8,6 +8,8 @@ Lecture slides and assigned reading (syllabus, assignments, announcements, etc.,
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 15 | Term project presentations.|
+| Week 14 | Slides: rest of Lecture 11, [Lecture 12](./lecture12.pdf).|
 | Week 13 | Slides: rest of Lecture 11. Midterm Test 2 on Thursday's class.|
 | Week 12 | Slides: rest of Lecture 10, [Lecture 11](./lecture11.pdf)  <br/> Assigned reading (only what we covered in class): <br/> &emsp; - Buterin [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html). <br/> &emsp; - Almashaqbeh et. al [MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/pdf/1911.08520).|
 | Week 11 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf)  <br/> Assigned reading: <br/> &emsp; - Topic covered within sections 4.1 - 4.4 from [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf).|
