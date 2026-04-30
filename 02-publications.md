@@ -17,7 +17,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
-* Parasol Compiler: Pushing the Boundaries of FHE Program EfficiencyIn _<span style="font-family: Georgia, serif; font-weight: 599">SP 2026</span>_<br/>
+* Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency. In _<span style="font-family: Georgia, serif; font-weight: 599">SP 2026</span>_<br/>
   <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span> &emsp; [PDF](https://eprint.iacr.org/2025/1144.pdf)<br/>
 
 * Adversary Resilient Learned Bloom Filters. In _<span style="font-family: Georgia, serif; font-weight: 599">Asiacrypt 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
