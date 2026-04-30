@@ -19,11 +19,13 @@ layout: default
 </div>
 
 
-I am an assistant professor in the School of Computing at UConn. I am also affiliated with the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis, and I was a Cryptographer at NuCypher. Also, I was an advisor at the Melon, a 2023 Foresight Institute fellow, and a 2023 TLDR fellow at Uniswap Foundation. Now, I am a scientific advisor at Sunscreen. 
+I am an assistant professor in the School of Computing at UConn. I am also affiliated with the Connecticut Advanced Computing Center (CACC) and the Engineering for Human Rights Initiative. Before joining UConn, I spent a while exploring the entrepreneurship world. I cofounded CacheCash, a startup that came out of my PhD thesis, and I was a Cryptographer at NuCypher. Also, I was an advisor for the Melon and Sunscreen, a 2023 Foresight Institute fellow, and a 2023 TLDR fellow at Uniswap Foundation. 
 
 I received my PhD in Computer Science from Columbia University in 2019, where I was a member of the Cryptography Lab and the Data Science Institute. During the PhD, I was fortunate to have Allison Bishop and Tal Malkin as my advisors. 
+ 
+My research lies at the intersection of cryptography, systems security, and privacy, with a primary focus on distributed cryptographic protocols,  privacy-preserving computing, and blockchain-based systems. A central theme of my work is bridging theory and practice; I design secure and efficient systems and protocols that connect rigorous cryptographic foundations with real-world applications, particularly in decentralized and heterogeneous environments.
 
-My [research interests](/research/) cover cryptography, computer systems security, and privacy, with a focus on blockchain-based systems and distributed cryptographic protocols. My research is supported by NSF, Protocol Labs, Uniswap Foundation, and UConn Research Excellence Award.
+My research is supported by NSF, Protocol Labs, Uniswap Foundation, and UConn Research Excellence Award.
 
 <br/>
 

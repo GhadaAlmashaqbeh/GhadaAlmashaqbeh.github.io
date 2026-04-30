@@ -1,13 +1,8 @@
----
-layout: page
-title: Research
-permalink: /research/
----
 
 
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Research</h4>
 
-My research interests span cryptography, computer security, and privacy with a large focus on blockchain-based systems and distributed protocols. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
+My research interests span cryptography, computer security, and privacy with a focus on distributed cryptographic protocols, private computing, and blockchain-based systems. Broadly, I work on interdisciplinary projects that combine knowledge from various fields toward the design of secure and efficient systems and protocols. In my research, I look for real life problems and build solutions backed by rigorous theoretical foundations as well as efficient implementations and thorough performance testing. I also work on conceptual projects that aim to bridge the gap between theory and practice of cryptography. 
 <br/>
 <br/>
 

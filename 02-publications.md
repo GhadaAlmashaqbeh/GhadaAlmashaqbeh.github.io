@@ -14,11 +14,11 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * chainScale: Secure Functionality-oriented Scalability for Decentralized Resource Markets<br/> <span style="color:grey; font-size:15px;">M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://arxiv.org/pdf/2509.20356)<br/>
 
-* Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency<br/>
-  <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span> &emsp; [PDF](https://eprint.iacr.org/2025/1144.pdf)<br/>
-
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
+
+* Parasol Compiler: Pushing the Boundaries of FHE Program EfficiencyIn _<span style="font-family: Georgia, serif; font-weight: 599">SP 2026</span>_<br/>
+  <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span> &emsp; [PDF](https://eprint.iacr.org/2025/1144.pdf)<br/>
 
 * Adversary Resilient Learned Bloom Filters. In _<span style="font-family: Georgia, serif; font-weight: 599">Asiacrypt 2025</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and H. Tirmazi</span> &emsp; [PDF](https://eprint.iacr.org/2024/754.pdf)<br/>
 
@@ -52,7 +52,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * MicroCash: Practical Concurrent Processing of Micropayments. In _<span style="font-family: Georgia, serif; font-weight: 599">FC 2020 (Financial Cryptography and Data Security)</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</span> &emsp; [PDF](https://arxiv.org/abs/1911.08520)<br/>
   
-* CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks. In _<span style="font-family: Georgia, serif; font-weight: 599">IEEE CNS 2019</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, K. Kelley, A. Bishop, and J. Cappos</span> &emsp; [PDF](https://arxiv.org/abs/1906.10272)<br/>
+* CAPnet: A Defense Against Cache Accounting Attacks on Content Distribution Networks. In _<span style="font-family: Georgia, serif; font-weight: 599">IEEE CNS 2019 (Communications and Network Security)</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, K. Kelley, A. Bishop, and J. Cappos</span> &emsp; [PDF](https://arxiv.org/abs/1906.10272)<br/>
 
 * ABC: A Cryptocurrency-Focused Threat Modeling Framework. In _<span style="font-family: Georgia, serif; font-weight: 599">CryBlock 2019</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh, A. Bishop, and J. Cappos</span> &emsp; [PDF](https://arxiv.org/abs/1903.03422)<br/>
 
