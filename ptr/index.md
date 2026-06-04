@@ -10,6 +10,6 @@ layout: default
 
 [Teaching Statment](./almashaqbehTeachingState.pdf)
 
-Papers: [Parasol SP 2026](./paperOne.pdf), [chainBoost EuroSP 2024](./paperTwo.pdf), [Polymers and Cryptography Eurocrypt 2022](./paperThree.pdf)
+Selected Papers: (1) [Parasol SP 2026](./paperOne.pdf), (2) [chainBoost EuroSP 2024](./paperTwo.pdf), (3) [Polymers and Cryptography Eurocrypt 2022](./paperThree.pdf)
 
 
