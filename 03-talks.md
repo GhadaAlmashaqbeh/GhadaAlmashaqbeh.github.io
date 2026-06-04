@@ -7,12 +7,12 @@ permalink: /activities/
 <h4 style="font-family: 'Comic Sans MS'; margin-top: -30px;">Professional Activities</h4>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Organizing Committee Member</div>
-**2027:** S&P - Workshops Co-chair <br/>
-**2026:** S&P - Workshops Co-chair <br/>
-**2025:** S&P - DEI chair <br/>
+**2027:** S&P - Workshops Chair <br/>
+**2026:** S&P - Workshops Chair <br/>
+**2025:** S&P - DEI Chair <br/>
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Program Committee Member</div>
-**2027:** S&P <br/>
+**2027:** Eurocrypt, S&P <br/>
 **2026:** S&P, CCS, Usenix Security, FC <br/>
 **2025:** CCS, PETS, EuroS&P, FC, AsiaCCS <br/>
 **2024:** CCS, PETS, EuroS&P, FC, ISC, NESD <br/>
