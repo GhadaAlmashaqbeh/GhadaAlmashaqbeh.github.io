@@ -8,7 +8,7 @@ Lecture slides (check HuskyCT for syllabus, assignments, announcements, etc.).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
-| Week 7 | Slides: rest of lecture 6, [Lecture 7](./lecture7.pdf)|, midterm test 1 on Thursday.
+| Week 7 | Slides: rest of lecture 6, [Lecture 7](./lecture7.pdf), midterm test 1 on Thursday.
 | Week 6 | Slides: rest of lecture 5, [Lecture 6](./lecture6.pdf)|
 | Week 5 | Slides: rest of lecture 4, [Lecture 5](./lecture5.pdf)|
 | Week 4 | Slides: rest of lecture 4 |
