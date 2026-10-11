@@ -25,6 +25,9 @@ permalink: /activities/
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Talks</div> 
 
+*Cryptographic Techniques for Privacy and Security in the Age of A(G)I* &emsp; [_Slides_](../slides/forsight-AI-workshop-2026.pdf)<br/> 
+&emsp; Secure and Sovereign AI Workshop, Foresight Institute - Jul 2026
+
 *Anonymity in Decentralized Settings* &emsp; [_Slides_](../slides/anon-day-talk-2025.pdf)<br/> 
 &emsp; Anonymity Day, Columbia University - Apr 2025
 

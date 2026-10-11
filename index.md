@@ -25,7 +25,7 @@ I received my PhD in Computer Science from Columbia University in 2019, where I 
  
 My research interests span cryptography, systems security, and privacy, with a primary focus on distributed cryptographic protocols, privacy-preserving computing, and blockchain-based systems. A central theme of my work is bridging theory and practice; I design secure and efficient systems and protocols that connect rigorous cryptographic foundations with real-world applications, particularly in decentralized and heterogeneous settings.
 
-My research is supported by NSF, Protocol Labs, Uniswap Foundation, and UConn Research Excellence Award.
+My research is/was supported by NSF, DHS, Protocol Labs, Uniswap Foundation, and UConn Research Excellence Award.
 
 <br/>
 

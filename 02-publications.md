@@ -17,6 +17,9 @@ A selected set based on my current research interests. Check [here](https://scho
 
 <div style="font-family: 'Comic Sans MS'; font-size:17px; background-color:rgb(213, 216, 220);margin-bottom:6px;">Published</div> 
 
+* When Does Being Selfish Pay Off? Temporal Composability and Profitability in Selfish Mining. In _<span style="font-family: Georgia, serif; font-weight: 599">AFT 2026</span>_<br/>
+  <span style="color:grey; font-size:15px;">C. Finkbeiner, C. Shaw, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2026/1629.pdf)<br/>
+
 * Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency. In _<span style="font-family: Georgia, serif; font-weight: 599">SP 2026</span>_<br/>
   <span style="color:grey; font-size:15px;">R. Weber, R. Orendorff, G. Almashaqbeh, and R. Solomon</span> &emsp; [PDF](https://eprint.iacr.org/2025/1144.pdf)<br/>
 
@@ -26,7 +29,7 @@ A selected set based on my current research interests. Check [here](https://scho
 
 * ammBoost: State Growth Control for AMMs. In _<span style="font-family: Georgia, serif; font-weight: 599">DSN 2025</span>_<br/> <span style="color:grey; font-size:15px;">N. Michel, M. Najd, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2024/1021)<br/>
 
-* SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models. In _<span style="font-family: Georgia, serif; font-weight: 599">ICBC 2025</span>_, also presented at _<span style="font-family: Georgia, serif; font-weight: 599">SBC 2025</span>_<br/> <span style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2025/43)<br/>
+* SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models. In _<span style="font-family: Georgia, serif; font-weight: 599">ICBC 2025</span>_, also presented at _<span style="font-family: Georgia, serif; font-weight: 599">SBC 2025</span>_<br/> <span style="color:grey; font-size:15px;">C. Finkbeiner, M. Najd, J. Guskind, and G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2025/043)<br/>
 
 * Password-authenticated Cryptography from Consumable Tokens. In _<span style="font-family: Georgia, serif; font-weight: 599">CSCML 2024</span>_<br/> <span style="color:grey; font-size:15px;">G. Almashaqbeh</span> &emsp; [PDF](https://eprint.iacr.org/2024/1283)<br/>
 
