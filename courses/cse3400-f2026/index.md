@@ -8,6 +8,7 @@ Lecture slides (check HuskyCT for syllabus, assignments, announcements, etc.).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 9 | Slides: rest of Blockchains, [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf).
 | Week 8 | Slides: [Lecture 7](./lecture7.pdf), [Blockchains](./blockchains.pdf).
 | Week 7 | Slides: rest of lecture 6, midterm test 1 on Thursday.
 | Week 6 | Slides: rest of lecture 5, [Lecture 6](./lecture6.pdf)|
