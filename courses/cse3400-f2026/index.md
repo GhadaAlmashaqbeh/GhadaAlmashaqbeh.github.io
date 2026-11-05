@@ -8,6 +8,7 @@ Lecture slides (check HuskyCT for syllabus, assignments, announcements, etc.).
 
 | Week&emsp;&emsp;| Material           |
 |----------|--------------------|
+| Week 11 | Slides: rest of Lecture 10.
 | Week 10 | Slides: rest of Lecture 9, [Lecture 10](./lecture10.pdf).
 | Week 9 | Slides: rest of Blockchains, [Lecture 8](./lecture8.pdf), [Lecture 9](./lecture9.pdf).
 | Week 8 | Slides: [Lecture 7](./lecture7.pdf), [Blockchains](./blockchains.pdf).
